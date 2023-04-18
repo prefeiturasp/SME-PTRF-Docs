@@ -3,6 +3,7 @@ nav:
     - Início: index.md
     - Documentação:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
+          - 'Examples de uso': sigescola_docs/mkdocs_exemplos_uso.md
 theme:
     name: material
     language: pt-BR
