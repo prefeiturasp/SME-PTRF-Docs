@@ -1,0 +1,5 @@
+# Documentation
+mkdocs==1.4.2                       # Project documentation with Markdown.
+mkdocs-material==9.1.3              # Material theme for MkDocs.
+pymdown-extensions==9.11            # Extensions for Python Markdown.
+mkdocs-macros-plugin==0.7.0         # MkDocs with macros and variables
