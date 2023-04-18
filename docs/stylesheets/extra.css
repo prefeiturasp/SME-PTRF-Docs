@@ -1,0 +1,4 @@
+/* Center mermaid diagrams */
+div.mermaid {
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+site_name: MinhasHoras
+nav:
+    - Início: index.md
+    - Documentação:
+          - 'Sobre a documentação': sigescola_docs/docs_project.md
+theme:
+    name: material
+    language: pt-BR
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+    - macros
+    - search
+
+markdown_extensions:
+    - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.tasklist
+    - pymdownx.tilde
+    - pymdownx.caret
+    - pymdownx.mark
+    - admonition
+
+extra:
+    group_test:
+        test_macro: Teste de macro. Esse texto veio de uma macro.
