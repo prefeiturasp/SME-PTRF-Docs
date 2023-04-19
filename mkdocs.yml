@@ -1,9 +1,25 @@
 site_name: SigEscola.docs
 nav:
     - Início: index.md
+    - O PTRF: ptrf.md
+    - Termos e Conceitos: termos_conceitos.md
+    - Funcionalidades:
+          - 'UE':
+                - 'Funcionalidade X': funcionalidades/ue/funcionalidade_x.md
+                - 'Funcionalidade Y': funcionalidades/ue/funcionalidade_y.md
+          - 'DRE':
+                - 'Funcionalidade A': funcionalidades/dre/funcionalidade_a.md
+          - 'SME':
+                - 'Funcionalidade B': funcionalidades/sme/funcionalidade_b.md
     - Documentação:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
           - 'Examples de uso': sigescola_docs/mkdocs_exemplos_uso.md
+    - O projeto:
+        - 'Visão geral': vazia.md
+        - 'Acordo de trabalho': vazia.md
+    - Informações Técnicas:
+        - 'API': vazia.md
+
 theme:
     name: material
     language: pt-BR
