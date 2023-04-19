@@ -15,7 +15,8 @@ nav:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
           - 'Examples de uso': sigescola_docs/mkdocs_exemplos_uso.md
     - O projeto:
-        - 'Visão geral': vazia.md
+        - 'Visão geral': projeto/visao_geral_projeto.md
+        - 'Guia de contribuição': projeto/guia_contribuicao.md
         - 'Acordo de trabalho': vazia.md
     - Informações Técnicas:
         - 'API': vazia.md
