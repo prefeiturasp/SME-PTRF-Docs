@@ -86,7 +86,7 @@ O Visual Studio Code possui recursos nativos para trabalhar com o Git, facilitan
 ### Git Push
 
 1. Após realizar o commit, clique nos três pontos (⋯) no canto superior direito da aba "Source Control".
-2. No menu que aparece, selecione "Push" para enviar suas alterações para o repositório remoto. Isso é equivalente a executar o comando `git push`.
+2. No menu que aparece, selecione "enviar por Push" para enviar suas alterações para o repositório remoto. Isso é equivalente a executar o comando `git push`.
 
 Utilizando o recurso nativo do Visual Studio Code para trabalhar com o Git, você pode se concentrar na documentação sem precisar lidar com a linha de comando.
 
