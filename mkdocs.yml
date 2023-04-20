@@ -14,6 +14,7 @@ nav:
     - Documentação:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
           - 'Examples de uso': sigescola_docs/mkdocs_exemplos_uso.md
+          - 'Como colaborar': sigescola_docs/como_colaborar_docs.md
     - O projeto:
         - 'Visão geral': projeto/visao_geral_projeto.md
         - 'Guia de contribuição': projeto/guia_contribuicao.md
