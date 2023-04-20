@@ -23,6 +23,10 @@ nav:
         - 'API': vazia.md
         - 'Release Notes': projeto/release_notes.md
 
+extra:
+    group_test:
+        test_macro: Teste de macro. Esse texto veio de uma macro.
+
 theme:
     name: material
     language: pt-BR
@@ -48,7 +52,3 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.mark
     - admonition
-
-extra:
-    group_test:
-        test_macro: Teste de macro. Esse texto veio de uma macro.
