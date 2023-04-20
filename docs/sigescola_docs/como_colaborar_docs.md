@@ -68,6 +68,28 @@ Olá! Este é um guia passo a passo para ajudá-lo a colaborar na documentação
     git push
     ```
 
+## Usando o VSCode para enviar suas mudanças
+
+O Visual Studio Code possui recursos nativos para trabalhar com o Git, facilitando a execução de comandos como `git add`, `git commit` e `git push`. Veja como realizar essas ações usando a interface do Visual Studio Code:
+
+### Git Add
+
+1. Abra a aba "Controle do Código-Fonte" no painel lateral esquerdo do Visual Studio Code (ícone de um círculo com uma ramificação).
+2. Você verá uma lista de arquivos modificados. Cada arquivo terá um símbolo "+" ao lado.
+3. Clique no símbolo "+" ao lado de cada arquivo que deseja adicionar ao Git. Isso é equivalente a executar o comando `git add`.
+
+### Git Commit
+
+1. Depois de adicionar os arquivos desejados, digite uma mensagem de commit na caixa de texto no topo da aba "Source Control".
+2. Clique no ícone de "check" (✓) acima da caixa de texto ou pressione `Ctrl+Enter` (ou `Cmd+Enter` no macOS) para confirmar o commit. Isso é equivalente a executar o comando `git commit`.
+
+### Git Push
+
+1. Após realizar o commit, clique nos três pontos (⋯) no canto superior direito da aba "Source Control".
+2. No menu que aparece, selecione "Push" para enviar suas alterações para o repositório remoto. Isso é equivalente a executar o comando `git push`.
+
+Utilizando o recurso nativo do Visual Studio Code para trabalhar com o Git, você pode se concentrar na documentação sem precisar lidar com a linha de comando.
+
 ### Dicas Adicionais
 
 - Use o recurso de pesquisa na aba de extensões do Visual Studio Code para encontrar outros plugins úteis que podem ajudá-lo a trabalhar de forma mais eficiente com Git e GitHub.
