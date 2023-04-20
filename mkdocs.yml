@@ -20,6 +20,7 @@ nav:
         - 'Acordo de trabalho': vazia.md
     - Informações Técnicas:
         - 'API': vazia.md
+        - 'Release Notes': projeto/release_notes.md
 
 theme:
     name: material
