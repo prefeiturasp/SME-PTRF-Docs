@@ -1,5 +1,7 @@
 site_name: SigEscola.docs
 repo_url: https://github.com/prefeiturasp/SME-PTRF-Docs
+copyright: Prefeitura Municipal de São Paulo
+
 nav:
     - Início: index.md
     - O PTRF: ptrf.md
@@ -26,6 +28,9 @@ nav:
         - 'Hotfixes': projeto/hotfixes.md
 
 extra:
+    social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/prefeiturasp/SME-PTRF
     group_test:
         test_macro: Teste de macro. Esse texto veio de uma macro.
 
@@ -35,6 +40,7 @@ theme:
       - navigation.sections
       - navigation.expand
       - navigation.top
+      - navigation.footer
     palette:
 
       # Palette toggle for light mode
