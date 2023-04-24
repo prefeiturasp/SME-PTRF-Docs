@@ -36,7 +36,19 @@ theme:
       - navigation.expand
       - navigation.top
     palette:
-      primary: teal
+
+      # Palette toggle for light mode
+       - scheme: default
+         primary: teal
+         toggle:
+           icon: material/brightness-4
+           name: Modo Escuro
+
+      # Palette toggle for dark mode
+       - scheme: slate
+         toggle:
+           icon: material/brightness-7
+           name: Modo Claro
     language: pt-BR
 
 extra_css:
