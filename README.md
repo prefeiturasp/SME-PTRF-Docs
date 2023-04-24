@@ -1,6 +1,7 @@
 # Projeto de Documentação do SigEscola
 
 [![Documentation Status](https://readthedocs.org/projects/sigescoladocs/badge/?version=latest)](https://sigescoladocs.readthedocs.io/pt/latest/?badge=latest)
+
 Este é o repositório da documentação do projeto SigEscola. 
 O objetivo deste repositório é gerenciar os arquivos que compõem a documentação e as configurações necessárias para a 
 geração da documentação.
