@@ -15,3 +15,5 @@ A documentação do SigEscola é gerada pelo [MkDocs](https://www.mkdocs.org/).
         index.md  # O arquivo de entrada da documentação.
         ...       # Outros arquivos de documentação.
 
+## Tema da Documentação
+O tema da documentação é o [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
