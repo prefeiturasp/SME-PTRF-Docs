@@ -1,4 +1,5 @@
 site_name: SigEscola.docs
+repo_url: https://github.com/prefeiturasp/SME-PTRF-Docs
 nav:
     - Início: index.md
     - O PTRF: ptrf.md
@@ -30,6 +31,12 @@ extra:
 
 theme:
     name: material
+    features:
+      - navigation.sections
+      - navigation.expand
+      - navigation.top
+    palette:
+      primary: teal
     language: pt-BR
 
 extra_css:
