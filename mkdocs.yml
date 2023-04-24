@@ -41,11 +41,12 @@ theme:
        - scheme: default
          primary: teal
          toggle:
-           icon: material/brightness-4
+           icon: material/weather-night
            name: Modo Escuro
 
       # Palette toggle for dark mode
        - scheme: slate
+         primary: teal
          toggle:
            icon: material/brightness-7
            name: Modo Claro
