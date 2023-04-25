@@ -2,6 +2,10 @@
 
 ## Back-end
 
+### 7.1.1 - 25/04/2023 - Soluções de bugs urgentes durante a sprint 64
+* (91941) Corrige erro ao redefinir senha
+* (92293) Corrige gravação ação associação errada transferência eol
+
 ### 7.0.2 - 10/04/2023 - Soluções de bugs urgentes durante a sprint 63
 * (89801) Corrige Impossível deletar despesa rascunho
 
