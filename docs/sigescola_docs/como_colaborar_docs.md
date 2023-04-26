@@ -26,10 +26,16 @@ Olá! Este é um guia passo a passo para ajudá-lo a colaborar na documentação
 
 3. Instale as dependências do projeto:
 
+   Linux ou MacOS:
+       
     ```bash
     pip install -r requirements.txt
     ```
-   
+    Windows:
+       
+    ```bash
+    py -m pip install -r requirements.txt
+    ```  
 
 ## Editando a Documentação
 
@@ -41,10 +47,18 @@ Olá! Este é um guia passo a passo para ajudá-lo a colaborar na documentação
 
 1. Abra o terminal e navegue até a pasta do repositório.
 2. Execute o seguinte comando:
-    
+
+   Linux ou MacOS:
+   
     ```bash
     mkdocs serve
     ```
+   Windows:
+   
+    ```bash
+    py -m mkdocs serve
+    ```
+
 
 3. Abra seu navegador e acesse http://127.0.0.1:8000 para visualizar suas alterações.
 

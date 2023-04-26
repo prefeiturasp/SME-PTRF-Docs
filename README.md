@@ -12,7 +12,7 @@ A documentação é gerada com base nos arquivos markdown usando a ferramenta [M
 
 Você pode encontrar mais informações sobre o projeto e instruções detalhadas sobre como colaborar com a documentação 
 na própria 
-[documentação do SigEscola](https://sigescoladocs.readthedocs.io/en/latest/). 
+[documentação do SigEscola](https://sigescoladocs.readthedocs.io/pt/latest/). 
 
 
 ## Ferramentas Utilizadas
