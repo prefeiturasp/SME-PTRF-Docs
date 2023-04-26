@@ -63,26 +63,47 @@ Olá! Este é um guia passo a passo para ajudá-lo a colaborar na documentação
 ## Enviando suas Alterações
 
 1. Abra o terminal e navegue até a pasta do repositório.
-2. Adicione as alterações ao Git:
+2. Verifique se há alterações no repositório remoto:
+
+    ```bash
+    git pull
+    ```
+   
+3. Adicione as alterações ao Git:
 
     ```bash
     git add .
     ```
 
-3. Faça um commit das alterações:
+4. Faça um commit das alterações:
     
     ```bash
     git commit -m "Mensagem descritiva das alterações"
     ```
-4. Envie as alterações para o repositório remoto:
+5. Envie as alterações para o repositório remoto:
     
     ```bash
     git push
     ```
 
+!!! warning "ATENÇÃO!"
+    Sempre certifique-se que o seu repositório local está atualizado com as últimas alterações do repositório remoto antes de iniciar suas alterações. 
+    Para isso, execute o comando `git pull` antes de começar suas mudanças.
+
+
 ## Usando o VSCode para enviar suas mudanças
 
 O Visual Studio Code possui recursos nativos para trabalhar com o Git, facilitando a execução de comandos como `git add`, `git commit` e `git push`. Veja como realizar essas ações usando a interface do Visual Studio Code:
+
+### Git Pull
+
+1. Abra a aba "Controle do Código-Fonte" no painel lateral esquerdo do Visual Studio Code (ícone de um círculo com uma ramificação).
+2. Clique nos três pontos (⋯) no canto superior direito da aba "Controle do Código-Fonte" e selecione "Pull" no menu suspenso. Isso é equivalente a executar o comando `git pull`.
+3. Isso atualizará seu repositório local com as alterações mais recentes do repositório remoto.
+
+!!! warning "ATENÇÃO!"
+    Sempre certifique-se que o seu repositório local está atualizado com as últimas alterações do repositório remoto antes de iniciar suas alterações. 
+    Para isso, execute o comando `git pull` antes de começar suas mudanças.
 
 ### Git Add
 
