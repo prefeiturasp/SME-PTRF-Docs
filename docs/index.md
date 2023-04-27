@@ -1,6 +1,6 @@
 # Bem vindo a documentação do SigEscola
 
-!!! danger "Documentação em construção"
+!!! danger "Documentação em construção!"
 	Essa documentação está em construção, e ainda está incompleta. 
     Algumas páginas estão com conteúdo apenas de exemplo, e muitas outras ainda não foram criadas.
 

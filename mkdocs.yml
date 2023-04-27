@@ -12,6 +12,7 @@ nav:
                 - 'Funcionalidade Y': funcionalidades/ue/funcionalidade_y.md
           - 'DRE':
                 - 'Funcionalidade A': funcionalidades/dre/funcionalidade_a.md
+                - 'Funcionalidade K': funcionalidades/dre/funcionalidade_k.md
           - 'SME':
                 - 'Funcionalidade B': funcionalidades/sme/funcionalidade_b.md
     - Documentação:
