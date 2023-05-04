@@ -2,9 +2,21 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-Versão: 7.1.0
+Versão: 8.0.0
 
 ## Release Notes
+
+### 8.0.0 - 04/05/2023 - Entregas da Release 8.0 - (Sprint 64)
+* SME > Agora é possível informar o encerramento de uma Associação.
+* SME > Consulta de Saldos Bancários agora ignora associações não iniciadas ou encerradas no período.
+* SME > Agora é possível informar o encerramento de uma Associação.
+* DRE > O Acompanhamento de Prestações de Contas agora ignora associações não iniciadas ou encerradas no período.
+* DRE > O Consolidados de Prestações de Contas agora ignora associações não iniciadas ou encerradas no período.
+* UE  > Créditos da Escola passa a não aceitar datas posteriores à data de encerramento em uma associação encerrada.
+* UE  > Gastos da Escola passa a não aceitar datas posteriores à data de encerramento em uma associação encerrada.
+* TEC > Node.js atualizado para a versão 11.15
+* GLO > 🐞 Correção de bugs.
+
 
 ### 7.1.0 - 18/05/2023 - Entregas da Release 7.1 - (Sprint 63)
 * DRE > Consolidado das PCs: No Demonstrativo/Consolidado a coluna Devolução ao Tesouro foi alterada para exibir o valor mesclado entre as contas
