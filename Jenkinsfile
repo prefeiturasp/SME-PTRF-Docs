@@ -40,6 +40,7 @@ pipeline {
             steps {
                 script{
                     withCredentials([file(credentialsId: "${kubeconfig}", variable: 'config')]){
+                       sh 'if [ -d "$home"/.kube/config" ]; then rm -f $home"/.kube/config; fi'
                        sh('cp $config '+"$home"+'/.kube/config')
                        sh "kubectl rollout restart deployment/ptrf-docs -n sme-ptrf"						
                        sh('rm -f '+"$home"+'/.kube/config')
