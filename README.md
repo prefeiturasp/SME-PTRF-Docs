@@ -1,7 +1,5 @@
 # Projeto de Documentação do SigEscola
 
-[![Documentation Status](https://readthedocs.org/projects/sigescoladocs/badge/?version=latest)](https://sigescoladocs.readthedocs.io/pt/latest/?badge=latest)
-
 Este é o repositório da documentação do projeto SigEscola. 
 O objetivo deste repositório é gerenciar os arquivos que compõem a documentação e as configurações necessárias para a 
 geração da documentação.
@@ -12,7 +10,7 @@ A documentação é gerada com base nos arquivos markdown usando a ferramenta [M
 
 Você pode encontrar mais informações sobre o projeto e instruções detalhadas sobre como colaborar com a documentação 
 na própria 
-[documentação do SigEscola](https://sigescoladocs.readthedocs.io/pt/latest/). 
+[documentação do SigEscola](https://sig-escola.sme.prefeitura.sp.gov.br/docs/). 
 
 
 ## Ferramentas Utilizadas
