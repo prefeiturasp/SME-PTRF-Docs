@@ -2,6 +2,10 @@
 
 ## Back-end
 
+### 8.0.1 - 11/05/2023 - Soluções de bugs urgentes durante a sprint 65
+* (92602) Aumenta o número de caracteres do campo cargo educação da tabela de membro da associação.
+* (91797) Corrige geração da prévia do consolidado da PCs apagando pŕevias anteriores.
+
 ### 7.1.1 - 25/04/2023 - Soluções de bugs urgentes durante a sprint 64
 * (91941) Corrige erro ao redefinir senha
 * (92293) Corrige gravação ação associação errada transferência eol
@@ -218,6 +222,9 @@
 * Correção de erro de timeout na geração de prévias
 
 ## Frontend
+
+### 8.0.1 - 11/05/2023 - Soluções de bugs urgentes durante a sprint 65
+* (93028) Corrige o botão de registro de despesa para não permitir múltiplos acionamentos durante a gravação de uma despesa. 
 
 ### 7.0.1 - 10/04/2023 - Soluções de bugs urgentes durante a sprint 63
 * (91116) Corrige Geração do consolidado DRE está apresentando loanding perpertuo até atualizar a página
