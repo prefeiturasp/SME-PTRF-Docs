@@ -2,6 +2,10 @@
 
 ## Back-end
 
+### 8.0.2 - 17/05/2023 - Soluções de bugs urgentes durante a sprint 65
+* (93018) Corrige no Consolidados das PCs o bloco de publicação parcial que não era exibido no Front
+* (93760) Corrige o filtro dos períodos para PCs
+
 ### 8.0.1 - 11/05/2023 - Soluções de bugs urgentes durante a sprint 65
 * (92602) Aumenta o número de caracteres do campo cargo educação da tabela de membro da associação.
 * (91797) Corrige geração da prévia do consolidado da PCs apagando pŕevias anteriores.
@@ -222,6 +226,9 @@
 * Correção de erro de timeout na geração de prévias
 
 ## Frontend
+
+### 8.0.2 - 17/05/2023 - Soluções de bugs urgentes durante a sprint 65
+* (93760) Corrige busca de períodos em PCs e Geração de Documentos
 
 ### 8.0.1 - 11/05/2023 - Soluções de bugs urgentes durante a sprint 65
 * (93028) Corrige o botão de registro de despesa para não permitir múltiplos acionamentos durante a gravação de uma despesa. 
