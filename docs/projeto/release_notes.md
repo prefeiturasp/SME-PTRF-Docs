@@ -2,9 +2,31 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-Versão: 8.0.0
+Versão: 8.1.0
 
 ## Release Notes
+
+### 8.1.0 - 22/05/2023 - Entregas da Release 8.1 - (Sprint 65)
+* UE > Resumo de Recursos/Análise DRE agora exibem períodos que estejam sem encerramento da associação.
+* UE > Conciliação Bancária agora exibem períodos que estejam sem encerramento da associação.
+* UE > Dados da associação permitem edição até a publicação da PC quando a associação estiver encerrada.
+* UE > Gastos da escola agora Exibem tags informativas/legenda relacionadas com as despesas.
+* SME/DRE > Suporte às unidades exibem destaque nas associações encerradas.
+* DRE > Associações exibem destaque nas associações encerradas.
+* SME > Parametrizações de Associações exibem destaque nas associações encerradas e não permitem edição.
+* SME > Parametrizações de Associações Alterado tipo do campo Observação para textarea.
+* Admin > Arquivos de carga de repasses realizados validam período inicial e encerramento das associações.
+* Admin > Arquivos de carga de período inicial validam período inicial e encerramento das associações.
+* Admin > Arquivos de carga de repasses previstos validam encerramento das associações.
+* Admin > Arquivos de carga de associações validam encerramento das associações.
+* Admin > Arquivos de carga de repasses previstos SME validam período inicial e encerramento das associações.
+* Admin > Arquivos de carga de devoluções ao tesouro validam período inicial e encerramento das associações.
+* TEC > Python atualizado da versão 3.8.16 para a versão 3.9.16
+* TEC > Monitoramento de atualizações de dependências.
+* TEC > Implementado documentação da API (Swagger e Redoc).
+* TEC > Django atualizado da versão 2.2.28 para a versão 3.0.14
+* TEC > Migração da documentação do projeto que estava no ReadTheDocs para infra da SME.
+* GLO > 🐞 Correção de bugs.****
 
 ### 8.0.0 - 04/05/2023 - Entregas da Release 8.0 - (Sprint 64)
 * SME > Agora é possível informar o encerramento de uma Associação.
