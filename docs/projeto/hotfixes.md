@@ -2,6 +2,10 @@
 
 ## Back-end
 
+### 8.1.1 - 26/05/2023 - Soluções de bugs urgentes durante a sprint 66
+* (94711) Corrige permissões na API do relatório consolidado
+* (91768) Corrige filtro de periodo seguinte na prestação de contas
+
 ### 8.0.2 - 17/05/2023 - Soluções de bugs urgentes durante a sprint 65
 * (93018) Corrige no Consolidados das PCs o bloco de publicação parcial que não era exibido no Front
 * (93760) Corrige o filtro dos períodos para PCs
@@ -226,6 +230,10 @@
 * Correção de erro de timeout na geração de prévias
 
 ## Frontend
+
+### 8.1.1 - 26/05/2023 - Soluções de bugs urgentes durante a sprint 66
+* (94556) Corrige validação das datas da despesa
+* (95182) Corrige validação para bloqueiar formulário de membros
 
 ### 8.0.2 - 17/05/2023 - Soluções de bugs urgentes durante a sprint 65
 * (93760) Corrige busca de períodos em PCs e Geração de Documentos
