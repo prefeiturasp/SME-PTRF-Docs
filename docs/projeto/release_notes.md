@@ -2,9 +2,24 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-Versão: 8.1.0
+Versão: 8.2.0
 
 ## Release Notes
+
+### 8.2.0 - 05/06/2023 - Entregas da Release 8.2 - (Sprint 66)
+* UE > Análises Dre: Agora o botão "Ir para concluir acerto" só é exibido na devolução mais recente de uma PC
+* UE > Gastos da Escola: Agora são exibidas etiquetas de informação para identificar despesas não reconhecidas e/ou sem comprovação fiscal
+* UE > Gastos da Escola: Agora é possível ordenar as despesas
+* UE > Conciliação bancária: Agora a conciliação exibe uma nova coluna as etiquetas informativas das despesas
+* UE > Conciliação bancária: Agora são exibidas etiquetas de informação para as despesas conciliadas e não conciliadas
+* UE > Conciliação bancária: Agora é possível ordenar as despesas
+* DRE > Acompanhamento de PCs: Agora só é possível devolver uma PC se houver ao menos uma solicitação de acerto
+* DRE > Consolidado das PCs: A ata de apresentação de parecer técnico conclusivo agora exibe as UEs em ordem alfabética
+* SME > Cadastro de Associações: Agora o período inicial é de preenchimento obrigatório e só pode ser alterado se não houver movimentações
+* SME > Cadastro de Ações de Associações: Agora não é possível selecionar uma associação encerrada
+* SME > Cadastro de Ações: Ver UEs vinculadas: Agora é exibida uma etiqueta identificando associações encerradas
+* SME > Consulta de Saldos Bancários: Agora exibe o nome completo da DRE e da UE
+* GLO > Central de Downloads: Alteração no texto de exibição da quantidade de arquivos exibidos
 
 ### 8.1.0 - 22/05/2023 - Entregas da Release 8.1 - (Sprint 65)
 * UE > Resumo de Recursos/Análise DRE agora exibem períodos que estejam sem encerramento da associação.
