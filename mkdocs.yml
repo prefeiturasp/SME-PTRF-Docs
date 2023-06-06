@@ -8,13 +8,14 @@ nav:
     - Termos e Conceitos: termos_conceitos.md
     - Funcionalidades:
           - 'UE':
-                - 'Funcionalidade X': funcionalidades/ue/funcionalidade_x.md
-                - 'Funcionalidade Y': funcionalidades/ue/funcionalidade_y.md
+                - 'Gastos da Escola': funcionalidades/ue/Gastos da Escola.md
           - 'DRE':
                 - 'Funcionalidade A': funcionalidades/dre/funcionalidade_a.md
-                - 'Funcionalidade K': funcionalidades/dre/funcionalidade_k.md
           - 'SME':
-                - 'Funcionalidade B': funcionalidades/sme/funcionalidade_b.md
+            - 'Parametrizações':
+                - 'Associações': funcionalidades/sme/Associações.md
+          - 'Geral':
+                - 'Gestão de Usuários': funcionalidades/Geral/Gestão de Usuários.md
     - Documentação:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
           - 'Exemplos de uso': sigescola_docs/mkdocs_exemplos_uso.md
