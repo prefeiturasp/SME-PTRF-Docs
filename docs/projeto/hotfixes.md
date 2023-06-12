@@ -235,6 +235,10 @@
 
 ## Frontend
 
+### 8.1.2 - 12/06/2023 - Soluções de bugs urgentes durante a sprint 67
+* (93550) Corrige seleção incorreta de unidade após encerrar suporte em navegador ou computador diferente
+* (96131) Corrige cadastro de despesas que não considerava completa despesa sem documento no caso de despesa não reconhecida.
+
 ### 8.1.1 - 26/05/2023 - Soluções de bugs urgentes durante a sprint 66
 * (94556) Corrige validação das datas da despesa
 * (95182) Corrige validação para bloqueiar formulário de membros
