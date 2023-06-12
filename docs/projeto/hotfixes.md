@@ -2,6 +2,10 @@
 
 ## Back-end
 
+### 8.1.2 - 12/06/2023 - Soluções de bugs urgentes durante a sprint 67
+* (93404) Corrige problema no acesso de suporte
+* (95108) Corrige problema na reabertura de período
+
 ### 8.1.1 - 26/05/2023 - Soluções de bugs urgentes durante a sprint 66
 * (94711) Corrige permissões na API do relatório consolidado
 * (91768) Corrige filtro de periodo seguinte na prestação de contas
