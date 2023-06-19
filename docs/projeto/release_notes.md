@@ -2,9 +2,17 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-Versão: 8.2.0
+Versão: 8.3
 
 ## Release Notes
+
+### 8.3.0 - 19/06/2023 - Entregas da Release 8.3 - (Sprint 67)
+* UE > Prestação de Contas: Agora só é possível concluir um período se todos os dados da Associação e Conciliação estiverem completos
+* UE > Dados da Associação: Abas com informações incompletas agora são destacadas com um icone vermelho
+* UE > Conciliação Bancária: Agora indica que há campos incompletos que são necessários para a prestação de contas
+* UE > Atas: Agora é possível indicar a ausência de membros da associação
+* UE > Gastos da Escola: A legenda de etiquetas não exibe mais a eiqueta "Excluído".
+* ADM > Carga de Período Inicial: Agora valida o período inicial
 
 ### 8.2.0 - 05/06/2023 - Entregas da Release 8.2 - (Sprint 66)
 * UE > Análises Dre: Agora o botão "Ir para concluir acerto" só é exibido na devolução mais recente de uma PC
