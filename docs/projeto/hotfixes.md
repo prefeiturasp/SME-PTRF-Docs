@@ -2,7 +2,7 @@
 
 ## Back-end
 
-### 8.1.2 - 12/06/2023 - Soluções de bugs urgentes durante a sprint 67
+### 8.2.1 - 12/06/2023 - Soluções de bugs urgentes durante a sprint 67
 * (93404) Corrige problema no acesso de suporte
 * (95108) Corrige problema na reabertura de período
 
