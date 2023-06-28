@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.3.1 - 28/06/2023 - sprint 68
+* (97983) - Remove obrigatoriedade do email de unidade para geração de PC.
+
 ### 8.2.1 - 12/06/2023 - sprint 67
 * (93404) Corrige problema no acesso de suporte
 * (95108) Corrige problema na reabertura de período
