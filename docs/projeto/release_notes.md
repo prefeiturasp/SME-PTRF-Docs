@@ -2,6 +2,20 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.4.0 - 03/07/2023 - Sprint 68
+* UE > Prestação de Contas: As prévias do demonstrativo financeiro agora exibe uma marca d'água de "rascunho" e não apresenta mais o bloco de assinaturas
+* UE > Prestação de Contas: As prévias Relação de Bens agora exibe uma marca d'água de "rascunho" e não apresenta mais o bloco de autenticação
+* UE > Prestação de Contas: As prévias em tela das atas de apresentação e retificação agora exibem uma marca d'água de "rascunho"
+* UE > Prestação de Contas: O cálculo de uma PC devolvida agora recalcula os fechamentos mesmo que as solicitações de acerto que demandem alterações em movimentações financeiras não tenham sido realizados
+* UE > Prestação de Contas: O campo email da unidade não é mais obrigatório para a geração de uma PC
+* UE > Análise DRE: As prévias do relatório de apresentação após acerto agora exibem uma marca d'água de "rascunho"
+* DRE > Acompanhamento de PC: As prévias dos resumos de acertos agora exibem uma marca d'água de "rascunho"
+* DRE > Acompanhamento de PC: A devolução de uma PC agora apaga os fechamentos do período, caso as solicitações de acerto demandem alterações em movimentações financeiras
+* DRE > Acompanhamento de PC: Agora é possível inserir comentários em uma PC não apresentada
+* DRE > Consolidado de PC: As prévias dos demonstrativos financeiros agora exibem uma marca d'água de "rascunho"
+* SME > Prestações de Contas: As prévias dos relatórios de devoluções para acertos da DRE agora exibem uma marca d'água de "rascunho"
+* GLO > 🐞 Correção de bugs.
+
 ### 8.3.0 - 19/06/2023 - Sprint 67
 * UE > Prestação de Contas: Agora só é possível concluir um período se todos os dados da Associação e Conciliação estiverem completos
 * UE > Dados da Associação: Abas com informações incompletas agora são destacadas com um ícone vermelho
@@ -9,6 +23,7 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 * UE > Atas: Agora é possível indicar a ausência de membros da associação
 * UE > Gastos da Escola: A legenda de etiquetas não exibe mais a etiqueta "Excluído".
 * ADM > Carga de Período Inicial: Agora valida o período inicial
+* GLO > 🐞 Correção de bugs.
 
 ### 8.2.0 - 05/06/2023 - Sprint 66
 * UE > Análises Dre: Agora o botão "Ir para concluir acerto" só é exibido na devolução mais recente de uma PC
@@ -24,6 +39,7 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 * SME > Cadastro de Ações: Ver UEs vinculadas: Agora é exibida uma etiqueta identificando associações encerradas
 * SME > Consulta de Saldos Bancários: Agora exibe o nome completo da DRE e da UE
 * GLO > Central de Downloads: Alteração no texto de exibição da quantidade de arquivos exibidos
+* GLO > 🐞 Correção de bugs.
 
 ### 8.1.0 - 22/05/2023 - Sprint 65
 * UE > Resumo de Recursos/Análise DRE agora exibem períodos que estejam sem encerramento da associação.
@@ -45,7 +61,7 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 * TEC > Implementado documentação da API (Swagger e Redoc).
 * TEC > Django atualizado da versão 2.2.28 para a versão 3.0.14
 * TEC > Migração da documentação do projeto que estava no ReadTheDocs para infra da SME.
-* GLO > 🐞 Correção de bugs.****
+* GLO > 🐞 Correção de bugs.
 
 ### 8.0.0 - 04/05/2023 - Sprint 64
 * SME > Agora é possível informar o encerramento de uma Associação.
