@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.4.1 - 13/07/2023 - sprint 69
+* (99086) Corrige validação de rateios no formulário de despesa.
+
 ### 8.3.1 - 27/06/2023 - sprint 68
 * (95530) Corrige validação para edição no formulário de criar/editar associação
   
