@@ -2,6 +2,25 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.5.0 - 17/07/2023 - Sprint 69
+* UE > Dados da Associação agora exibe e-mail da unidade educacional desabilitado para edição
+* UE > Análise DRE agora exibe acerto para o comprovante do saldo da conta
+* UE > Análise DRE - Relatório de apresentação após acertos foi incluído informações sobre acerto para o comprovante do saldo da Conta
+* UE > Encerramento de conta bancária agora gera notificação automática para a associação quando a conta bancária estiver com saldo zerado
+* UE > Conciliação Bancária agora valida campo saldo reprogramado para exigir o comprovante de saldo de conta
+* DRE > Acompanhamento de PC - Conferência de Lançamentos foram Acrescentos filtros de pesquisa
+* DRE > Acompanhamento de PC - Conferência de Lançamentos foi incluído ordenamento das colunas
+* DRE > Acompanhamento de PC foi incluído acerto para o comprovante do saldo da Conta
+* DRE > Acompanhamento de PC - Relatório de devoluções para acertos foi incluído informações sobre acerto para o comprovante do saldo da Conta
+* DRE > Acompanhamento de PC - Materiais de referência agora exibi ata de apresentação e ata de retificação da Associação
+* DRE > Consolidado das PCs foi Alterado a mensagem de sucesso da justificativa de modal para toast message
+* SME > Parametrizações do sistema - tipos de conta
+* SME > Extração de dados - Prestações de contas - Devolução ao tesouro agora Exibe apenas o último registro de solicitação de devolução ao tesouro
+* SME/DRE/UE > Gestão de Usuários foi Alterada a consulta de Usuários
+* TEC > Monitoramento de atualizações de dependências.
+* TEC > Atualização de versão do ReactJS de 16.14.0 para 17.0.2
+* GLO > 🐞 Correção de bugs.
+
 ### 8.4.0 - 03/07/2023 - Sprint 68
 * UE > Prestação de Contas: As prévias do demonstrativo financeiro agora exibe uma marca d'água de "rascunho" e não apresenta mais o bloco de assinaturas
 * UE > Prestação de Contas: As prévias Relação de Bens agora exibe uma marca d'água de "rascunho" e não apresenta mais o bloco de autenticação
