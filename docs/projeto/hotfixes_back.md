@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.5.1 - 25/07/2023 - sprint 70
+* (99696) - Corrige monitoramento PC.
+
 ### 8.3.1 - 28/06/2023 - sprint 68
 * (97983) - Remove obrigatoriedade do email de unidade para geração de PC.
 
