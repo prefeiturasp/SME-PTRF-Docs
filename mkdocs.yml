@@ -8,7 +8,7 @@ nav:
     - Termos e Conceitos: termos_conceitos.md
     - Funcionalidades:
           - 'UE':
-                - 'Gastos da Escola': funcionalidades/ue/Gastos da Escola.md
+                - 'Despesas da Escola': funcionalidades/ue/Despesas da Escola.md
           - 'DRE':
                 - 'Funcionalidade A': funcionalidades/dre/funcionalidade_a.md
           - 'SME':
