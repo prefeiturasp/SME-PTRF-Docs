@@ -290,7 +290,7 @@ Notação:
 
 Resultado:
 
-!!! tip "Título do Alerta"
+!!! warning "Título do Alerta"
 	Algum alerta sobre o conteúdo. Apenas um exemplo.
     Mais uma linha de texto.
     Outra linha de texto.

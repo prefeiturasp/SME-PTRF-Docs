@@ -27,7 +27,10 @@ nav:
     - Informações Técnicas:
         - 'API': vazia.md
         - 'Release Notes': projeto/release_notes.md
-        - 'Hotfixes': projeto/hotfixes.md
+        - Hotfixes:
+            - 'Back': projeto/hotfixes_back.md
+            - 'Front': projeto/hotfixes_front.md
+
 
 extra:
     social:
