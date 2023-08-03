@@ -10,7 +10,7 @@ nav:
           - 'UE':
                 - 'Despesas da Escola': funcionalidades/ue/Despesas da Escola.md
           - 'DRE':
-                - 'Funcionalidade A': funcionalidades/dre/Acompanhamento de PC.md
+                - 'Acompanhamento de PC': funcionalidades/dre/Acompanhamento de PC.md
           - 'SME':
             - 'Parametrizações':
                 - 'Associações': funcionalidades/sme/Associações.md
@@ -20,6 +20,7 @@ nav:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
           - 'Exemplos de uso': sigescola_docs/mkdocs_exemplos_uso.md
           - 'Como colaborar': sigescola_docs/como_colaborar_docs.md
+          - 'Teste Automatizado': sigescola_docs/Teste Automatizado.md
     - O projeto:
         - 'Visão geral': projeto/visao_geral_projeto.md
         - 'Guia de contribuição': projeto/guia_contribuicao.md
