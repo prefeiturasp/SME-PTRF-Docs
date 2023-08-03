@@ -92,5 +92,5 @@ O tipo de documento "NFS-e" permite informar se teve/terá retenção de imposto
 
 **Cadastro de estorno vinculado com a despesa**
 
-O cadastro de estorno é permitido para despesas já cadastradas que possuam status de: Completo ou Rascunho. Qualquer que seja o motivo do estorno, este deve ser informado obrigatoriamente para o cadastro do estorno.
+O cadastro de estorno é permitido para despesas já cadastradas que possuam status de: Completo ou Rascunho e deve ser informada apenas a data que ocorreu o estorno. Qualquer que seja o motivo do estorno, este deve ser informado obrigatoriamente para o cadastro do estorno. Se houver um estorno cadastrado e se deseje acessar a partir da despesa, a opção disponível é Acessar estorno que permite efetuar a edição do estorno, caso necessário.
 
