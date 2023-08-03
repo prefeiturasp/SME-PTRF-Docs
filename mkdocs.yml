@@ -10,7 +10,7 @@ nav:
           - 'UE':
                 - 'Despesas da Escola': funcionalidades/ue/Despesas da Escola.md
           - 'DRE':
-                - 'Funcionalidade A': funcionalidades/dre/funcionalidade_a.md
+                - 'Funcionalidade A': funcionalidades/dre/Acompanhamento de PC.md
           - 'SME':
             - 'Parametrizações':
                 - 'Associações': funcionalidades/sme/Associações.md

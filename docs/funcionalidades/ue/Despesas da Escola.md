@@ -28,23 +28,27 @@ As despesas podem ter dois status a depender do preenchimento feito no cadastro/
 
 ## **Etiquetas informativas** ##
 
-As despesas recebem etiquetas informativas conforme a sua situação atual. As etiquetas e suas respectivas descrições são as seguintes:
+As despesas recebem etiquetas informativas conforme as informações do cadastro. As etiquetas e suas respectivas descrições são as seguintes:
 
 | Etiqueta   | Descrição| 
 |---------|-----------------------|
-| Antecipado      |  Data do pagamento anterior à data do documento.                    | 
-| Estornado     |  Despesa estornada.                    |   
-| Parcial     |  Parte da despesa paga com recursos próprios ou de mais de uma conta.                    |
-| Imposto     |  Despesa com recolhimento de imposto.                    |  
-| Imposto Pago     |  Imposto recolhido relativo a uma despesa de serviço.                    |
-| Não Reconhecida     |  Despesa não reconhecida pela associação.                    |
-| Sem comprovação fiscal |Despesa sem comprovação fiscal.                    |
-| Conciliada     |  Despesa com conciliação bancária realizada.                    |
-| Não conciliada     |  Despesa sem conciliação bancária realizada.                    |
+| Antecipado      |  Quando for informado na despesa data do pagamento anterior à data do documento.                    | 
+| Estornado     |  Quando for informado que a despesa possui estorno.                    |   
+| Parcial     | Quando for informado que parte da despesa é paga com recursos próprios ou de mais de uma conta.                    |
+| Imposto     |  Quando for informado que a despesa possui recolhimento de imposto.                    |  
+| Imposto Pago     |  Quando for informado que que a despesa possui imposto recolhido relativo a uma despesa de serviço.                    |
+| Não Reconhecida     |  Quando for informado que a despesa não é reconhecida pela associação.                    |
+| Sem comprovação fiscal |Quando for informado que a despesa é sem comprovação fiscal.                    |
+| Conciliada     |  Quando a despesa já possui conciliação bancária.                    |
+| Não conciliada     |  Quando a despesa não possui conciliação bancária.                    |
 
 **Exibição das etiquetas com cores:**
 
 ![Etiquetas informativas](../../imagens/Associação/etiquetas.png)
+
+**Exemplo de aplicação das etiquetas na Consulta de Despesas:**
+
+![Consulta de despesas com etiquetas informativas](../../imagens/Associação/etiquetas na consulta.png)
 
 **Ações para registro das despesas**
 
@@ -88,5 +92,5 @@ O tipo de documento "NFS-e" permite informar se teve/terá retenção de imposto
 
 **Cadastro de estorno vinculado com a despesa**
 
-O cadastro de estorno é permitido para despesas já cadastradas que possuam status de: Completo ou Rascunho.
+O cadastro de estorno é permitido para despesas já cadastradas que possuam status de: Completo ou Rascunho. Qualquer que seja o motivo do estorno, este deve ser informado obrigatoriamente para o cadastro do estorno.
 
