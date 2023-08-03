@@ -88,9 +88,15 @@ Ao fazer o cadastro de uma despesa deve ser considerado em qual ação a despesa
 
 O tipo de documento "NFS-e" permite informar se teve/terá retenção de imposto por parte da Associação. Ao confirmar a opção, são exibidos campos para preenchimento do imposto retido. É possível adicionar mais de um imposto retido, se for necessário.
 
+Inclusão de imposto retido:
+
 ![Cadastro de Imposto retido](../../imagens/Associação/impostos.png)
 
 **Cadastro de estorno vinculado com a despesa**
 
 O cadastro de estorno é permitido para despesas já cadastradas que possuam status de: Completo ou Rascunho e deve ser informada apenas a data que ocorreu o estorno. Qualquer que seja o motivo do estorno, este deve ser informado obrigatoriamente para o cadastro do estorno. Se houver um estorno cadastrado e se deseje acessar a partir da despesa, a opção disponível é Acessar estorno que permite efetuar a edição do estorno, caso necessário.
+
+**Cadastro de despesas com encerramento da associação**
+
+Quando houver o encerramento da associação não é permitido incluir ou editar despesas após a data de encerramento da associação. Nessa situação, se a Data do documento e a Data do pagamento informadas são datas posteriores a data de encerramento da associação não é permitido incluir ou editar a despesa. 
 
