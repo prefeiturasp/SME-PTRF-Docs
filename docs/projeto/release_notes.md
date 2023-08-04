@@ -2,6 +2,20 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.6.0 - 04/08/2023 - Sprint 70
+* UE > Encerramento de conta bancária agora é possível solicitar o encerramento
+* DRE > Encerramento de conta bancária agora é gerado uma notificação para a DRE sobre a solicitação de encerramento
+* DRE > Consulta por Associações agora exibe nova aba para Dados das contas
+* DRE > Acompanhamento de PC - Conferência de Lançamentos agora mantém estado de ordenamento
+* SME > Parametrizações do sistema - Motivos de rejeição para encerramento de conta bancária
+* SME > Parametrizações do sistema - Períodos de mandato
+* SME > Acompanhamento de PC - Alterado a exibição dos cards e colunas no resultado
+* SME > Extração de dados - Prestações de contas - Concatenar motivos
+* SME/DRE/UE > Gestão de Usuários foi alterada a inclusão/edição de Usuários
+* TEC > Monitoramento de atualizações de dependências.
+* TEC > Atualização de pacotes do front
+* GLO > 🐞 Correção de bugs.
+
 ### 8.5.0 - 17/07/2023 - Sprint 69
 * UE > Dados da Associação agora exibe e-mail da unidade educacional desabilitado para edição
 * UE > Análise DRE agora exibe acerto para o comprovante do saldo da conta
