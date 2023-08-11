@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.6.1 - 11/08/2023 - sprint 71
+* (93854) - Implementa atribuição de status na devolução do modelo de PC.
+
 ### 8.5.1 - 25/07/2023 - sprint 70
 * (99696) - Corrige monitoramento PC.
 
