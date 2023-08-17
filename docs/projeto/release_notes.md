@@ -2,6 +2,18 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.7.0 - 18/08/2023 - Sprint 71
+* UE > A consulta de contas agora exibe informações sobre negativa da solicitação de encerramento
+* UE > A consulta de contas agora exibe contas com encerramento aprovado em uma tabela de histórico de contas
+* UE > O cadastro de créditos não permitirá inclusão ou edição de lançamentos em contas encerradas
+* UE > O cadastro de gastos não permitirá inclusão ou edição de lançamentos em contas encerradas
+* UE > Agora a Conciliação Bancária, na seleção de contas, oculta contas encerradas antes do período de conciliação
+* UE > Agora o Resumo de Recursos, na seleção de contas, oculta contas encerradas antes do período consultado
+* UE > Usuários serão notificados quando suas solicitações de encerramento forem aprovadas ou negadas
+* UE > O Novo cadastro de membros da associação já permite a conulta do mantado e composição vigentes
+* DRE > Implementado o fluxo de aprovação ou rejeição de uma solicitação de encerramento
+* DRE > A consulta de contas de uma associação agora exibe contas com encerramento aprovado em uma tabela de histórico de contas
+
 ### 8.6.0 - 04/08/2023 - Sprint 70
 * UE > Encerramento de conta bancária agora é possível solicitar o encerramento
 * DRE > Encerramento de conta bancária agora é gerado uma notificação para a DRE sobre a solicitação de encerramento
