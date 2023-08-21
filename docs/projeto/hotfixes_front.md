@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.7.1 - 21/08/2023 - sprint 71
+* (100511) Não permite que uma PC em retificação volte para em análise.
+
 ### 8.4.1 - 13/07/2023 - sprint 69
 * (99086) Corrige validação de rateios no formulário de despesa.
 
