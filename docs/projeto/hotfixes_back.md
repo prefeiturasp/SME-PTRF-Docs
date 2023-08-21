@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.7.1 - 21/08/2023 - sprint 71 e 72
+* (100138) - Implementa actions no admin para correção de dados.
+* (99711) - Aprimora admin para correção de dados.
+* (99664) - Resolve Demonstrativo Financeiro não atualiza data e valor do extrato
+
 ### 8.6.1 - 11/08/2023 - sprint 71
 * (93854) - Implementa atribuição de status na devolução do modelo de PC.
 
