@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.7.2 - 22/08/2023 - sprint 72
+* (100511) Remove bloqueio para desfazer conclusão de uma PC que está em retificação.
+
 ### 8.7.1 - 21/08/2023 - sprint 71
 * (100511) Não permite que uma PC em retificação volte para em análise.
 
