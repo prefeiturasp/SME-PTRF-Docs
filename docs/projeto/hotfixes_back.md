@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.7.2 - 22/08/2023 - sprint 72
+* (100511) - Corrige problema ao desfazer conclusão de uma PC quando está em retificação.
+
 ### 8.7.1 - 21/08/2023 - sprint 71 e 72
 * (100138) - Implementa actions no admin para correção de dados.
 * (99711) - Aprimora admin para correção de dados.
