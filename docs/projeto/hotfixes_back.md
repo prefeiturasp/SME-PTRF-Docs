@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.7.3 - 28/08/2023 - sprint 72
+* (102412) - Conciliação Bancária: Retirar validação e obrigatoriedade de preenchimento dos campos do Saldo bancário da conta ao concluir acerto/período.
+
 ### 8.7.2 - 22/08/2023 - sprint 72
 * (100511) - Corrige problema ao desfazer conclusão de uma PC quando está em retificação.
 
