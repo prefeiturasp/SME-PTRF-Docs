@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.7.3 - 28/08/2023 - sprint 72
+* (102412) - Conciliação Bancária: Retirar validação e obrigatoriedade de preenchimento dos campos do Saldo bancário da conta ao concluir acerto/período.
+* (102417) - Corrige Encerramento de conta o fluxo novo está disponível para o usuário em produção, sem a devida conclusão do processo
+
 ### 8.7.2 - 22/08/2023 - sprint 72
 * (100511) Remove bloqueio para desfazer conclusão de uma PC que está em retificação.
 
