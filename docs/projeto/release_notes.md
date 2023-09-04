@@ -2,6 +2,29 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.8.0 - 04/09/2023 - Sprint 72
+
+* UE > Adição de ids ao cadastro de despesas para utilização de testes automatizados
+* UE > Adição de ids a lista de despesas para utilização de testes automatizados
+* UE > Agora a solicitação de encerramento de conta valida os valores reprogramados
+* UE > Agora a conciliação bancária valida se existe solicitação de encerramento para a conta
+* UE > Agora a geração de documentos da prestação de contas valida se a conta foi encerrada no período de geração
+* UE > Agora o Demonstrativo Financeiro da Conta exibe a informação de conta encerrada
+* UE > O Novo cadastro de membros da associação já permite a consulta do mandato e composição anteriores
+* UE > Adição e alteração de etiquetas aos gastos da escola
+* DRE > Agora o acompanhamento de prestação de contas valida se a conta foi encerrada no período analisado
+* DRE > Agora o resumo de acertos exibe o nome e período da associação
+* DRE > Agora a inclusão de acertos exibe o nome e período da associação
+* DRE > Agora ao incluir acertos de lançamentos em lote não será permitido acertos da categoria Devolução ao tesouro
+* DRE > Agora a consulta por associações exibe pendência de encerramento de conta
+* DRE > Agora a ata de parecer técnico utiliza a data da reunião na assinatura
+* SME/DRE/UE > Gestão de Usuários foi alterada a exclusão de Usuários
+* TEC > Monitoramento de atualizações de dependências
+* TEC > Atualização de pacotes do front
+* TEC > Django atualizado da versão 3.1.14 para a versão 3.2.20
+* GLO > Bloqueio de envio de e-mails fora do ambiente de produção
+* GLO > 🐞 Correção de bugs.
+
 ### 8.7.0 - 18/08/2023 - Sprint 71
 * UE > A consulta de contas agora exibe informações sobre negativa da solicitação de encerramento
 * UE > A consulta de contas agora exibe contas com encerramento aprovado em uma tabela de histórico de contas
@@ -10,7 +33,7 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 * UE > Agora a Conciliação Bancária, na seleção de contas, oculta contas encerradas antes do período de conciliação
 * UE > Agora o Resumo de Recursos, na seleção de contas, oculta contas encerradas antes do período consultado
 * UE > Usuários serão notificados quando suas solicitações de encerramento forem aprovadas ou negadas
-* UE > O Novo cadastro de membros da associação já permite a conulta do mantado e composição vigentes
+* UE > O Novo cadastro de membros da associação já permite a consulta do mandato e composição vigentes
 * DRE > Implementado o fluxo de aprovação ou rejeição de uma solicitação de encerramento
 * DRE > A consulta de contas de uma associação agora exibe contas com encerramento aprovado em uma tabela de histórico de contas
 
