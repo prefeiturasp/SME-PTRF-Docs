@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.8.1 - 05/09/2023 - sprint 73
+* (102970) - Consolidado das PCs: Demonstrativo da Execução Físico-Financeira: Alterar informação de Não houve movimentação financeira para Conta inativa
+* (102973) - Consolidado das PCs: Relatório Consolidado: Alterar informação de Não houve movimentação financeira para Conta inativa
+
 ### 8.7.3 - 28/08/2023 - sprint 72
 * (102412) - Conciliação Bancária: Retirar validação e obrigatoriedade de preenchimento dos campos do Saldo bancário da conta ao concluir acerto/período.
 
