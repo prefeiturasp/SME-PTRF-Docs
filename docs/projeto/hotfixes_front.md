@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.8.1 - 06/09/2023 - sprint 73
+* (102972): Permite saldo negativo nas informações de extrato da UE
+* (103047): Permite saldo negativo na análise de informações de extrato pela DRE
+  
 ### 8.7.3 - 28/08/2023 - sprint 72
 * (102412) - Conciliação Bancária: Retirar validação e obrigatoriedade de preenchimento dos campos do Saldo bancário da conta ao concluir acerto/período.
 * (102417) - Corrige Encerramento de conta o fluxo novo está disponível para o usuário em produção, sem a devida conclusão do processo
