@@ -1,6 +1,6 @@
 # Hotfixes aplicados no Fontend do projeto 
 
-### 8.8.1 - 06/09/2023 - sprint 73
+### 8.8.1 - 11/09/2023 - sprint 73
 * (102972): Permite saldo negativo nas informações de extrato da UE
 * (103047): Permite saldo negativo na análise de informações de extrato pela DRE
   
