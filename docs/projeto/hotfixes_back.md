@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.8.2 - 15/09/2023 - sprint 73
+* (102810) - Resolve caso de análise de lançamento sem lançamentos após cópia da análise anterior.
+* (103294) - Corrige a ordenação dos membros das atas de apresentação e retificação.
+
 ### 8.8.1 - 05/09/2023 - sprint 73
 * (102970) - Consolidado das PCs: Demonstrativo da Execução Físico-Financeira: Alterar informação de Não houve movimentação financeira para Conta inativa
 * (102973) - Consolidado das PCs: Relatório Consolidado: Alterar informação de Não houve movimentação financeira para Conta inativa
