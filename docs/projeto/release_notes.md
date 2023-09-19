@@ -2,8 +2,27 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.9.0 - 19/09/2023 - Sprint 73
+* UE > Em Dados da Associação não é mais permitido alterar informações de uma conta com solicitação de encerramento
+* UE > Em Dados da Associação: Contas da Associação, a mensagem exibida no caso de lista vazia passa a refletir a situação de não ter contas ou de todas estarem inativas.
+* UE > Em Conciliação Bancária, no formulário de saldo bançario, agora é exibida como informações a data de encerrameno de uma conta encerrada
+* UE > Em Conciliação Bancária, no formulário de saldo bançario, agora é possível informar um saldo negativo
+* UE > Na geração de documentos de uma PC passam a ser ignoradas contas iniciadas após o termino do período da prestação de contas
+* DRE > No Demonstrativo da Execução Físico-Financeira do Consolidado das PCs o texto "Não houve movimentação financeira" foi alterada para "Conta inativa"
+* DRE > No Demonstrativo da Execução Físico-Financeira do Consolidado das PCs foi incluída uma coluna com a quantidade de PCs retificadas
+* DRE > O Demonstrativo da Execução Físico-Financeira do Consolidado das PCs passa a não exibir contas criadas após o fim do período do relatório
+* DRE > O Demonstrativo da Execução Físico-Financeira do Consolidado das PCs agora exibe informação que determinada conta está encerrada
+* DRE > O Relatório Consolidado do Consolidado das PCs agora exibe informação que determinada conta está encerrada
+* DRE > No Relatório Consoliddao do Consolidado das PCs foi incluída uma coluna com a quantidade de PCs retificadas
+* DRE > O Relatório Consolidado do Consolidado das PCs passa a não exibir contas criadas após o fim do período do relatório
+* DRE > No Relatório Consolidado do Consolidado das PCs o texto "Não houve movimentação financeira" foi alterada para "Conta inativa"
+* DRE > Em Acompanhamento de PC, Materiais de referência, Extrato Bancário da Unidade passa a ser possível informar um saldo negativo no saldo corrigido
+* ADM > No cadastro de contas da associação as contas passam a ter uma data de início
+* ADM > Carga de repasses previstos, ao criar uma conta da associação, passa a gravar o campo data-inicio com o ínicio do período informado
+* ADM > Carga de repasses realizados, ao criar uma conta da associação, passa a gravar o campo data-inicio com o ínicio do período informado
+* TEC > Implementado o pacote de feature-flags django-waffle
+  
 ### 8.8.0 - 04/09/2023 - Sprint 72
-
 * UE > Adição de ids ao cadastro de despesas para utilização de testes automatizados
 * UE > Adição de ids a lista de despesas para utilização de testes automatizados
 * UE > Agora a solicitação de encerramento de conta valida os valores reprogramados
