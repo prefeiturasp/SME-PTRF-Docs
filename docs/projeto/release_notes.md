@@ -2,7 +2,7 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 8.9.0 - 19/09/2023 - Sprint 73
+### 8.9.0 - 20/09/2023 - Sprint 73
 * UE > Em Dados da Associação não é mais permitido alterar informações de uma conta com solicitação de encerramento
 * UE > Em Dados da Associação: Contas da Associação, a mensagem exibida no caso de lista vazia passa a refletir a situação de não ter contas ou de todas estarem inativas.
 * UE > Em Conciliação Bancária, no formulário de saldo bançario, agora é exibida como informações a data de encerrameno de uma conta encerrada
