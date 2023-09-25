@@ -2,6 +2,74 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.9.0 - 20/09/2023 - Sprint 73
+* UE > Em Dados da Associação não é mais permitido alterar informações de uma conta com solicitação de encerramento
+* UE > Em Dados da Associação: Contas da Associação, a mensagem exibida no caso de lista vazia passa a refletir a situação de não ter contas ou de todas estarem inativas.
+* UE > Em Conciliação Bancária, no formulário de saldo bançario, agora é exibida como informações a data de encerrameno de uma conta encerrada
+* UE > Em Conciliação Bancária, no formulário de saldo bançario, agora é possível informar um saldo negativo
+* UE > Na geração de documentos de uma PC passam a ser ignoradas contas iniciadas após o termino do período da prestação de contas
+* DRE > No Demonstrativo da Execução Físico-Financeira do Consolidado das PCs o texto "Não houve movimentação financeira" foi alterada para "Conta inativa"
+* DRE > No Demonstrativo da Execução Físico-Financeira do Consolidado das PCs foi incluída uma coluna com a quantidade de PCs retificadas
+* DRE > O Demonstrativo da Execução Físico-Financeira do Consolidado das PCs passa a não exibir contas criadas após o fim do período do relatório
+* DRE > O Demonstrativo da Execução Físico-Financeira do Consolidado das PCs agora exibe informação que determinada conta está encerrada
+* DRE > O Relatório Consolidado do Consolidado das PCs agora exibe informação que determinada conta está encerrada
+* DRE > No Relatório Consoliddao do Consolidado das PCs foi incluída uma coluna com a quantidade de PCs retificadas
+* DRE > O Relatório Consolidado do Consolidado das PCs passa a não exibir contas criadas após o fim do período do relatório
+* DRE > No Relatório Consolidado do Consolidado das PCs o texto "Não houve movimentação financeira" foi alterada para "Conta inativa"
+* DRE > Em Acompanhamento de PC, Materiais de referência, Extrato Bancário da Unidade passa a ser possível informar um saldo negativo no saldo corrigido
+* ADM > No cadastro de contas da associação as contas passam a ter uma data de início
+* ADM > Carga de repasses previstos, ao criar uma conta da associação, passa a gravar o campo data-inicio com o ínicio do período informado
+* ADM > Carga de repasses realizados, ao criar uma conta da associação, passa a gravar o campo data-inicio com o ínicio do período informado
+* TEC > Implementado o pacote de feature-flags django-waffle
+  
+### 8.8.0 - 04/09/2023 - Sprint 72
+* UE > Adição de ids ao cadastro de despesas para utilização de testes automatizados
+* UE > Adição de ids a lista de despesas para utilização de testes automatizados
+* UE > Agora a solicitação de encerramento de conta valida os valores reprogramados
+* UE > Agora a conciliação bancária valida se existe solicitação de encerramento para a conta
+* UE > Agora a geração de documentos da prestação de contas valida se a conta foi encerrada no período de geração
+* UE > Agora o Demonstrativo Financeiro da Conta exibe a informação de conta encerrada
+* UE > O Novo cadastro de membros da associação já permite a consulta do mandato e composição anteriores
+* UE > Adição e alteração de etiquetas aos gastos da escola
+* DRE > Agora o acompanhamento de prestação de contas valida se a conta foi encerrada no período analisado
+* DRE > Agora o resumo de acertos exibe o nome e período da associação
+* DRE > Agora a inclusão de acertos exibe o nome e período da associação
+* DRE > Agora ao incluir acertos de lançamentos em lote não será permitido acertos da categoria Devolução ao tesouro
+* DRE > Agora a consulta por associações exibe pendência de encerramento de conta
+* DRE > Agora a ata de parecer técnico utiliza a data da reunião na assinatura
+* SME/DRE/UE > Gestão de Usuários foi alterada a exclusão de Usuários
+* TEC > Monitoramento de atualizações de dependências
+* TEC > Atualização de pacotes do front
+* TEC > Django atualizado da versão 3.1.14 para a versão 3.2.20
+* GLO > Bloqueio de envio de e-mails fora do ambiente de produção
+* GLO > 🐞 Correção de bugs.
+
+### 8.7.0 - 18/08/2023 - Sprint 71
+* UE > A consulta de contas agora exibe informações sobre negativa da solicitação de encerramento
+* UE > A consulta de contas agora exibe contas com encerramento aprovado em uma tabela de histórico de contas
+* UE > O cadastro de créditos não permitirá inclusão ou edição de lançamentos em contas encerradas
+* UE > O cadastro de gastos não permitirá inclusão ou edição de lançamentos em contas encerradas
+* UE > Agora a Conciliação Bancária, na seleção de contas, oculta contas encerradas antes do período de conciliação
+* UE > Agora o Resumo de Recursos, na seleção de contas, oculta contas encerradas antes do período consultado
+* UE > Usuários serão notificados quando suas solicitações de encerramento forem aprovadas ou negadas
+* UE > O Novo cadastro de membros da associação já permite a consulta do mandato e composição vigentes
+* DRE > Implementado o fluxo de aprovação ou rejeição de uma solicitação de encerramento
+* DRE > A consulta de contas de uma associação agora exibe contas com encerramento aprovado em uma tabela de histórico de contas
+
+### 8.6.0 - 04/08/2023 - Sprint 70
+* UE > Encerramento de conta bancária agora é possível solicitar o encerramento
+* DRE > Encerramento de conta bancária agora é gerado uma notificação para a DRE sobre a solicitação de encerramento
+* DRE > Consulta por Associações agora exibe nova aba para Dados das contas
+* DRE > Acompanhamento de PC - Conferência de Lançamentos agora mantém estado de ordenamento
+* SME > Parametrizações do sistema - Motivos de rejeição para encerramento de conta bancária
+* SME > Parametrizações do sistema - Períodos de mandato
+* SME > Acompanhamento de PC - Alterado a exibição dos cards e colunas no resultado
+* SME > Extração de dados - Prestações de contas - Concatenar motivos
+* SME/DRE/UE > Gestão de Usuários foi alterada a inclusão/edição de Usuários
+* TEC > Monitoramento de atualizações de dependências.
+* TEC > Atualização de pacotes do front
+* GLO > 🐞 Correção de bugs.
+
 ### 8.5.0 - 17/07/2023 - Sprint 69
 * UE > Dados da Associação agora exibe e-mail da unidade educacional desabilitado para edição
 * UE > Análise DRE agora exibe acerto para o comprovante do saldo da conta

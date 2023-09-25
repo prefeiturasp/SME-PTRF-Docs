@@ -1,5 +1,27 @@
 # Hotfixes aplicados no Backend do projeto 
 
+### 8.8.2 - 15/09/2023 - sprint 73
+* (102810) - Resolve caso de análise de lançamento sem lançamentos após cópia da análise anterior.
+* (103294) - Corrige a ordenação dos membros das atas de apresentação e retificação.
+
+### 8.8.1 - 05/09/2023 - sprint 73
+* (102970) - Consolidado das PCs: Demonstrativo da Execução Físico-Financeira: Alterar informação de Não houve movimentação financeira para Conta inativa
+* (102973) - Consolidado das PCs: Relatório Consolidado: Alterar informação de Não houve movimentação financeira para Conta inativa
+
+### 8.7.3 - 28/08/2023 - sprint 72
+* (102412) - Conciliação Bancária: Retirar validação e obrigatoriedade de preenchimento dos campos do Saldo bancário da conta ao concluir acerto/período.
+
+### 8.7.2 - 22/08/2023 - sprint 72
+* (100511) - Corrige problema ao desfazer conclusão de uma PC quando está em retificação.
+
+### 8.7.1 - 21/08/2023 - sprint 71 e 72
+* (100138) - Implementa actions no admin para correção de dados.
+* (99711) - Aprimora admin para correção de dados.
+* (99664) - Resolve Demonstrativo Financeiro não atualiza data e valor do extrato
+
+### 8.6.1 - 11/08/2023 - sprint 71
+* (93854) - Implementa atribuição de status na devolução do modelo de PC.
+
 ### 8.5.1 - 25/07/2023 - sprint 70
 * (99696) - Corrige monitoramento PC.
 
