@@ -4,7 +4,7 @@ Tal procedimento, gera muito mais eficácia e agilidade na etapa de testes, perm
 
 ## **Lista de Testes Automatizados no SIG-Escola** ##
 
-**Última atualização: 03/08/2023**
+**Última atualização: 18/09/2023**
 
 |Funcionalidade|Visão|Escopo|Status|
 |---------------|-----|------------------------------------|---------|
@@ -12,3 +12,4 @@ Tal procedimento, gera muito mais eficácia e agilidade na etapa de testes, perm
 |Resumo de recursos|UE|Completo|Finalizado|
 |Créditos da escola|UE|**Tipos de crédito:** Rendimento e Repasse, **Ação:** PTRF Básico, **Tipo de conta:** todas as contas|Finalizado|
 |Gastos da escola|UE|**Essa despesa tem comprovação fiscal?** Opções: Sim e Não, **Essa despesa é reconhecida pela Associação?** Opções: Sim e Não, **Tipo do documento:** DANFE e NFS-e, **Forma de pagamento:** Cheque, Cartão e DOC/TED/PIX, **Tipo de aplicação do recurso:** todas, **Tipo de despesa de custeio:** Serviço e Material (quando for tipo de aplicação do recurso = Custeio), **Especificação do bem, material ou serviço:** apenas algumas opções (quando for tipo de aplicação do recurso = Capital), **Ação:** PTRF Básico, **Conta:** todas as contas, **Esse gasto possui vínculo com alguma atividade específica?:** opções: Sim e Não| Em andamento - Escrita de cenários: Inclusão e Edição / Execução de testes: Consulta|
+||||
