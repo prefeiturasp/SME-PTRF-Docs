@@ -1,4 +1,10 @@
-# Hotfixes aplicados no Backend do projeto 
+# Hotfixes aplicados no Backend do projeto
+
+### 8.9.1 - 27/09/2023 - sprint 74
+* (104230) - Corrige import do método após atualização do pacote
+* (104701) - Corrige a validação de acertos ao devolver uma PC
+* (104810) - Corrige lista de membros associação retornando membro com CPF/identificador nulo
+* (104690) - Corrige filtro por conta nos dados do demonstrativo financeiro
 
 ### 8.8.2 - 15/09/2023 - sprint 73
 * (102810) - Resolve caso de análise de lançamento sem lançamentos após cópia da análise anterior.
