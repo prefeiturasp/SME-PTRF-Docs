@@ -2,6 +2,25 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.10.0 - 09/10/2023 - Sprint 74
+* UE > Em Conciliação Bancária permitir informar os dados de Extrato bancário no período de criação da conta
+* UE > Tratamento de criação de contas em créditos da escola
+* UE > Tratamento de criação de contas em gastos da escola
+* UE > Tratamento de criação de contas em resumo de recursos
+* UE > Exibir mensagem de rejeição de encerramento de conta em dados das contas
+* UE > Exibir loading em dados das contas
+* UE > Em geração de documento, verifica se os acertos solicitados alteram o saldo de uma conta zerada
+* DRE > Tratamento de criação de contas em acompanhamento de PCs
+* DRE > Em acompanhamento de PC, verifica se os acertos indicados para uma conta encerrada podem alterar o saldo
+* DRE > Em acompanhamento de PC, não permitir conclusão da análise se a conta encerrada não estiver zerada
+* SME > Tratamento de criação de contas em consulta de saldos bancários
+* SME > Em parametrizações so sistema, permitir excluir período de mandato
+* SME > Exibir lista de DREs em ordem alfabética em acompanhamento de PC
+* TEC > Refatoração do arquivo core/task.py
+* TEC > Refatoração do arquivo dre/task.py
+* TEC > Atualização de versão do React para 18.1.0
+* TEC > Atualização patch de segurança Django 3.2.21
+
 ### 8.9.0 - 20/09/2023 - Sprint 73
 * UE > Em Dados da Associação não é mais permitido alterar informações de uma conta com solicitação de encerramento
 * UE > Em Dados da Associação: Contas da Associação, a mensagem exibida no caso de lista vazia passa a refletir a situação de não ter contas ou de todas estarem inativas.
