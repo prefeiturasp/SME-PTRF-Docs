@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.10.1 - 10/10/2023 - sprint 75
+* (105942) - Corrige o retorno da informação conta encerrada com saldo no status do período.
+* (104961) - Corrige o tratamento de lançamentos sem solicitação de acerto em Análise de PC.
+* (105706) - Corrige o tratamento de SmeIntegracaoApiService no envio de e-mail.
+* (105253) - Retorna tipos de conta com pelo menos uma conta criada no período ou anterior em Consolidado das PCs.
+
 ### 8.9.1 - 27/09/2023 - sprint 74
 * (104230) - Corrige import do método após atualização do pacote
 * (104701) - Corrige a validação de acertos ao devolver uma PC
