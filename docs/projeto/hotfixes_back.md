@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.10.2 - 11/10/2023 - sprint 75
+* (105575) - Corrige regra para apagar fechamento na devolução de PC.
+  
 ### 8.10.1 - 10/10/2023 - sprint 75
 * (105942) - Corrige o retorno da informação conta encerrada com saldo no status do período.
 * (104961) - Corrige o tratamento de lançamentos sem solicitação de acerto em Análise de PC.
