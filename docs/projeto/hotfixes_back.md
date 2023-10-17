@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.10.3 - 17/10/2023 - sprint 75
+* (103479) - Remove a opção de filtragem por encerramento de contas pendentes nas tabelas de associação.
+* (106328) - Adiciona validação de data_transacao da depesa de acordo com o período da pc devolvida.
+* (105962) - Ajusta condição do método ativa_no_periodo do modelo de ContaAssociacao.
+  
 ### 8.10.2 - 11/10/2023 - sprint 75
 * (105575) - Corrige regra para apagar fechamento na devolução de PC.
   
