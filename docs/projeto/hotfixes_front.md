@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.10.1 - 17/10/2023 - sprint 75
+* (105961) - Ajustes nas tabelas de contas encerradas.
+* (106430) - Corrige edição de data de crédito.
+* (105962) - Corrige exibição de label conta encerrada em resumo de recursos.
+* (103479) - Remove etiqueta das tabelas e legendas.
+  
 ### 8.8.1 - 11/09/2023 - sprint 73
 * (102972): Permite saldo negativo nas informações de extrato da UE
 * (103047): Permite saldo negativo na análise de informações de extrato pela DRE
