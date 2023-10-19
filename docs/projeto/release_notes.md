@@ -2,6 +2,21 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.11.0 - 19/10/2023 - Sprint 75
+* UE > Adição de ids a geração de documentos para utilização de testes automatizados
+* UE > Consulta de mandados anteriores em dados da associação
+* UE > Em créditos da escola, retirada do modal de sucesso após cadastro
+* DRE > Em relatório consolidado, inclusão de informação de quantidades de unidades retificadas
+* SME > Não permitir sobreposição de períodos e edição apenas no último período cadastrado em parametrizações do sistema
+* SME > Em consulta de saldos bancários, exibição das DREs em ordem alfabética
+* SME/DRE > Em listagem de associações, exibição de etiqueta de encerramento de associação de acordo com a visão
+* SME/DRE/UE > Exibição de lista de unidades em gestão de usuários
+* SME/DRE/UE > Mudança de layout do modal de remover usuário em gestão de usuários
+* TEC > Atualização de versão do React para 18.2.0
+* TEC > Substituição do pacote djangorestframework-jwt para alternativa compatível como a versão 4.1 do Django
+* TEC > Refatoração do arquivo sme/task.py
+* ADM > Módulo para separar uma associação e sua unidade em duas associações e suas unidades
+
 ### 8.10.0 - 09/10/2023 - Sprint 74
 * UE > Em Conciliação Bancária permitir informar os dados de Extrato bancário no período de criação da conta
 * UE > Tratamento de criação de contas em créditos da escola
@@ -14,7 +29,7 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 * DRE > Em acompanhamento de PC, verifica se os acertos indicados para uma conta encerrada podem alterar o saldo
 * DRE > Em acompanhamento de PC, não permitir conclusão da análise se a conta encerrada não estiver zerada
 * SME > Tratamento de criação de contas em consulta de saldos bancários
-* SME > Em parametrizações so sistema, permitir excluir período de mandato
+* SME > Em parametrizações do sistema, permitir excluir período de mandato
 * SME > Exibir lista de DREs em ordem alfabética em acompanhamento de PC
 * TEC > Refatoração do arquivo core/task.py
 * TEC > Refatoração do arquivo dre/task.py
