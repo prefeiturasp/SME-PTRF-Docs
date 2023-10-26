@@ -1,5 +1,12 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.11.1 - 26/10/2023 - sprint 76
+* (105960) - Corrige escrita errada na análise de PC
+* (106046) - Resolve casos de contas com pedido de encerramento com saldo alterado que não exibiam a data de encerramento e opção a de cancelar
+* (106264) - Resolve casos em que após o usuário efetuar um segundo pedido de encerramento o sistema alterava a data indicada
+* (106271) - [DRE] Encerramento de conta: Ajustes de texto
+* (106869) - Resolve caso em prestação de contas em que não era possível gerar a PC ou concluir acertos
+
 ### 8.10.1 - 17/10/2023 - sprint 75
 * (105961) - Ajustes nas tabelas de contas encerradas.
 * (106430) - Corrige edição de data de crédito.
