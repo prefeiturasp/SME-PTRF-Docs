@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.11.1 - 26/10/2023 - sprint 76
+* (106214) - Contas da Associação: Contas que estiverem sem data de início e com status Ativa não devem ser exibidas
+* (017046) - Resolve demonstrativo de execução físico-financeiro que não exibia o bloco 5 na versão final
+* (107091) - Resolve um problema de repetição de despesas na paginação.
+* (107380) - Altera página de valores reprogramados para não exibir contas iniciadas após o período inicial
+
 ### 8.10.3 - 17/10/2023 - sprint 75
 * (103479) - Remove a opção de filtragem por encerramento de contas pendentes nas tabelas de associação.
 * (106328) - Adiciona validação de data_transacao da depesa de acordo com o período da pc devolvida.
