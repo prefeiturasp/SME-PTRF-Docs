@@ -2,7 +2,7 @@
 
 ### 8.11.1 - 26/10/2023 - sprint 76
 * (106214) - Contas da Associação: Contas que estiverem sem data de início e com status Ativa não devem ser exibidas
-* (017046) - Resolve demonstrativo de execução físico-financeiro que não exibia o bloco 5 na versão final
+* (107046) - Resolve demonstrativo de execução físico-financeiro que não exibia o bloco 5 na versão final
 * (107091) - Resolve um problema de repetição de despesas na paginação.
 * (107380) - Altera página de valores reprogramados para não exibir contas iniciadas após o período inicial
 
