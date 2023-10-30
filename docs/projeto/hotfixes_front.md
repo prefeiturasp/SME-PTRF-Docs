@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.11.2 - 30/10/2023 - sprint 76
+* (105959) - Edição do crédito: Agora podem ser editadas receitas com contas encerradas quando origem for Analise DRE
+
 ### 8.11.1 - 26/10/2023 - sprint 76
 * (105960) - Corrige escrita errada na análise de PC
 * (106046) - Resolve casos de contas com pedido de encerramento com saldo alterado que não exibiam a data de encerramento e opção a de cancelar
