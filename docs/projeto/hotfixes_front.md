@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.11.3 - 01/11/2023 - sprint 76
+* (106045) - Resolve caso de valor do saldo sendo exibido como "-" quando zero, na síntese do período de realização da despesa da análise de PC
+  
 ### 8.11.2 - 30/10/2023 - sprint 76
 * (105959) - Edição do crédito: Agora podem ser editadas receitas com contas encerradas quando origem for Analise DRE
 
