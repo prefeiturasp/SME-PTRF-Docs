@@ -2,6 +2,26 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.12.0 - 06/11/2023 - Sprint 76
+* UE > Dados das associações implementa migração de Membros da Associação para Histórico de Membros
+* UE/DRE > Dados das contas. Contas sem data de início não são mais exibidas
+* DRE > Encerramento de conta ajustes de texto
+* DRE > Extração de dados de saldo final de período e inclusão de coluna DRE
+* SME > Gestão de usuários inclui opção de adicionar unidades para servidores e não servidores
+* SME > Extração de dados inclui coluna DRE em Saldo final do período
+* SME > Extração de dados concatena os motivos de pagamento antecipado e inclui coluna DRE em Despesas
+* SME > Extração de dados concatena os motivos de estorno e inclui coluna DRE em Crédito das Unidades
+* TEC > Implementa Feature Flags em Histórico de Membros
+* TEC > Implementa Feature Flags em Gestão de Usuários
+* TEC > Separação da geração do relatório após acertos em task distinta
+* TEC > Altera o cálculo de PC para persistir os dados do demonstrativo financeiro
+* TEC > Altera o cálculo de PC para persistir os dados da relação de bens
+* TEC > Altera serviço de geração da relação de bens para usar dados persistidos
+* TEC > Monitoramento de atualizações de dependências
+* TEC > Django atualizado da versão 3.2 para a versão 4.1 e solução de vulnerabilidades
+* GLO > 🐞 Corrige Tipo de despesa indicado incorretamente
+* GLO > 🐞 Correção de bugs.
+
 ### 8.11.0 - 19/10/2023 - Sprint 75
 * UE > Adição de ids a geração de documentos para utilização de testes automatizados
 * UE > Consulta de mandados anteriores em dados da associação
