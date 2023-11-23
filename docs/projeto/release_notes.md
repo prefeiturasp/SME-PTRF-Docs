@@ -2,6 +2,20 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.13.0 - 23/11/2023 - Sprint 77
+* UE > Agora é possível editar e incluir créditos a partir de uma análise de PC, mesmo quando existe um pedido de encerramento para a conta bancária
+* UE > Agora é possível editar e incluir gastos a partir de uma análise de PC, mesmo quando existe um pedido de encerramento para a conta bancária
+* UE/DRE > Agora na geração e análise de PCs as validações e alertas de mudança em contas encerradas ocorrem apenas em PCs do período do encerramento
+* DRE > A página de consulta e preenchimento do resumo do Demonstrativo da Execução Físico-Financeira não exibe mais contas encerradas
+* DRE > Agora o Demonstrativo da Execução Físico-Financeira não exibe mais contas encerradas em períodos posteriores ao encerramento
+* SME > Foi adicionado à nova gestão de usuários a definição de grupos de acesso
+* TEC > Foi atualizada a versão do Django para a 4.2
+* TEC > Foram atualizadas as versões de várias dependências do front em preparação para a atualização do Nodes 15.14
+* TEC > A geração do demonstrativo financeiro passa a persistir os dados no banco
+* TEC > A geração do PDF do demonstrativo financeiro agora usa diretamente os dados persistidos pelo cálculo
+* TEC > Foi criado um novo status iniciar para a geração de PC. Agora, ela inicia com o status "A_PROCESSAR"
+* GLO > 🐞 Correção de bugs.
+
 ### 8.12.0 - 06/11/2023 - Sprint 76
 * UE > Dados das associações implementa migração de Membros da Associação para Histórico de Membros
 * UE/DRE > Dados das contas. Contas sem data de início não são mais exibidas
