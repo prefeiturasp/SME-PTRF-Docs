@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.13.1 - 27/11/2023 - Sprint 78
+* (108779) - Corrige validação para mostrar conta com encerramento pendente na inclusão de crédito
+* (108891) - Ajusta regra para retornar conta encerrada no fluxo de análise de PC
+* (108899) - Corrige a selecao de conta no cadastro de estorno
+
 ### 8.11.3 - 01/11/2023 - sprint 76
 * (106045) - Resolve caso de valor do saldo sendo exibido como "-" quando zero, na síntese do período de realização da despesa da análise de PC
   
