@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.13.1 - 28/11/2023 - sprint 78
+* (108880) - Corrige o cálculo do saldo exibido em dados das contas da Associação.
+  
 ### 8.11.2 - 30/10/2023 - sprint 76
 * (105959) - Edição do crédito: Agora podem ser editadas receitas com contas encerradas quando origem for Analise DRE
 
