@@ -2,8 +2,8 @@
 
 ### 8.13.2 - 04/12/2023 - Sprint 78
 * (109755) - Corrige exibição da data/hora da última solicitação de encerramento da conta
-* (108777) - Corrige validacao primeira PC com valores corretos
-* (109650) - Corrige validacao data soliitação encerramento de conta
+* (108777) - Corrige validação primeira PC com valores corretos
+* (109650) - Corrige validação data solicitação encerramento de conta
 
 ### 8.13.1 - 28/11/2023 - sprint 78
 * (108880) - Corrige o cálculo do saldo exibido em dados das contas da Associação.
