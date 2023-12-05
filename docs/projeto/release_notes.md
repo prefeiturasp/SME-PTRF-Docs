@@ -2,6 +2,23 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.14.0 - 05/12/2023 - Sprint 78
+
+* UE > Agora é possível parametrizar o sistema para aceitar ou não despesas com saldo insuficiente em ações. 
+* UE > Passa a ser possível o cadastramento de despesa anterior ao período inicial da associação se posterior a data de inicio da conta.
+* UE > Agora é possível delimitar em quais unidades determinado tipo de receita poderá ser usado.
+* UE > Já é possível informar o ocupante de um cargo desocupado no novo cadastro de membros da associação. 
+* UE > Já é possível editar os dados do ocupante de um cargo preenchido no novo cadastro de membros da associação. 
+* SME > Criada extração de dados de contas de associações.
+* SME > Já é possível, no novo cadastro de usuários, conceder ou remover acesso à SME, conforme unidade de exercício do usuário
+* ADM > Carga de repasses previstos não mais permite contas que tenham pedidos de encerramentos aprovados.
+* ADM > Carga de repasses realizados não mais permite contas que tenham pedidos de encerramentos aprovados.
+* TEC > Agora o demonstrativo financeiro (PDF) é gerado em uma task celery distinta
+* TEC > Agora a relação de bens (PDF) é gerada em uma task celery distinta
+* TEC > Foi atualizada a versão react-datepicker da versão 3.0.0 para 4.21.0;
+* TEC > Foi atualizada a versão do Python para a 3.11.*
+* GLO > Implementada rotina programável que revalida os acessos dos usuários ao sistema
+
 ### 8.13.0 - 23/11/2023 - Sprint 77
 * UE > Agora é possível editar e incluir créditos a partir de uma análise de PC, mesmo quando existe um pedido de encerramento para a conta bancária
 * UE > Agora é possível editar e incluir gastos a partir de uma análise de PC, mesmo quando existe um pedido de encerramento para a conta bancária
