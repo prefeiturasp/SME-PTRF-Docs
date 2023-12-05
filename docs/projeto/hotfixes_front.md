@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.13.2 - 04/12/2023 - Sprint 78
+* (109755) - Corrige exibição da data/hora da última solicitação de encerramento da conta
+* (109651) - Corrige exibição contas encerradas na edição de um gasto
+* (109652) - Corrige a verificação do periodo ao conferir um documento
+* (108565) - Corrige a validação para limpar conta associação na edição de um repasse
+
 ### 8.13.1 - 27/11/2023 - Sprint 78
 * (108779) - Corrige validação para mostrar conta com encerramento pendente na inclusão de crédito
 * (108891) - Ajusta regra para retornar conta encerrada no fluxo de análise de PC
