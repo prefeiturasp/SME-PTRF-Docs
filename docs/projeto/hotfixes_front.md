@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.14.1 - 06/12/2023 - Sprint 79
+* (110267) - Investigar e resolver mensagens anormais nos logs de celery
+
 ### 8.13.2 - 04/12/2023 - Sprint 78
 * (109755) - Corrige exibição da data/hora da última solicitação de encerramento da conta
 * (109651) - Corrige exibição contas encerradas na edição de um gasto
