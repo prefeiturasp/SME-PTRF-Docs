@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.14.2 - 07/12/2023 - Sprint 79
+* (110370) - Corrige dados das contas. O valor da conta não foi atualizado após edição do gasto na Análise DRE
+
 ### 8.14.1 - 06/12/2023 - Sprint 79
 * (110267) - Resolve investigar e resolver mensagens anormais nos logs de celery
 * (110330) - Corrigir logs de erro celery NotNullViolation categoria_despesa
