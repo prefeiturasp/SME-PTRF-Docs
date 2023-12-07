@@ -1,7 +1,7 @@
 # Hotfixes aplicados no Backend do projeto
 
 ### 8.14.1 - 06/12/2023 - Sprint 79
-* (110267) - Investigar e resolver mensagens anormais nos logs de celery
+* (110267) - Resolve investigar e resolver mensagens anormais nos logs de celery
 * (110330) - Corrigir logs de erro celery NotNullViolation categoria_despesa
 
 ### 8.13.2 - 04/12/2023 - Sprint 78
