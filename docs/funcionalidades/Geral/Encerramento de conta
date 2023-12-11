@@ -7,6 +7,7 @@ na conta encerrada. A DRE receberá o pedido de encerramento e indicará se conf
 
 [Conta ativa com opção de solicitar cancelamento](../../imagens/Associação/conta zerada.png)
 
+
 !!! warning "ATENÇÃO"
 	Será enviada uma notificação de aviso quando o sistema verifica que a conta bancária da Associação está com saldo zerado
     e a conta é do tipo que permite encerramento.
