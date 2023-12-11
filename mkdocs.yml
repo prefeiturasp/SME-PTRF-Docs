@@ -16,6 +16,7 @@ nav:
                 - 'Associações': funcionalidades/sme/Associações.md
           - 'Geral':
                 - 'Gestão de Usuários': funcionalidades/Geral/Gestão de Usuários.md
+                - 'Encerramento de conta': funcionalidades/Geral/Encerramento de conta.md
     - Documentação:
           - 'Sobre a documentação': sigescola_docs/docs_project.md
           - 'Exemplos de uso': sigescola_docs/mkdocs_exemplos_uso.md

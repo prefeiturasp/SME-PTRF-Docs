@@ -1,0 +1,15 @@
+O encerramento de conta permite que contas que possuam o Saldo de Recursos da respectiva conta igual a R$0,00  e que não serão
+não serão mais utilizadas possam ser encerradas pela associação. Para utilizar esta opção é necessário que a conta 
+seja do tipo que permita encerramento.
+
+A partir do pedido do encerramento da conta não poderão mais ser feitas movimentações (lançamentos de créditos e despesas) pela associação
+na conta encerrada. A DRE receberá o pedido de encerramento e indicará se confirma ou rejeita o pedido de encerramento.
+
+![Conta ativa com opção de solicitar cancelamento](../../imagens/Associação/conta zerada.png)
+
+!!! warning "ATENÇÃO"
+	Será enviada uma notificação de aviso quando o sistema verifica que a conta bancária da Associação está com saldo zerado
+    e a conta é do tipo que permite encerramento.
+
+    
+
