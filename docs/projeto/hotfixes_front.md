@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.14.2 - 14/12/2023 - Sprint 79
+* (110382) - Corrige condição para mostrar botão de concluir prestação/acerto
+  
 ### 8.14.1 - 06/12/2023 - Sprint 79
 * (110267) - Resolve investigar e resolver mensagens anormais nos logs de celery
 
