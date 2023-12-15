@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.14.3 - 14/12/2023 - Sprint 79
+* (110382) - Corrige checagem de contas criadas no período ou anteriores para períodos não cadastrados no sistema
+* (110382) - Adiciona despesas conferidas de períodos anteriores no Bloco 5 - Despesas demonstradas
+* (110382) - Corrige retorno do valor total das despesas demonstradas no demonstrativo financeiro
+  
 ### 8.14.2 - 07/12/2023 - Sprint 79
 * (110370) - Corrige dados das contas. O valor da conta não foi atualizado após edição do gasto na Análise DRE
 
