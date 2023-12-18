@@ -2,6 +2,16 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.15.0 - 19/12/2023 - Sprint 79
+* UE > A verificação de suficiência de saldo de ação para despesa agora é feita considerando também a conta usada
+* UE > O demonstrativo financeiro passa a usar o novo cadastro de membros
+* UE > No cadastro de membros, implementa a criação de nova composição quando a data de saída é alterada para antes do fim do mandato
+* UE > O cadastro de processos SEI não permite mais excluir um processo se houver PCs para a associação no ano do processo
+* DRE > O recebimento de PC agora exige que haja um processo SEI no ano da PC e permite incluir um processo pela próprio acompanhamento de PC
+* GLO > Login passa a revalidar os direitos de acesso a unidades e a remover acessos para os quais o usuário não se qualifica mais
+* TEC > Implanta POC de adoção de type hintd e script de verificação de "cobertura de tipagem"
+* TEC > Task de calculo de PC refatorada
+
 ### 8.14.0 - 05/12/2023 - Sprint 78
 
 * UE > Agora é possível parametrizar o sistema para aceitar ou não despesas com saldo insuficiente em ações. 
