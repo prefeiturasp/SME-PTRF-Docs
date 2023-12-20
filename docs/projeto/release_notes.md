@@ -2,7 +2,7 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 8.15.0 - 19/12/2023 - Sprint 79
+### 8.15.0 - 20/12/2023 - Sprint 79
 * UE > A verificação de suficiência de saldo de ação para despesa agora é feita considerando também a conta usada
 * UE > O demonstrativo financeiro passa a usar o novo cadastro de membros
 * UE > No cadastro de membros, implementa a criação de nova composição quando a data de saída é alterada para antes do fim do mandato
