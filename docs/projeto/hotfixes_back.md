@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.15.1 - 27/12/2023 - Sprint 80
+* (110800) - Corrige solicitação encerramento de conta
+* (109200) - Corrige exibição grupos de acesso gestão de usuários
+* (109526) - Ação via admin para regerar PDFs de demonstrativos financeiros com erro
+
 ### 8.14.3 - 14/12/2023 - Sprint 79
 * (110382) - Corrige checagem de contas criadas no período ou anteriores para períodos não cadastrados no sistema
 * (110382) - Adiciona despesas conferidas de períodos anteriores no Bloco 5 - Despesas demonstradas
