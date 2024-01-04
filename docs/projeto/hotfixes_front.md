@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.15.1 - 27/12/2023 - Sprint 80
+* (109200) - Corrige exibição grupos de acesso gestão de usuários
+
 ### 8.14.2 - 14/12/2023 - Sprint 79
 * (110382) - Corrige condição para mostrar botão de concluir prestação/acerto
   
