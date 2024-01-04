@@ -2,6 +2,13 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.16.0 - 03/01/2024 - Sprint 80
+* DRE > Exibição de pendência relacionada com a geração da ata de apresentação e destaque para os campos obrigatórios das PCs não recebidas.
+* UE > Gerar notificação para a associação sobre a pendência relacionada com a geração da ata de apresentação.
+* UE > A partir da saída de um membro do cargo nos Membros da Associação é possível indicar quem o substituirá no cargo após a conclusão da saída do membro.
+* TEC > Vincula sucesso dos relatórios ao resultado do cálculo e revisa o processo
+* TEC > Ajusta persistência do demonstrativo financeiro para casos de impostos em múltiplos períodos
+
 ### 8.15.0 - 20/12/2023 - Sprint 79
 * UE > A verificação de suficiência de saldo de ação para despesa agora é feita considerando também a conta usada
 * UE > O demonstrativo financeiro passa a usar o novo cadastro de membros
