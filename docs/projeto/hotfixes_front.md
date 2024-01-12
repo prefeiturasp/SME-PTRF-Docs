@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.16.1 - 11/01/2024 - Sprint 81
+* (110828) - Corrige cadastro de saída de recurso externo
+  
 ### 8.15.1 - 27/12/2023 - Sprint 80
 * (109200) - Corrige exibição grupos de acesso gestão de usuários
 
