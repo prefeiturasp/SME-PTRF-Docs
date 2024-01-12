@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.16.1 - 11/01/2024 - Sprint 81
+* (110828) - Corrige validação de dados em despesas
+* (111951) - Adiciona validação na criação de Ação da associação
+* (111217) - Corrige busca de associações no fluxo de geração do consolidado considerando o parâmetro desconsiderar_associacoes_nao_iniciadas
+* (111893) - Descomenta linha de ordenação necessária para mostrar corretamente os dados de devolução ao tesouro no relatório consolidado DRE
+
 ### 8.15.1 - 27/12/2023 - Sprint 80
 * (110800) - Corrige solicitação encerramento de conta
 * (109200) - Corrige exibição grupos de acesso gestão de usuários
