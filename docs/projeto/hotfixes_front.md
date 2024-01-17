@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.16.2 - 16/01/2024 - Sprint 81
+* (110432) - Corrige cadastro de crédito exibindo conta encerrada
+* (110204) - Corrige cadastro de gestão de usuários
+* (111683) - Corrige exibição de contas em valores reprogramados
+
 ### 8.16.1 - 11/01/2024 - Sprint 81
 * (110828) - Corrige cadastro de saída de recurso externo
   
