@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.16.2 - 16/01/2024 - Sprint 81
+* (111683) - Corrige exibição de contas em valores reprogramados
+
 ### 8.16.1 - 11/01/2024 - Sprint 81
 * (110828) - Corrige validação de dados em despesas
 * (111951) - Adiciona validação na criação de Ação da associação
