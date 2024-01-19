@@ -2,6 +2,17 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.17.0 - 17/01/2024 - Sprint 81
+* UE > Inclui validação de preenchimento dos dados dos membros considerando a última composição do mandato vigente e aviso sobre as assinaturas dos documentos.
+* UE > Inclusão da validação de ícone de membro faltante na aba de Membros considerando a última composição do mandato vigente.
+* UE > Inclui assinaturas na Relação de bens adquiridos ou produzidos considerando a última composição do mandato vigente.
+* SME > Inclusão da permissão de acesso para a SME para usuários que não tem acesso direto a visão da SME.
+* SME > Inclusão da verificação do código EOL para tipos de unidades administrativas específicas para conceder acesso a visão SME na Gestão de usuários.
+* TEC > Gerar PDFs do processo de PC apenas se necessário.
+* TEC > Padroniza admin de dados persistidos de demonstrativo financeiro e relação de bens.
+* TEC > Ajusta mock do teste test_carga_com_erro_associacao_encerrada.
+* TEC > Ajusta mock do teste test_retorna_lista_unidades_servidor_com_direito_sme.
+
 ### 8.16.0 - 03/01/2024 - Sprint 80
 * DRE > Exibição de pendência relacionada com a geração da ata de apresentação e destaque para os campos obrigatórios das PCs não recebidas.
 * UE > Gerar notificação para a associação sobre a pendência relacionada com a geração da ata de apresentação.
