@@ -28,7 +28,11 @@ nav:
         - 'Acordo de trabalho': vazia.md
     - Informações Técnicas:
         - 'API':
-            - 'Sistema de logging': projeto/api/logging.md
+            - 'Sistema de logging':
+                - 'Visão geral': projeto/api/logging/visao_geral.md
+                - 'Logger Padrão': projeto/api/logging/logger_padrao.md
+                - 'Logger Contextual': projeto/api/logging/logger_contextual.md
+                - 'Configurações': projeto/api/logging/configuracoes.md
         - 'Release Notes': projeto/release_notes.md
         - Hotfixes:
             - 'Back': projeto/hotfixes_back.md
