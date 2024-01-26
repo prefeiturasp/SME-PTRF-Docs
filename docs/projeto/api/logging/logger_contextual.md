@@ -1,16 +1,17 @@
 # O Logger Contextual
 
-O Logger Contextual é uma versão customizada do logger padrão, desenhada para registrar logs com informações de contexto 
-adicionais e integrá-las com o LogStash/Kibana.
+O Logger Contextual é uma versão customizada do logger padrão, desenvolvido para registrar logs com informações de 
+contexto adicionais e integrá-las com o LogStash/Kibana.
 
-Este logger é implementado através da classe `ContextualLogger`, que é um `LoggerAdapter`. Ele aceita parâmetros extras 
-opcionais para informações de contexto e, além disso, envia os logs para o LogStash/Kibana, melhorando a capacidade de 
-rastreamento e análise.
+Implementado através da classe `ContextualLogger`, um `LoggerAdapter`, este logger aceita parâmetros extras opcionais 
+que enriquecem os logs com informações contextuais. Além disso, ele encaminha os logs para o LogStash/Kibana, aprimorando 
+significativamente as capacidades de rastreamento e análise.
 
 Diferentemente do logger padrão, o Logger Contextual é projetado para ser definido no nível de transação. Isso significa 
-que ele deve ser inicializado no ponto de entrada da transação e passado adiante para as funções subsequentes envolvidas
-nessa transação. Essa abordagem é crucial para permitir o agrupamento eficiente dos logs de uma transação específica no 
-LogStash/Kibana, facilitando a análise e o rastreamento.
+que ele deve ser inicializado no ponto de entrada da transação e propagado para todas as funções subsequentes envolvidas
+na transação. Essa abordagem é essencial para o agrupamento eficaz dos logs de uma transação específica no LogStash/Kibana,
+otimizando a análise e o rastreamento de eventos.
+
 
 ```python
 # exemplo.py
@@ -34,9 +35,9 @@ def funcao_auxiliar_2(logger):
     logger.info("Retornando 2")
     return 2
 ```
-Os logs do exemplo acima serão exibidos normalmente no console e também serão enviados para o LogStash/Kibana com as
-informações de contexto definidas no logger, onde poderão ser visualizados, inclusive com a possibilidade de
-aplicação filtros por quaisquer campos.
+No exemplo acima os logs serão exibidos no console e simultaneamente enviados para o LogStash/Kibana, 
+acompanhados das informações de contexto definidas no logger. No Kibana, estes logs poderão ser visualizados e filtrados 
+com base em qualquer dos campos de contexto.
 
 ## O decorator @with_contextual_logger
 O decorator `@with_contextual_logger` é uma alternativa ao método `get_logger` para inicializar o logger contextual,
@@ -46,12 +47,13 @@ Um caso de uso típico são métodos que são pontos de entrada de uma transaç�
 de tasks Celery. Quando o método é usado dentro de uma task Celery, o logger deve ser criado na task e passado como 
 parâmetro. Quando o método é usado fora de uma task Celery, o próprio método pode inicializar o logger.
 
+
 ```python
 # exemplo.py
 from sme_ptrf_apps.logging.loggers import with_contextual_logger
 
 @with_contextual_logger(
-    operacao='Teste sem logger',
+    observacao='Logger criado pelo decorator.',
     operacao_id='333333',
 )
 def exemplo(logger):
@@ -64,11 +66,11 @@ def exemplo(logger):
 # Exemplo de uso passando o logger
 def exemplo_uso_com_logger():
     """
-    Nesse exemplo os logs terão operacao='Teste com logger' e operacao_id='222222'
+    Nesse exemplo os logs terão observacao='Logger passado como parâmetro.' e operacao_id='222222'
     """
     logger = ContextualLogger.get_logger(
         __name__,
-        operacao='Teste com logger',
+        observacao='Logger passado como parâmetro.',
         operacao_id='222222',
     )
     exemplo(logger)
@@ -76,14 +78,14 @@ def exemplo_uso_com_logger():
 # Exemplo de uso sem passar o logger
 def exemplo_uso_sem_logger():
     """
-    Nesse exemplo os logs terão operacao='Teste sem logger' e operacao_id='333333'
+    Nesse exemplo os logs terão observacao='Logger criado pelo decorator.' e operacao_id='333333'
     """ 
     exemplo()
 
 ```
 
 ## Contexto na linha de log
-É possível também passar informações de contexto direto na linha de log. Essas informações erão incluídas apenas no log
+É possível também passar informações de contexto direto na linha de log. Essas informações serão incluídas apenas no log
 específico em que foram passadas, e não serão incluídas nos logs subsequentes.
 
 ```python
@@ -102,12 +104,29 @@ def exemplo():
 No exemplo acima, a primeira linha de log terá a observação "Obs da informação A" e a segunda linha terá a observação
 "Obs da informação B". A observação não será incluída nos logs subsequentes.
 
-## Desativando o envio de logs para o LogStash/Kibana
+## Logs de exceção
+O logger contextual também permite o registro de logs de exceção com informações da exceção e stack trace.
+Para isso, basta passar os parâmetros `exc_info=True` e `stack_info=True` na chamada do método de log.
+
+```python
+# exemplo.py
+from sme_ptrf_apps.logging.loggers import with_contextual_logger
+
+def exemplo():
+    logger = ContextualLogger.get_logger(
+        __name__,
+        operacao='Calculo de exemplo',
+        operacao_id='123456',
+    )
+    logger.error("Erro", exc_info=True, stack_info=True, extra={'observacao': 'Obs do erro'})
+```
+
+## Desativando integração com LogStash/Kibana
 Em alguns casos, pode ser necessário desativar o envio de logs para o LogStash/Kibana. Provavelmente não vamos querer que 
 ambientes de desenvolvimento e homologação enviem logs para o LogStash/Kibana, por exemplo.
 
-Para isso, basta definir a variável de ambiente `ENABLE_RABBITMQ_LOGGING` como `False`. Isso fará com que o logger
-contextual não envie os logs para o LogStash/Kibana.
+Para isso, basta definir a variável de ambiente `ENABLE_RABBITMQ_LOGGING` como `False`, ou não defini-la. Isso fará com 
+que os logs não sejam enviados para o LogStash/Kibana, mas ainda sejam exibidos no console.
 
 ## Os campos de contexto
 O ContextualLogger aceita os seguintes campos de contexto definidos pelo desenvolvedor:
@@ -130,7 +149,7 @@ Observações:
 
 ## Os campos padrão
 Além dos campos de contexto definidos pelo desenvolvedor, o ContextualLogger também inclui automaticamente os seguintes
-campos padrão:
+campos por padrão:
 
 | Atributo         | Descrição                                                                                      |
 |------------------|------------------------------------------------------------------------------------------------|
