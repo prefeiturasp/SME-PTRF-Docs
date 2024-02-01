@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.17.1 - 31/01/2024 - Sprint 82
+* (111237) - Corrige validação de data em cadastro de despesas
+  
 ### 8.16.2 - 16/01/2024 - Sprint 81
 * (111683) - Corrige exibição de contas em valores reprogramados
 
