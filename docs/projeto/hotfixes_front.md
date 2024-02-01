@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.17.1 - 31/01/2024 - Sprint 82
+* (112854) - Corrige layout de filtro por tipo de unidade em acompanhamento de PCs
+* (104691) - Corrige exibição de botão salvar em acompanhamento de PCs
+
 ### 8.16.2 - 16/01/2024 - Sprint 81
 * (110432) - Corrige cadastro de crédito exibindo conta encerrada
 * (110204) - Corrige cadastro de gestão de usuários
