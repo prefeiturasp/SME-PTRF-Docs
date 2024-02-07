@@ -104,6 +104,17 @@ def exemplo():
 No exemplo acima, a primeira linha de log terá a observação "Obs da informação A" e a segunda linha terá a observação
 "Obs da informação B". A observação não será incluída nos logs subsequentes.
 
+## Atualizando o contexto
+É possível atualizar o contexto do logger a qualquer momento, alterando os valores dos campos do contexto original.
+Para isso basta chamar o método `update_context` do logger.
+
+```python   
+    logger.update_context(
+        operacao_id='654321',
+        username='fulano',
+    )
+```
+
 ## Logs de exceção
 O logger contextual também permite o registro de logs de exceção com informações da exceção e stack trace.
 Para isso, basta passar os parâmetros `exc_info=True` e `stack_info=True` na chamada do método de log.
