@@ -132,6 +132,37 @@ def exemplo():
     logger.error("Erro", exc_info=True, stack_info=True, extra={'observacao': 'Obs do erro'})
 ```
 
+## Integração com LogStash e Kibana
+O `ContextualLogger` está integrado com o LogStash que armazena os logs no Elasticsearch de onde podem ser consultados 
+pelo Kibana. 
+
+Essa integração é feita através do RabbitMQ. O `ContextualLogger` publica os logs em uma fila do RabbitMQ, o LogStash 
+consome os logs dessa fila e os armazena no Elasticsearch de onde podem ser consultados pelo Kibana.
+
+![contextual-logging.png](../../../imagens/projeto/api/contextual-logging.png)
+
+**RabbitMQ** é um sistema de mensageria (message broker) open source que facilita a comunicação entre diferentes partes 
+de uma aplicação, ou entre diferentes aplicações, de forma eficiente, confiável e assíncrona. Ele permite que as 
+mensagens sejam transmitidas de um ponto a outro, oferecendo suporte a diversos padrões de mensagens, incluindo 
+publicação/assinatura, roteamento de mensagens, e filas de mensagens.
+
+**Logstash** é uma ferramenta de processamento de dados open-source que coleta dados de diversas fontes, os transforma 
+conforme necessário e os envia para um "stash" (armazenamento) como o Elasticsearch. 
+Ele pode unificar dados de diferentes fontes, filtrar, analisar e transformar esses dados antes de passá-los adiante. 
+É muito usado para gerenciamento de logs e eventos, permitindo que os dados sejam coletados, processados e armazenados 
+para análise posterior.
+
+**Elasticsearch** é uma poderosa ferramenta de pesquisa e análise de dados open source, especialmente projetada para 
+lidar com grandes volumes de dados de texto de maneira rápida e eficiente. O Elasticsearch permite armazenar, buscar e 
+analisar grandes quantidades de dados quase em tempo real, oferecendo respostas em milissegundos. 
+
+**Kibana** é uma ferramenta open-source de visualização de dados que funciona em conjunto com o Elasticsearch, uma base 
+de dados de pesquisa e análise. Kibana permite aos usuários criar e compartilhar visualizações gráficas de dados 
+armazenados no Elasticsearch, como gráficos, tabelas, mapas, etc. É amplamente utilizado para análise de logs, 
+monitoramento em tempo real e análise de dados. Com Kibana, é possível explorar, visualizar e obter insights valiosos a 
+partir de grandes volumes de dados de forma fácil e interativa.
+
+
 ## Desativando integração com LogStash/Kibana
 Em alguns casos, pode ser necessário desativar o envio de logs para o LogStash/Kibana. Provavelmente não vamos querer que 
 ambientes de desenvolvimento e homologação enviem logs para o LogStash/Kibana, por exemplo.
