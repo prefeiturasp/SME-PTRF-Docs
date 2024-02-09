@@ -2,6 +2,17 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.18.0 - 01/02/2024 - Sprint 82
+* DRE/SME > Inclui novo suporte as unidades com tela de login exclusiva e gerenciamento de unidades em suporte.
+* UE > Adiciona tags "Novo membro em" e "Substituído em" com informação de data após geração de nova composição. 
+* UE > Valores reprogramados da conta não preenchidos serão bloqueados para edição enquanto existir solicitação de encerramento de conta.
+* UE > Adiciona modal com opção de reprocessamento da conclusão do período/acerto em caso de falhas.
+* UE > Aba de Mandatos anteriores passa a ser exibida apenas quando houver um mandato anterior. 
+* TEC > Melhorias no processo de logs.
+* TEC > Ajusta opções de status selecionáveis em concluir PC.
+* TEC > Ajustes no novo processo de PC.
+* TEC > Adiciona configurações para uso de Typescript e implementa componente exemplo.
+  
 ### 8.17.0 - 17/01/2024 - Sprint 81
 * UE > Inclui validação de preenchimento dos dados dos membros considerando a última composição do mandato vigente e aviso sobre as assinaturas dos documentos.
 * UE > Inclusão da validação de ícone de membro faltante na aba de Membros considerando a última composição do mandato vigente.
