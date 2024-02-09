@@ -9,6 +9,7 @@ nav:
     - Funcionalidades:
           - 'UE':
                 - 'Despesas da Escola': funcionalidades/ue/Despesas da Escola.md
+                - 'Membros': funcionalidades/ue/Membros.md
           - 'DRE':
                 - 'Acompanhamento de PC': funcionalidades/dre/Acompanhamento de PC.md
           - 'SME':

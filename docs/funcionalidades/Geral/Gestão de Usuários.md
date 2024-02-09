@@ -1,4 +1,5 @@
-# Gestão de Usuários - EM CONSTRUÇÃO
+#### EM CONSTRUÇÃO
+# Gestão de Usuários 
 
 A gestão de usuários permite que sejam cadastrados usuários servidores e não servidores para que possam ter acesso ao SIG_Escola e as respectivas unidades educacionais.
 Para efetuar o cadastro de servidores é necessário informar o RF(Registro Funcional) e para usuário não servidores é necessário informar o CPF. Usuários que são servidores devem estar em exercício na unidade para que possam receber o acesso. Usuário não servidores devem ser membros atuais da Associação e cadastrados nos dados da Associação (Membros).
