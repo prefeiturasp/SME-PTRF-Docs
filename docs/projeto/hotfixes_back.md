@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.18.1 - 16/02/2024 - Sprint 83
+* (114145) - Corrige montagem de dados da exportação de status das prestações de contas
+
 ### 8.17.1 - 31/01/2024 - Sprint 82
 * (111237) - Corrige validação de data em cadastro de despesas
   
