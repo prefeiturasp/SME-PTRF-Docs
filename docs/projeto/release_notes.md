@@ -2,6 +2,14 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 8.19.0 - 19/02/2024 - Sprint 83
+* UE > Permite informar saída de mais de um membro na mesma data sem gerar novas composições.
+* SME > Permite incluir/editar períodos futuros de mandato.
+* SME > Inclusão de tag na consulta de usuários para indicar unidades que o acesso foi habilitado diretamente pela SME.
+* TEC > Implementa novo processo de logging ao processamento de PCs.
+* TEC > Atualiza django para versão 4.2.9
+* TEC > Substitui lib react-currency-input por react-currency-input-field
+
 ### 8.18.0 - 01/02/2024 - Sprint 82
 * DRE/SME > Inclui novo suporte as unidades com tela de login exclusiva e gerenciamento de unidades em suporte.
 * UE > Adiciona tags "Novo membro em" e "Substituído em" com informação de data após geração de nova composição. 
