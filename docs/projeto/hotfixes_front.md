@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 8.19.1 - 04/03/2024 - Sprint 84
+* (115567) - Corrige grupos de acesso SME
+
 ### 8.17.1 - 31/01/2024 - Sprint 82
 * (112854) - Corrige layout de filtro por tipo de unidade em acompanhamento de PCs
 * (104691) - Corrige exibição de botão salvar em acompanhamento de PCs
