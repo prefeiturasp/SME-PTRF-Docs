@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 8.19.1 - 04/03/2024 - Sprint 84
+* (116161) - Corrige extração de dados
+
 ### 8.18.1 - 16/02/2024 - Sprint 83
 * (114145) - Corrige montagem de dados da exportação de status das prestações de contas
 
