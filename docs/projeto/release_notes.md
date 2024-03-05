@@ -2,6 +2,22 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.0.0 - 04/03/2024 - Sprint 84
+* UE > Exibir faixa informativa quando houver novo mandato vigente.
+* UE > Exibir os membros na ata conforme a data de reunião informada.
+* UE > Exportar os dados da associação dos membros da última composição no mandato vigente e exibir a opção apenas na composição atual do mandato vigente.
+* UE > Exportar ficha cadastral do presidente indicado na última composição do mandato vigente e exibir a opção apenas na composição atual do mandato vigente.
+* UE/DRE > Incluir opção de regerar o relatório de apresentação após acertos quando houver falha na geração.
+* DRE > Criar nova seção de exibição das despesas de períodos anteriores no Acompanhamento de PC.
+* DRE > Incluir no filtro por termo a busca por código EOL no Acompanhamento de PC.
+* DRE/SME > Remover o parâmetro "Desconsiderar associações não iniciadas?" para que sejam desconsideradas as associações não iniciadas.
+* SME > Incluir no filtro por termo a busca por código EOL no Acompanhamento de PC.
+* TEC > Exibe mensagens específicas no login a depender da situação do usuário no CoreSSO.
+* TEC > Resolve warning templates.E003 após atualização do Django para a versão 4.2.
+* TEC > Substitui lib node-sass por sass.
+* TEC > Atualiza django para versão 4.2.10
+* TEC > Atualiza pacote Pillow para versão 10.2.0
+
 ### 8.19.0 - 19/02/2024 - Sprint 83
 * UE > Permite informar saída de mais de um membro na mesma data sem gerar novas composições.
 * SME > Permite incluir/editar períodos futuros de mandato.
