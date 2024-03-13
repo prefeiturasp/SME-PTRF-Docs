@@ -38,7 +38,8 @@ nav:
         - Hotfixes:
             - 'Back': projeto/hotfixes_back.md
             - 'Front': projeto/hotfixes_front.md
-
+        - Fluxos de desenvolvimento:
+            - 'Ambientes e repositórios': projeto/fluxos_desenvolvimento/ambientes_e_repositorios.md
 
 extra:
     social:
