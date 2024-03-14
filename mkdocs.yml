@@ -41,6 +41,7 @@ nav:
         - Fluxos de desenvolvimento:
             - 'Ambientes e repositórios': projeto/fluxos_desenvolvimento/ambientes_e_repositorios.md
             - 'Desenvolvimento da Sprint': projeto/fluxos_desenvolvimento/desenvolvimento_sprint.md
+            - 'Deploy da Sprint': projeto/fluxos_desenvolvimento/deploy_sprint.md
 
 extra:
     social:
