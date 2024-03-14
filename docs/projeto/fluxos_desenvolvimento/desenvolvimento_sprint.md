@@ -4,6 +4,8 @@ Durante essa fase é construída a próxima entrega, com as histórias e bugs qu
 Esse desenvolvimento é feito no repositório develop e replicados em homolog onde são feitos os testes de QA e a 
 homologação pelos POs.
 
+![worflow-develop-homolog.png](..%2F..%2Fimagens%2Fprojeto%2Ffluxos_desenvolvimento%2Fworflow-develop-homolog.png)
+
 ## Desenvolvimento Local
 As mudanças devem ser feitas em uma branch baseada em develop. Todo trabalho deve ficar restrito ao repositório local até que a solução esteja completa e funcionando.
 

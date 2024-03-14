@@ -2,6 +2,8 @@
 
 Essa é a fase que ocorre ao término da sprint, quando as histórias estão prontas para o deploy em produção. 
 
+![workflow-deploy.png](..%2F..%2Fimagens%2Fprojeto%2Ffluxos_desenvolvimento%2Fworkflow-deploy.png)
+
 ## Criação da Release
 A release é uma branch criada a partir de master que receberá todas as modificações referentes àquela sprint.
 
