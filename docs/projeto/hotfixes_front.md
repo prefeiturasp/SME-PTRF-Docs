@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 9.0.1 - 19/03/2024 - Sprint 85
+* (115827) - Corrige texto modal pendência de assinatura
+* (117419) - Corrige filtro PCs
+  
 ### 8.19.1 - 04/03/2024 - Sprint 84
 * (115567) - Corrige grupos de acesso SME
 
