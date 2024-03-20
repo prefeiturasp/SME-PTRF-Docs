@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.0.1 - 19/03/2024 - Sprint 85
+* (117155) - Corrige extração de dados saldos do período
+* (117469) - Corrige extração de dados contas
+
 ### 8.19.1 - 04/03/2024 - Sprint 84
 * (116161) - Corrige extração de dados
 
