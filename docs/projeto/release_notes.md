@@ -2,6 +2,19 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.2.0 - 03/04/2024 - Sprint 86
+* UE > Melhoria no formulário de atas de prestação de contas na indicação de ausência de membros
+* DRE > Processos SEI agora são associados a períodos de prestação de contas
+* DRE > Conferência de lançamentos não habilitam mais categorias de ajuste do tipo "exclusão"
+* DRE > Extração de dados de Prestações de Contas por DRE
+* SME > Extrações de dados: incluídas informações sobre a geração em várias extrações de dados
+* SME > Extrações de dados: incluída a coluna DRE em várias extrações de dados
+* ADM > Carga de repasses previstos passa a validar o período da carga
+* ADM > Carga de repasses realizados passa a validar o período da carga
+* GLO > Central de downloads passa a ter uma coluna de informações adicionais
+* TEC > Django atualizado para sua versão 4.2.11
+* GLO > 🐞 Correção de bugs.
+
 ### 9.1.0 - 20/03/2024 - Sprint 85
 * DRE > Exibir categorias e itens de acerto da Conciliação Bancária para despesas de períodos anteriores
 * DRE > Exibir acertos da seção de Despesas de períodos anteriores
