@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 9.2.1 - 08/04/2024 - Sprint 87
+* (119230) - Corrige incluir aba histórico de membros na permissão de Dados da Associação
+
 ### 9.0.1 - 19/03/2024 - Sprint 85
 * (115827) - Corrige texto modal pendência de assinatura
 * (117419) - Corrige filtro PCs
