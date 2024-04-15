@@ -1,5 +1,15 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.0.1 - 19/03/2024 - Sprint 85
+* (117155) - Corrige extração de dados saldos do período
+* (117469) - Corrige extração de dados contas
+
+### 8.19.1 - 04/03/2024 - Sprint 84
+* (116161) - Corrige extração de dados
+
+### 8.18.1 - 16/02/2024 - Sprint 83
+* (114145) - Corrige montagem de dados da exportação de status das prestações de contas
+
 ### 8.17.1 - 31/01/2024 - Sprint 82
 * (111237) - Corrige validação de data em cadastro de despesas
   

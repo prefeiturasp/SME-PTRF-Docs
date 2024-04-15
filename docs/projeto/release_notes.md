@@ -2,6 +2,73 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.2.0 - 03/04/2024 - Sprint 86
+* UE > Melhoria no formulário de atas de prestação de contas na indicação de ausência de membros
+* DRE > Processos SEI agora são associados a períodos de prestação de contas
+* DRE > Conferência de lançamentos não habilitam mais categorias de ajuste do tipo "exclusão"
+* DRE > Extração de dados de Prestações de Contas por DRE
+* SME > Extrações de dados: incluídas informações sobre a geração em várias extrações de dados
+* SME > Extrações de dados: incluída a coluna DRE em várias extrações de dados
+* ADM > Carga de repasses previstos passa a validar o período da carga
+* ADM > Carga de repasses realizados passa a validar o período da carga
+* GLO > Central de downloads passa a ter uma coluna de informações adicionais
+* TEC > Django atualizado para sua versão 4.2.11
+* GLO > 🐞 Correção de bugs.
+
+### 9.1.0 - 20/03/2024 - Sprint 85
+* DRE > Exibir categorias e itens de acerto da Conciliação Bancária para despesas de períodos anteriores
+* DRE > Exibir acertos da seção de Despesas de períodos anteriores
+* DRE > Incluir no Relatório de devoluções para acertos a seção Despesas de períodos anteriores (Prévia e Final)
+* UE > Criar seção Acertos nas despesas de períodos anteriores
+* UE > Incluir no Relatório de apresentação após acertos a seção Despesas de períodos anteriores (Prévia e Final)
+* UE > Incluir opção para não exibir na relação de bens despesas específicas do tipo capital
+* UE > Alterar a forma de fazer download do Demonstrativo Financeiro (final)
+* UE > Alterar a forma de fazer download da Relação de bens adquiridos ou produzidos (final)
+* UE > Atas da prestação de contas: Exibir marca d' água após geração da PC
+* DRE > Incluir opção de conclusão da PC como "reprovada" em caso de não apresentação
+* UE/DRE > Gerar notificação para a associação sobre a conclusão da PC como reprovada por não apresentação
+* UE > Verificar última composição do mandato vigente para permitir cadastro de usuário não servidor
+* Admin: Solicitações de Encerramento de Conta de Associação: Acrescentar filtro de pesquisa por DRE
+* Admin: Dados dos Demonstrativos Financeiros: Acrescentar filtro de pesquisa por DRE
+* Admin: Atas: Acrescentar filtro de pesquisa por DRE
+* Admin: Análises de contas de prestações de contas: Acrescentar filtro de pesquisa por DRE
+* Admin: Observações de análise de prestações de contas: Acrescentar filtro de pesquisa por DRE
+* Admin: Previsões de repasse: Acrescentar filtro de pesquisa por DRE e por tipo de conta
+* Admin: Solicitações de acertos em lançamentos: Acrescentar filtro de pesquisa por Período
+* Admin: Solicitações de acertos em documentos: Alterar o nome do filtro Referência
+* Admin: Participantes ata: Alterar o nome do filtro Referência
+* Admin: Despesas: Documentos comprobatórios das despesas: Acrescentar filtro de pesquisa por Período
+* Admin: DRE: Atribuições: Acrescentar filtros por período e DRE
+* Admin: DRE: Presentes das atas DRE: Acrescentar filtros por período e DRE
+* TEC > Monitoramento de atualizações de dependências
+* TEC > Atualização de versão - NodeJS 14.21.3 --> 15.14.0
+* TEC > Atualização de pacotes Python relacionados ao Celery
+* TEC >  Atualização de importações de factories
+  
+### 9.0.0 - 04/03/2024 - Sprint 84
+* UE > Exibir faixa informativa quando houver novo mandato vigente.
+* UE > Exibir os membros na ata conforme a data de reunião informada.
+* UE > Exportar os dados da associação dos membros da última composição no mandato vigente e exibir a opção apenas na composição atual do mandato vigente.
+* UE > Exportar ficha cadastral do presidente indicado na última composição do mandato vigente e exibir a opção apenas na composição atual do mandato vigente.
+* UE/DRE > Incluir opção de regerar o relatório de apresentação após acertos quando houver falha na geração.
+* DRE > Criar nova seção de exibição das despesas de períodos anteriores no Acompanhamento de PC.
+* DRE > Incluir no filtro por termo a busca por código EOL no Acompanhamento de PC.
+* DRE/SME > Remover o parâmetro "Desconsiderar associações não iniciadas?" para que sejam desconsideradas as associações não iniciadas.
+* SME > Incluir no filtro por termo a busca por código EOL no Acompanhamento de PC.
+* TEC > Exibe mensagens específicas no login a depender da situação do usuário no CoreSSO.
+* TEC > Resolve warning templates.E003 após atualização do Django para a versão 4.2.
+* TEC > Substitui lib node-sass por sass.
+* TEC > Atualiza django para versão 4.2.10
+* TEC > Atualiza pacote Pillow para versão 10.2.0
+
+### 8.19.0 - 19/02/2024 - Sprint 83
+* UE > Permite informar saída de mais de um membro na mesma data sem gerar novas composições.
+* SME > Permite incluir/editar períodos futuros de mandato.
+* SME > Inclusão de tag na consulta de usuários para indicar unidades que o acesso foi habilitado diretamente pela SME.
+* TEC > Implementa novo processo de logging ao processamento de PCs.
+* TEC > Atualiza django para versão 4.2.9
+* TEC > Substitui lib react-currency-input por react-currency-input-field
+
 ### 8.18.0 - 01/02/2024 - Sprint 82
 * DRE/SME > Inclui novo suporte as unidades com tela de login exclusiva e gerenciamento de unidades em suporte.
 * UE > Adiciona tags "Novo membro em" e "Substituído em" com informação de data após geração de nova composição. 
