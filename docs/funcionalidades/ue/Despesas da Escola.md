@@ -72,19 +72,19 @@ Ao fazer o cadastro de uma despesa deve ser considerado em qual ação a despesa
 |Material Complementar|Aquisição de material de consumo pedagógico, para uso coletivo, diferentes e/ou adicionais aos contidos nos Kits Pedagógicos, definidos em ato próprio e enviados anualmente às Unidades Educacionais.|
 |Recurso externo|Despesas que utilizam recursos financeiros externos ao programa PTRF.|
 
-**Lançamento de gastos não demonstrados ocorridos antes ou no período inicial da associação**
+## **Lançamento de gastos não demonstrados ocorridos antes ou no período inicial da associação** ##
 
 É permitido fazer o cadastro de uma despesa em uma data anterior ou igual à data final do período inicial (período de implantação) da Associação. Esse lançamento será exibido como uma despesa não demonstrada na conciliação bancária e nos relatórios e não influencia no saldo anterior dos períodos seguintes, uma vez que ele já foi considerado no saldo do período de implantação.  
 
-**Cadastro de despesa sem comprovação fiscal**
+## **Cadastro de despesa sem comprovação fiscal** ##
 
 É permitido fazer o cadastro de uma despesa sem comprovação fiscal. Nessa situação não é necessário informar os seguintes dados: CNPJ, Razão Social, "Tipo de documento", "Data do documento", "Número do documento", "Tipo de despesa de custeio" (para despesas classificadas como Custeio) e "Especificação do bem, material ou serviço". Se for uma despesa não reconhecida pela associação é necessário informar o Número do Boletim de Ocorrência.
 
-**Cadastro de despesas com pagamento antecipado**
+## **Cadastro de despesas com pagamento antecipado** ##
 
-É permitido fazer o cadastro de despesas com pagamento antecipado, nessa situação devem ser indicado o(s) motivo(s) do pagamento antecipado obrigatoriamente.
+É permitido fazer o cadastro de despesas com pagamento antecipado, nessa situação devem ser indicado o(s) motivo(s) do pagamento antecipado obrigatoriamente. Os motivos de pagamento antecipado são parametrizáveis.
 
-**Cadastro de despesa NFS-e com recolhimento de imposto**
+## **Cadastro de despesa NFS-e com recolhimento de imposto** ##
 
 O tipo de documento "NFS-e" permite informar se teve/terá retenção de imposto por parte da Associação. Ao confirmar a opção, são exibidos campos para preenchimento do imposto retido. É possível adicionar mais de um imposto retido, se for necessário.
 
@@ -92,11 +92,11 @@ Inclusão de imposto retido:
 
 ![Cadastro de Imposto retido](../../imagens/Associação/impostos.png)
 
-**Cadastro de estorno vinculado com a despesa**
+## **Cadastro de estorno vinculado com a despesa** ##
 
 O cadastro de estorno é permitido para despesas já cadastradas que possuam status de: Completo ou Rascunho e deve ser informada apenas a data que ocorreu o estorno. Qualquer que seja o motivo do estorno, este deve ser informado obrigatoriamente para o cadastro do estorno. Se houver um estorno cadastrado e se deseje acessar a partir da despesa, a opção disponível é Acessar estorno que permite efetuar a edição do estorno, caso necessário.
 
-**Cadastro de despesas com encerramento da associação**
+## **Cadastro de despesas com encerramento da associação** ##
 
 Quando houver o encerramento da associação não é permitido incluir ou editar despesas após a data de encerramento da associação. Nessa situação, se a Data do documento e a Data do pagamento informadas são datas posteriores a data de encerramento da associação não é permitido incluir ou editar a despesa. 
 
