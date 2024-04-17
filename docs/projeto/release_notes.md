@@ -2,6 +2,36 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.3.0 - 17/04/2024 - Sprint 87
+* UE > Histórico de Membros: Incluída verificação de permissão de edição e visualização
+* UE > Tratamento do legado de membros indicados para Presidente e Secretário nas Atas
+* UE > Implementa exclusão de Ata incompleta e aviso ao usuário
+* DRE > Processos SEI: tratamento do legado
+* DRE > Processo SEI: agora não permite duplicidade do número para o mesmo ano
+* DRE > Extração de dados Crédito da Unidades Educacionais: incluídas informações sobre geração e filtros
+* DRE > Extração de dados Saldo final do período: incluídas informações sobre geração e filtros
+* DRE > Extração de dados Prestação de Contas - Relação de bens: incluídas informações sobre geração e filtros
+* DRE > Extração de dados Prestação de Contas - Devolução ao tesouro: incluídas informações sobre geração e filtros
+* DRE > Extração de dados Repasses: incluídas informações sobre geração e filtros
+* SME > Extração de dados Repasses - Devolução ao tesouro: incluídas informações sobre geração, coluna DRE e filtros
+* SME > Parametrizações: Criar permissão de atualização das parametrizações
+* SME >  Parametrizações Associações: Incluída verificação de permissão de edição e visualização, mensagens de sucesso e melhoraria na performance
+* SME >  Parametrizações Ações das associações: Incluída verificação de permissão de edição e visualização, mensagens de sucesso e melhoraria na performance
+* SME >  Parametrizações Períodos: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Etiquetas/Tags: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Tipos de conta: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Períodos de mandato: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Motivos Rejeição (encerramento conta): Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Tipos de despesa de custeio: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Fornecedores: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Motivos de estorno: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Tipos de acertos Lançamentos: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Tipos de acertos Documentos: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* SME >  Parametrizações Textos do Fique de Olho: Incluída verificação de permissão de edição e visualização e mensagens de sucesso
+* TEC > Implementa atualização de versão - NodeJS 14.21.3 --> 16.14.0
+* TEC > Monitoramento de atualizações de dependências
+* GLO > 🐞 Correção de bugs.
+
 ### 9.2.0 - 03/04/2024 - Sprint 86
 * UE > Melhoria no formulário de atas de prestação de contas na indicação de ausência de membros
 * DRE > Processos SEI agora são associados a períodos de prestação de contas
