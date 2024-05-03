@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.3.2 - 30/03/2024 - Sprint 88
+* (120329) - Corrige o cadastro e edição dos tipos de créditos
+
+### 9.3.1 - 22/04/2024 - Sprint 88
+* (120372) - Corrige a persistência de dados do demonstrativo financeiro e a geração de PC
+
 ### 9.0.1 - 19/03/2024 - Sprint 85
 * (117155) - Corrige extração de dados saldos do período
 * (117469) - Corrige extração de dados contas
