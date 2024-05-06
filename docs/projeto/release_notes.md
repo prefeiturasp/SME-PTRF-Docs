@@ -2,6 +2,32 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.4.0 - 06/05/2024 - Sprint 88
+* DRE > Extração de dados: Inclui extração de Classificação das despesas
+* DRE > Extração de dados: Inclui extração de Demonstrativos
+* DRE > Extração de dados: Inclui extração de Atas
+* DRE > Processo SEI: Adiciona validação de unidade existente
+* SME > Parametrizações Ações/Vincular associações: Adiciona permissão de visualização e edição
+* SME > Parametrizações Ações/Unidades vinculadas: Adiciona permissão de visualização e edição
+* SME > Parametrizações Ações: Adiciona permissão de visualização e edição
+* SME > Parametrizações Usuários: Remove card
+* SME > Gestão de usuários: Inclui sessão de cargas de arquivos
+* DRE/SME > Extração de dados: Inclui extração de processo SEI
+* UE/DRE/SME > Gestãos de usuários: Adiciona permissão de visualização e edição
+* LOGIN > Adiciona validaçãode membros associação por histórico de membros
+* ADMIN > Gestãos de usuários: Adiciona script para validar acessos de usuários
+* ADMIN > Acesso concedido SME: Adiciona filtro de servidor
+* ADMIN > Usuários: Adiciona filtro de servidor
+* ADMIN > Falha na geração de PC: Adiciona filtro de eol
+* TEC > Implementa atualização de versão openpyxl
+* TEC > Implementa atualização de versão argon2-cffi
+* TEC > Implementa atualização de versão django-admin-rangefilter
+* TEC > Implementa atualização de versão django-cors-headers
+* TEC > Implementa atualização de versão django-crispy-forms 
+* TEC > Migra componente 'Ambientes' de JS para TS 
+* TEC > Monitoramento de atualizações de dependências
+* GLO > 🐞 Correção de bugs.
+
 ### 9.3.0 - 17/04/2024 - Sprint 87
 * UE > Histórico de Membros: Incluída verificação de permissão de edição e visualização
 * UE > Tratamento do legado de membros indicados para Presidente e Secretário nas Atas
