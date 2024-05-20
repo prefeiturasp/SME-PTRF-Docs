@@ -2,6 +2,24 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.5.0 - 20/05/2024 - Sprint 89
+* UE > Gastos da escola: Altera modal de estorno
+* DRE > Extração de dados: Inclui extração de documentos das despesas
+* DRE > Extração de dados: Inclui extração de dados das contas
+* SME > Parametrizações: Inclui card de repasses
+* SME > Parametrizações card de repasses: Inclui carga de repasses
+* SME > Parametrizações card de Especificações de Materiais e Serviços: Inclui controle de permissões
+* UE/DRE/SME > Central de Downloads: Altera modal de exclusão
+* TEC > Implementa atualização de versão django-environ
+* TEC > Implementa atualização de versão django-filter
+* TEC > Implementa atualização de versão django-model-utils
+* TEC > Implementa atualização de versão freezegun
+* TEC > Implementa atualização de versão react-query
+* TEC > Implementa atualização de versão react-query-devtools
+* TEC > Implementa atualização de versão axios
+* TEC > Monitoramento de atualizações de dependências
+* GLO > 🐞 Correção de bugs.
+
 ### 9.4.0 - 06/05/2024 - Sprint 88
 * DRE > Extração de dados: Inclui extração de Classificação das despesas
 * DRE > Extração de dados: Inclui extração de Demonstrativos
