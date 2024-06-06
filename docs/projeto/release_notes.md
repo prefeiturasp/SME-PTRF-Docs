@@ -2,6 +2,12 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.6.0 - 06/06/2024 - Sprint 90
+* UE > Despesas de períodos anteriores ao uso do sistema após conclusão da PC não são mais editáveis
+* DRE > Em rocessos SEI os campos Número do processo SEI e Períodos devem ser exibidos desabilitados quando em modo visualização
+* SME > Parametrizações: Repasses: Alterada a nomenclatura de repasse pendente para previsto
+* TEC > Resolvido warning receitas.TipoReceita.unidades: (fields.W340) null has no effect on ManyToManyField.
+  
 ### 9.5.0 - 20/05/2024 - Sprint 89
 * UE > Gastos da escola: Altera modal de estorno
 * DRE > Extração de dados: Inclui extração de documentos das despesas
