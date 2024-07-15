@@ -1,7 +1,7 @@
 # Hotfixes aplicados no Backend do projeto
 
 ### 9.6.2 - 15/07/24 - Sustentação
-* (122998): Remove regra em despesas de períodos anteriores
+* (122998) - Remove regra em despesas de períodos anteriores
 
 ### 9.3.2 - 30/03/2024 - Sprint 88
 * (120329) - Corrige o cadastro e edição dos tipos de créditos
