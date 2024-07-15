@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 9.6.2 - 15/07/2024 - Sustentação
+* (121675) - Corrige validação de despesas incompletas no cenário de acertos
+  
 ### 9.2.1 - 08/04/2024 - Sprint 87
 * (119230) - Corrige incluir aba histórico de membros na permissão de Dados da Associação
 
