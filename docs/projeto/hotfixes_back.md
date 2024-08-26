@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.6.3 - 26/08/24 - Sustentação
+
+* (123234) - Corrige filtro por data transação para rateios de períodos anteriores
+* (123089) - Corrige filtro de rateios de períodos anteriores em contas
+  
 ### 9.6.2 - 15/07/24 - Sustentação
 * (122998) - Remove regra em despesas de períodos anteriores
 
