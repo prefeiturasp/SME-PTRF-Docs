@@ -2,6 +2,17 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.8.0 - 05/02/2025 - Sprint 2
+
+* SME > Prestação de Contas: Relatório Consolidado das DREs: Conferência de documentos: Modal de visualização dos documentos
+* UE > Créditos da Escola: Guarda os filtros de pesquisa para retornar com a mesma exibição dos resultados
+* SME > Parametrizações do sistema: Despesas: Inclui card Tipos de Transação e exibe as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* SME > Parametrizações: Tipos de documento
+* SME > Parametrizações do sistema: Inclui card Motivos de devolução ao tesouro e exibe as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* SME > Parametrizações do sistema: Inclui card Motivos de pagamento antecipado e exibe as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* SME > Parametrizações do sistema: Inclui card Motivos de aprovação de PC com ressalvas e exibe as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* SME > Parametrizações do sistema: Contas das Associações
+  
 ### 9.7.0 - 15/01/2025 - Sprint 1
 * DRE/SME > Extração de dados: Inclui extração de Associações
 * DRE/SME > Extração de dados: Inclui extração de Unidades
