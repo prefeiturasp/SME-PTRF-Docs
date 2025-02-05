@@ -2,6 +2,10 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.7.0 - 15/01/2025 - Sprint 1
+* DRE/SME > Extração de dados: Inclui extração de Associações
+* DRE/SME > Extração de dados: Inclui extração de Unidades
+  
 ### 9.6.0 - 06/06/2024 - Sprint 90
 * UE > Despesas de períodos anteriores ao uso do sistema após conclusão da PC não são mais editáveis
 * DRE > Em rocessos SEI os campos Número do processo SEI e Períodos devem ser exibidos desabilitados quando em modo visualização
