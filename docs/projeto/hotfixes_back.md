@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.8.1 - 07/02/2025 - Sprint 02
+* (125101): Corrige regras para retorno da ação na ata de apresentação e no demonstrativo financeiro.
+* (125075): Corrige regra da ação admin "vincular pcs faltantes" no consolidado DRE.
+
 ### 9.6.3 - 26/08/24 - Sustentação
 
 * (123234) - Corrige filtro por data transação para rateios de períodos anteriores
