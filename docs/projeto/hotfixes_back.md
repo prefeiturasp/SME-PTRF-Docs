@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.8.3 - 13/02/2025 - Sprint 02
+* (124967): Corrige consulta de saldo no formulário de despesa.
+  
+### 9.8.2 - 13/02/2025 - Sprint 02
+* (125001): Corrige regra na importação de carga de repasses previstos
+
 ### 9.8.1 - 07/02/2025 - Sprint 02
 * (125101): Corrige regras para retorno da ação na ata de apresentação e no demonstrativo financeiro.
 * (125075): Corrige regra da ação admin "vincular pcs faltantes" no consolidado DRE.
