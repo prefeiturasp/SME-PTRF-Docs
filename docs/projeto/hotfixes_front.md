@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto 
 
+### 9.8.1 - 13/02/2025 - Sprint 02
+* (124967): Corrige validação de consulta de saldo no formulário de despesa
+
 ### 9.6.2 - 15/07/2024 - Sustentação
 * (121675) - Corrige validação de despesas incompletas no cenário de acertos
   
