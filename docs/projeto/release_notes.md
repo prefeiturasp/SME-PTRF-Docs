@@ -2,6 +2,13 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.9.0 - 18/02/25 -  Sprint 03
+
+* SME > Parametrizações do sistema: Ações das Associações: Carga de Ações de Associações
+* SME > Parametrizações: Repasses: Ordena a coluna de Período e inclui o EOL na pesquisa de unidade educacional na inclusão
+* SME > Parametrizações do sistema: Contas das Associações: Carga de Contas de Associações
+* SME > Parametrização: Etiquetas/Tags: Remove coluna UUID e altera modal de exclusão
+
 ### 9.8.0 - 05/02/2025 - Sprint 2
 
 * SME > Prestação de Contas: Relatório Consolidado das DREs: Conferência de documentos: Modal de visualização dos documentos
