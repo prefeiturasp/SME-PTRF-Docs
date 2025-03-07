@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.10.0 - 06/03/25 -  Sprint 04
+
+* SME > Parametrizações do sistema: Especificações de materiais e serviços
+* SME > Parametrizações: Textos do PAA
+* SME > Parametrizações: Correção de no filtro de pesquisa em cargas de arquivo
+* TEC > Atualização do plano de atualizações de Linguagem, Frameworks e bibliotecas do backend e frontend
+* TEC > Aumento da cobertura de testes do frontend
+* TEC > Melhoria de performance ao buscar Ações de associações
+
 ### 9.9.0 - 18/02/25 -  Sprint 03
 
 * SME > Parametrizações do sistema: Ações das Associações: Carga de Ações de Associações
