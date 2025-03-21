@@ -2,6 +2,14 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.11.0 - 20/03/25 - Sprint 05
+
+* SME > Admin: Arquivos de carga: Repasses previstos SME: Não permitir duplicação de valores nas cargas
+* SME > Parametrizações: Incluir card Tipos de Créditos e exibir as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* UE > PAA: Cria tela inicial para elaboração do PAA
+* UE > PAA: Elaborar PAA: Aba Receitas Previstas - Consultar Recursos
+* TEC > Aumento da cobertura de testes do frontend
+
 ### 9.10.0 - 06/03/25 -  Sprint 04
 
 * SME > Parametrizações do sistema: Especificações de materiais e serviços
