@@ -2,6 +2,13 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.12.0 - 02/04/25 - Sprint 06
+
+* UE > PAA: Levantamento de prioridades: Download do arquivo para levantamento das prioridades
+* UE > PAA: Elaborar PAA: Aba Receitas Previstas - Editar Recurso
+* SME > Parametrizações: Incluir card Ações PDDE e exibir as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* TEC > Aumento da cobertura de testes unitários (Front)
+
 ### 9.11.0 - 20/03/25 - Sprint 05
 
 * SME > Admin: Arquivos de carga: Repasses previstos SME: Não permitir duplicação de valores nas cargas
