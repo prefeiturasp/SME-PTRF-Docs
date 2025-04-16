@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.13.0 - 16/04/25 - Sprint 07
+
+* UE > PAA: Elaborar PAA: Aba Receitas Previstas: Incluir seção e permitir cadastro do detalhamento de recursos próprios
+* UE > PAA: Elaborar PAA: Aba Receitas Previstas: Incluir seção e permitir cadastro dos valores nas ações PDDE
+* SME > Parametrizações: Ações: Incluir campos de Custeio, Capital e Livre aplicação
+* TEC > Atualização Python e Django
+* TEC > Atualização Node v16.14 -> v22.13.1 LTS
+* TEC > Aumento da cobertura de testes unitários (Front)
+  
 ### 9.12.0 - 02/04/25 - Sprint 06
 
 * UE > PAA: Levantamento de prioridades: Download do arquivo para levantamento das prioridades
