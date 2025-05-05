@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.14.0 - 05/05/25 - Sprint 08
+
+* UE > PAA: Aba Receitas Previstas - Exibir o valor total dos recurso próprios na coluna Livre Aplicação
+* SME > Parametrizações: Incluir card Períodos do PAA e exibir as telas em modo visualização e/ou de edição conforme a permissão atribuída
+* TEC > Análise da aplicação: Atualização do readme
+* TEC > Atualização Back: Django restframework, admin-rangefilter e filter
+* TEC > Atualização Front: Atualizar react v18.2.0 -> v18.3.1
+* TEC > Aumento da cobertura de testes unitários (Front)
+
 ### 9.13.0 - 16/04/25 - Sprint 07
 
 * UE > PAA: Elaborar PAA: Aba Receitas Previstas: Incluir seção e permitir cadastro do detalhamento de recursos próprios
