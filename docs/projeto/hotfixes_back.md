@@ -1,6 +1,6 @@
 # Hotfixes aplicados no Backend do projeto
 
-### 9.14.1 - 13/05/2025 - Sprint 09
+### 9.14.1 - 13/05/2025 - Sprint 08
 * (128180): Implementa exportação de dados legado de membros APM.
   
 ### 9.8.3 - 13/02/2025 - Sprint 02
