@@ -2,6 +2,18 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.15.0 - 20/05/25 - Sprint 09
+
+* UE > PAA: Incluir equipe Pais, Responsáveis e Alunos no PDF
+* UE > PAA: Cadastro de novo modelo de PAA
+* UE > Situação patrimonial: Adição de bem produzido e selecionar as despesas
+* SME > Ações PDDE: Adição de validação na exclusão de programa
+* SME > Extração de dados: Membros da APM: Possibilitar extração sem os dados de histórico de membros
+* TEC > Atualização Front: Atualizar libs antd e formik
+* TEC > Atualização Back: Atualizar libs django-admin-interface, django-allauth, django-auditlog, django-compressor e rcssmin
+* TEC > Aumento da cobertura de testes unitários (Front)
+* TEC > Adição do pre-commit com flake8 no Back para melhoria de escrita de código
+
 ### 9.14.0 - 05/05/25 - Sprint 08
 
 * UE > PAA: Aba Receitas Previstas - Exibir o valor total dos recurso próprios na coluna Livre Aplicação
