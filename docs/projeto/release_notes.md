@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.16.0 - 03/06/25 - Sprint 10
+
+* UE > PAA: Relacionar receitas previstas com o PAA vigente
+* UE > Situação Patrimonial: Adicionar bem produzido: Passo 2: Informar valores utilizados
+* TEC > Cobertura de testes unitários Front
+* TEC > Atualização Front: Bibliotecas axios, date-fns e jwt-decode
+* TEC > Atualização Back: Bibliotecas: django-cors-headers, django-crispy-forms, django-waffle, drf-spectacular e Pytz
+* TEC > Análise da aplicação: Back: Criar arquivo Makefile com atalhos pra utilizar no projeto
+
 ### 9.15.0 - 20/05/25 - Sprint 09
 
 * UE > PAA: Incluir equipe Pais, Responsáveis e Alunos no PDF
