@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.17.0 - 016/06/25 - Sprint 11
+
+* UE > PAA: Elaborar PAA: Aba Receitas Previstas: Parar atualizações do saldo
+* UE > Situação Patrimonial: Adicionar bem produzido: Passo 3: Classificar o bem
+* TEC > Cobertura de testes unitários Front
+* TEC > Atualização Front: Bibliotecas de roteamento
+* TEC > Atualização Back: Bibliotecas Redis, elastic-apm, Psutil, Babel, Pillow
+* TEC > Análise da aplicação Back: Documentação de parâmetros de endpoints
+
 ### 9.16.0 - 03/06/25 - Sprint 10
 
 * UE > PAA: Relacionar receitas previstas com o PAA vigente
