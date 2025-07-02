@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.18.0 - 02/07/25 - Sprint 12
+
+* UE > Situação Patrimonial: Consultar Situação Patrimonial
+* UE > PAA: Aba Prioridades - Registro de prioridades (Ação: Adicionar prioridade)
+* DRE > Consolidado das PCs: Demonstrativo de Execução Físio-Financeira e Relatório consolidado da DRE
+* ADMIN > Alterar o sequencial das legendas dos app Core e permitir pesquisa por EOL em Processos de prestação de Contas
+* TEC > Documentação de parâmetros de endpoints
+* TEC > Atualização de Bibliotecas - sentry-sdk, Whitenoise, WeasyPrint, django-weasyprint, psycopg2-binary
+
 ### 9.17.0 - 016/06/25 - Sprint 11
 
 * UE > PAA: Elaborar PAA: Aba Receitas Previstas: Parar atualizações do saldo
