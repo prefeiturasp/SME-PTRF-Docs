@@ -2,6 +2,18 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.19.0 - 21/07/25 - Sprint 13
+
+* UE > Atualização da Logomarca: Login, Menu Lateral e Visão UE
+* UE > PAA: Elaborar PAA: Aba Prioridades: Registro de prioridades (Filtros e Tabela)
+* UE > Situação Patrimonial: Consultar Situação Patrimonial (Editar bem)
+* UE > Dados da associação: Alterar o campo CCM para permitir informar 12 dígitos
+* SME/DRE > Atualização da extração de dados: Despesas: Classificação das despesas
+* TEC > Finalização de atualização de bibliotecas: React-router-dom, redux e react-redux
+* TEC > Atualização Back: Bibliotecas • Werkzeug • django-coverage-plugin • django-debug-toolbar • django-extensions • Ipdb
+* TEC > Cobertura de testes unitários (Front)
+* Débito Técnico > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+  
 ### 9.18.0 - 02/07/25 - Sprint 12
 
 * UE > Situação Patrimonial: Consultar Situação Patrimonial
