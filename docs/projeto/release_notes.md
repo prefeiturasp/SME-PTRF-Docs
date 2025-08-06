@@ -2,6 +2,16 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.20.0 - 05/08/25 - Sprint 14
+
+* UE > Prestação de contas: Conciliação bancária: Fixar data e campos obrigatórios
+* UE >  Prestação de contas: Geração de documentos: Ativar a conferencia se todos os Dados da conciliação bancária estão preenchidos ao se clicar em “Concluir período” ou “Concluir acerto”
+* UE > Situação Patrimonial: Consultar Situação Patrimonial (Visualizar despesa)
+* UE > PAA: Elaborar PAA: Aba Prioridades: Registro de prioridades (Ação: Editar prioridade)
+* TEC > Atualização Back: Bibliotecas: factory-boy • pytest-factoryboy • Freezegun • model-bakery • pytest-django • pytest-sugar • Pytest
+* TEC > Atualização Front: Bibliotecas de UI e componentes
+* Débito Técnico > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+
 ### 9.19.0 - 21/07/25 - Sprint 13
 
 * UE > Atualização da Logomarca: Login, Menu Lateral e Visão UE
