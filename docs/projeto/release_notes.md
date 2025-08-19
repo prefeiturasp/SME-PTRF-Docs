@@ -2,6 +2,16 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.21.0 - 19/08/25 - Sprint 15
+
+* SME > Parametrizações: Ações PDDE: Incluir validação na exclusão de ação PDDE que verifica utilização no PAA
+* SME > Parametrizações: Períodos do PAA: Incluir validações de Edição e Exclusão de período do PAA
+* UE > PAA: Elaborar PAA: Aba Prioridades: Registro de prioridades (Ação: Duplicar prioridade)
+* UE > PAA: Elaborar PAA: Aba Prioridades: Registro de prioridades (Ação: Excluir prioridade individual e em lote)
+* SME/DRE > Extração de dados - Incluir extração de dados de Saldo Bancário
+* TEC > Atualização Back: bibliotecas
+* Débito Técnico > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+
 ### 9.20.0 - 05/08/25 - Sprint 14
 
 * UE > Prestação de contas: Conciliação bancária: Fixar data e campos obrigatórios
