@@ -4,14 +4,14 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
 ### 9.22.0 - 03/09/25 - Sprint 16
 
-UE > Situação Patrimonial: Exportar consulta de bens produzidos/adquiridos (Excel)
-UE > PAA: Incluir título do PAA utilizando a referência do PAA
-UE > PAA: Elaborar PAA: Aba Prioridades: Exibir resumo de recursos
-DRE > Acompanhamento de PC/Análise DRE: Validar encerramento da conta e alterar o tipo de acerto para saldo bancário da conta e a exibição nos relatórios de acerto
-SME/DRE > Extrações de dados: Remover filtros de período de criação
-TEC > Atualização Back: bibliotecas
-TEC > Atualização Front: bibliotecas auxiliares
-Débito Técnico > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+* UE > Situação Patrimonial: Exportar consulta de bens produzidos/adquiridos (Excel)
+* UE > PAA: Incluir título do PAA utilizando a referência do PAA
+* UE > PAA: Elaborar PAA: Aba Prioridades: Exibir resumo de recursos
+* DRE > Acompanhamento de PC/Análise DRE: Validar encerramento da conta e alterar o tipo de acerto para saldo bancário da conta e a exibição nos relatórios de acerto
+* SME/DRE > Extrações de dados: Remover filtros de período de criação
+* TEC > Atualização Back: bibliotecas
+* TEC > Atualização Front: bibliotecas auxiliares
+* Débito Técnico > Análise da aplicação: Back: Documentação de parâmetros de endpoints
 
 ### 9.21.0 - 19/08/25 - Sprint 15
 
