@@ -2,6 +2,17 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.23.0 - 17/09/25 - Sprint 17
+
+* UE >  PAA: Elaborar PAA: Aba Prioridades: Importar PAA anterior
+* UE > PAA: Aba Prioridades: Não permitir o cadastro de prioridade quando não houver receita disponível
+* DRE > Associações: Criar aba de Situação Patrimonial
+* UE/DRE > Acompanhamento de PC: PCs apresentadas após acertos: Não permitir receber PCs devolvidas após acerto sem ata de retificação e notificar a associação
+* SME > Parametrizações: PAA: Textos do PAA: Criar os textos parametrizáveis para a aba Relatórios
+* SME/DRE > Extrações: Incluir informações da solicitação na geração do arquivo
+* UE/DRE > Alterar permissões de Pode acessar das funcionalidades para desabilitar opções em tela
+* SIG-Escola > Menu com dica de tela
+
 ### 9.22.0 - 03/09/25 - Sprint 16
 
 * UE > Situação Patrimonial: Exportar consulta de bens produzidos/adquiridos (Excel)
