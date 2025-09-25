@@ -1,4 +1,11 @@
-# Hotfixes aplicados no Fontend do projeto 
+# Hotfixes aplicados no Fontend do projeto
+
+### 9.23.2 e 9.23.3 - 25/09/2025 - Sprint 18
+* (134733): Corrige bloqueio de recebimento de pc após acerto quando existe ajuste externo, solicitação de declaração ou acerto não realizado.
+
+### 9.23.1 - 22/09/2025 - Sprint 18
+* (134682): Adiciona permissão de editar dados de associação na funcionalidade de solicitar encerramento de conta.
+* (134692): Corrige tooltips prestação de contas.
 
 ### 9.8.1 - 13/02/2025 - Sprint 02
 * (124967): Corrige validação de consulta de saldo no formulário de despesa
