@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.23.1 e 9.23.2 e 9.23.3 - 25/09/2025 - Sprint 18
+* (134733): Corrige bloqueio de recebimento de pc após acerto quando existe ajuste externo, solicitação de declaração ou acerto não realizado.
+
 ### 9.14.1 - 13/05/2025 - Sprint 08
 * (128180): Implementa exportação de dados legado de membros APM.
   
