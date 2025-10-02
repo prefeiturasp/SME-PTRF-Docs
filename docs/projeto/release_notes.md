@@ -2,6 +2,18 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.24.0 - 02/10/25 - Sprint 18
+
+* SME/Admin > Parametrizações: Tipos de acertos em lançamentos/documentos: Incluir opção para indicar se o acerto pode alterar a conciliação bancária
+* DRE > Acompanhamento de PC: Incluir alerta sobre a inclusão de acertos que podem alterar a conciliação bancária e/ou envio do comprovante de saldo da conta
+* UE > Geração de documentos: Concluir acerto — validar se houve alteração no saldo bancário e não permitir a conclusão dos acertos.
+* UE > PAA: Aba prioridades: Permitir importação de apenas um PAA anterior e excluir prioridades importadas
+* UE > PAA: Aba Relatórios: Criar Plano Anual (Seção Introdução)
+* Central de Downloads: Alterar coluna de última atualização para data da solicitação e a opção de Visto não deve atualizar a hora
+* TEC > Atualização Front: Bibliotecas de testes e validação e formatação
+* TEC > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+* TEC > Cobertura adicional de testes unitários de frontend
+
 ### 9.23.0 - 17/09/25 - Sprint 17
 
 * UE >  PAA: Elaborar PAA: Aba Prioridades: Importar PAA anterior
