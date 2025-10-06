@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.24.1 - 06/10/2025 - Sprint 19
+* (135819): Adiciona ajuste no fluxo de modais em devolução de Prestação de Contas
+
 ### 9.23.2 e 9.23.3 - 25/09/2025 - Sprint 18
 * (134733): Corrige bloqueio de recebimento de pc após acerto quando existe ajuste externo, solicitação de declaração ou acerto não realizado.
 
