@@ -2,6 +2,16 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.25.0 - 21/10/25 - Sprint 19
+
+* SME > PAA: Parametrização Objetivos
+* SME > Parametrizações: PAA: Criar cadastro de atividades estatutárias
+* SME/Admin > Parametrizações: Tipos de despesa de custeio: Possibilitar seleção de unidades
+* UE > Situação Patrimonial: Ajustar ordenação, exibição das despesas e incluir alerta sobre classificação do bem
+* TEC > Atualização Front: Bibliotecas de drag and drop
+* TEC > Cobertura adicional de testes unitários de frontend
+* TEC > Documentação de parâmetros de endpoints
+
 ### 9.24.0 - 02/10/25 - Sprint 18
 
 * SME/Admin > Parametrizações: Tipos de acertos em lançamentos/documentos: Incluir opção para indicar se o acerto pode alterar a conciliação bancária
