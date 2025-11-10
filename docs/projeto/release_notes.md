@@ -2,6 +2,18 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.26.0 - 10/11/2025 - Sprint 20
+
+* SME/DRE > Análise das extrações de dados: Correção de quebra de linha em exportação Despesas: Documentos
+* DRE > Acompanhamento de PC: Solicitar inclusão de acerto no extrato bancário quando houver inclusão/exclusão de lançamento
+* DRE > Acompanhamento de PC: Solicitar inclusão de acerto no extrato bancário quando não houver Justificativa
+* UE > Gastos da Escola: Cadastro de estorno: Permitir selecionar Classificação do crédito no cadastro de estorno
+* SME > Parametrizações: PAA e Ações: Parametrizações de exibição de receitas previstas de ações PTRF no Plano Anual de Atividades
+* UE > PAA: Aba Relatórios: Criar Plano Anual (Seção Conclusão)
+* Admin > 15.0 - Arquivos Download: Incluir filtros Usuário e DRE do usuário
+* TEC > Atualização Front: Bibliotecas de edição de texto
+* DEB.TEC > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+
 ### 9.25.0 - 21/10/25 - Sprint 19
 
 * SME > PAA: Parametrização Objetivos
