@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.27.0 - 24/11/2025 - Sprint 21
+
+* UE > PAA: Aba Relatórios: Criar Plano Anual (Seção Objetivos)
+* UE > PAA: Aba Relatórios: Criar Plano Anual (Seção Componentes - Plano de aplicação e Plano orçamentário)
+* UE > PAA: Aba Relatórios: Criar Plano Anual (Seção Componentes - Atividades previstas)
+* UE > PAA: Aba Relatórios: Criar Edição da ata de apresentação do PAA
+* TEC > Atualização Front: Bibliotecas de tipagem e linting
+* TEC > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+  
 ### 9.26.0 - 10/11/2025 - Sprint 20
 
 * SME/DRE > Análise das extrações de dados: Correção de quebra de linha em exportação Despesas: Documentos
