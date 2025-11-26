@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.27.1 - 25/11/2025 - Sprint 22
+* (138594): Adiciona verificação de ata completa para legado
+* (137501): Adiciona retorno de composição ao selecionar data na ata mesmo quando existem múltiplas composições com a mesma data.
+
 ### 9.24.1 - 06/10/2025 - Sprint 19
 * (135819): Adiciona ajuste no fluxo de modais em devolução de Prestação de Contas
 
