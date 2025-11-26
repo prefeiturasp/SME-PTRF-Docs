@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.27.1 - 25/11/2025 - Sprint 22
+* (138594): Adiciona verificação de ata completa para legado
+* (137501): Adiciona retorno de composição ao selecionar data na ata mesmo quando existem múltiplas composições com a mesma data.
+
 ### 9.23.1 e 9.23.2 e 9.23.3 - 25/09/2025 - Sprint 18
 * (134733): Corrige bloqueio de recebimento de pc após acerto quando existe ajuste externo, solicitação de declaração ou acerto não realizado.
 
