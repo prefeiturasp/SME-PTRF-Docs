@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.28.1 - 08/12/2025 - Sprint 23
+* (137081): Corrige funcionamento de exclude despesa para checar saldos insuficientes
+
 ### 9.27.1 - 25/11/2025 - Sprint 22
 * (138594): Adiciona verificação de ata completa para legado
 * (137501): Adiciona retorno de composição ao selecionar data na ata mesmo quando existem múltiplas composições com a mesma data.
