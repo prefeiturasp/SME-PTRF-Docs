@@ -2,6 +2,14 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.29.0 - 16/12/2025 - Sprint 23
+
+* UE > PAA: Geração final da Ata de apresentação em PDF
+* UE > Geração de documentos: Ata de apresentação e ata de retificação: Incluir Professor Orientador do  Grêmio como participante
+* DRE > Acompanhamento de PC: Materiais de referência: Remover a validação de mesmo valor de saldo informado pela DRE e alterar a opção de excluir acerto
+* SME > Parametrizações: PAA: Períodos do PAA: Outros recursos: Habilitar Outros recursos
+* TEC > Análise da aplicação: Back: Documentação de parâmetros de endpoints
+
 ### 9.28.0 - 02/12/2025 - Sprint 22
 
 * UE > PAA: Aba Relatórios - Criar Visualização da ata de apresentação do PAA
