@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.29.1 - 29/12/2025 - Sprint 23
+* (138799): Ajusta a lógica de atribuição do campo valor_original em rateios do tipo CAPITAL. Foi identificado que o sistema atribuía ao primeiro rateio o valor total da despesa, o que é adequado para despesas de custeio, mas incorreto para capital, onde o valor correto deve ser calculado com base em quantidade × valor unitário.
+
 ### 9.27.1 - 25/11/2025 - Sprint 22
 * (137501): Adiciona retorno de composição ao selecionar data na ata mesmo quando existem múltiplas composições com a mesma data.
 
