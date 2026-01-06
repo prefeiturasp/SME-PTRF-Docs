@@ -2,6 +2,13 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.30.0 - 06/01/2026 - Sprint 24
+
+* SME > Parametrizações: PAA: Períodos do PAA: Outros recursos: Vincular unidades
+* SME > Parametrizações: PAA: Períodos do PAA: Outros recursos: Importar unidades
+* UE > PAA: Aba Receitas Previstas: Incluir Outros recursos
+* TEC > Cobertura de testes unitários
+
 ### 9.29.0 - 16/12/2025 - Sprint 23
 
 * UE > PAA: Geração final da Ata de apresentação em PDF
