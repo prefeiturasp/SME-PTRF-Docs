@@ -2,6 +2,17 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.31.0 - 20/01/2026 - Sprint 25
+
+* SME > Parametrizações: Atividades Estatutárias: Permitir ordenação das atividades estatutárias
+* UE > SME: Parametrizações: Períodos do PAA: Incluir opção para retornar o vínculo com todas as unidades
+* UE > PAA: Aba Prioridades: Incluir Outros recursos
+* UE > PAA: Aba Relatórios: Incluir Outros recursos
+* UE > PAA: Aba Relatórios: Exibir atividades conforme ordenação em Parametrizações: Atividades Estatutárias
+* TEC > Cobertura de testes unitários
+* UE > Correção: Gastos da escola, os filtros aplicados não está fazendo a soma corretamente.
+* UE > Correção: Novo PAA carregando as informações do recursos próprios.
+
 ### 9.30.0 - 06/01/2026 - Sprint 24
 
 * SME > Parametrizações: PAA: Períodos do PAA: Outros recursos: Vincular unidades
