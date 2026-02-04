@@ -2,6 +2,14 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.32.0 - 04/02/2026 - Sprint 26
+
+* UE > Geração de documentos: Atas de apresentação e retificação: Verificar o tipo da unidade educacional para incluir Professor Orientador.
+* SME > Parametrizações: Períodos do PAA: Validações do Período do PAA com Outros recursos.
+* UE > PAA: Receitas Previstas e Prioridades: Remover valor total da prioridade quando houver alteração da receita prevista ou cadastro de despesas.
+* UE > PAA: Incluir histórico das ações PTRF, PDDE e Outros recursos para exibir na retificação do PAA.
+* Correções bugs.
+
 ### 9.31.0 - 20/01/2026 - Sprint 25
 
 * SME > Parametrizações: Atividades Estatutárias: Permitir ordenação das atividades estatutárias
