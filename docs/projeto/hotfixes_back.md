@@ -1,5 +1,12 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.32.2 - 11/02/2026 - Sprint 27
+* (142789): Ajustada regra para considerar a existência de prestações anteriores apenas a partir da segunda prestação
+
+### 9.32.1 - 10/02/2026 - Sprint 27
+* (142626): Bloqueia conciliação/desconciliação de PC que já foi submetida para DRE
+* (143069): Ajusta valor do campo "Valor (devolução) para aparecer apenas no primeiro rateio de cada despesa 
+  
 ### 9.28.1 - 08/12/2025 - Sprint 23
 * (137081): Corrige funcionamento de exclude despesa para checar saldos insuficientes
 
