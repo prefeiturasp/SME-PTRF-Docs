@@ -2,6 +2,14 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.33.0 - 18/02/2026 - Sprint 27
+
+* UE > PAA: Ajustes gerais
+* UE > PAA: Incluir documento de estrutura na tela inicial do PAA
+* UE > PAA: Geração final do Plano Anual: Incluir validação de prioridades sem indicação de ação e/ou valor total
+* UE > PAA: Aba Relatórios: Plano Orçamentário: Não exibir receitas previstas(PTRF, PDDE e Outros Recursos) com saldo zerado no Plano Orçamentário
+* SME/DRE > Extrações de dados: Anonimizar o dado de CPF do Fornecedor nas extrações Despesas: Documentos, Despesas: Classificação das despesas e Prestações de contas: Devolução ao tesouro
+
 ### 9.32.0 - 04/02/2026 - Sprint 26
 
 * UE > Geração de documentos: Atas de apresentação e retificação: Verificar o tipo da unidade educacional para incluir Professor Orientador.
