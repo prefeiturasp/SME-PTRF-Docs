@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.33.1 - 23/02/2026 - Sprint 28
+* (143643): Remove a função de marcar o processamento do demonstrativo na geração de dados do demonstrativo financeiro na conclusão da PC.
+
 ### 9.32.2 - 11/02/2026 - Sprint 27
 * (142789): Ajustada regra para considerar a existência de prestações anteriores apenas a partir da segunda prestação
 
