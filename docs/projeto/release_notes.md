@@ -2,7 +2,7 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 9.34.0 - 03/03/2026 - Sprint 28
+### 9.34.0 - 05/03/2026 - Sprint 28
 
 * [UE] PAA: Incluir status "Gerado parcialmente" para validar ações PTRF e Outros recursos
 * [UE] PAA: PAA vigente e anteriores: Alterar tela de PAA vigente e anteriores para exibir quando houver PAA anterior ou PAA vigente
