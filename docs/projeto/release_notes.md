@@ -4,9 +4,11 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
 ### 9.34.0 - 05/03/2026 - Sprint 28
 
-* [UE] PAA: Incluir status "Gerado parcialmente" para validar ações PTRF e Outros recursos
-* [UE] PAA: PAA vigente e anteriores: Alterar tela de PAA vigente e anteriores para exibir quando houver PAA anterior ou PAA vigente
-* [UE] Gastos da Escola: Reforçar validação na criação de despesas/rateios
+* UE > PAA: Incluir status "Gerado parcialmente" para validar ações PTRF e Outros recursos
+* UE > PAA: PAA vigente e anteriores: Alterar tela de PAA vigente e anteriores para exibir quando houver PAA anterior ou PAA vigente
+* UE > Gastos da Escola: Reforçar validação na criação de despesas/rateios
+* UE > PAA: Validar tipos de aplicação para ações PTRF em Receitas Previstas
+* TEC > Cobertura de testes unitários
 
 ### 9.33.0 - 18/02/2026 - Sprint 27
 
