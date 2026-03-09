@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.34.1 - 09/03/2026 - Sprint 29
+* (144411): Ajusta a mensagem de modal quanto à limpeza de prioridades, para ciência do usuário, no ato do "descongelar" saldo de receitas previstas.
+
 ### 9.29.1 - 29/12/2025 - Sprint 23
 * (138799): Ajusta a lógica de atribuição do campo valor_original em rateios do tipo CAPITAL. Foi identificado que o sistema atribuía ao primeiro rateio o valor total da despesa, o que é adequado para despesas de custeio, mas incorreto para capital, onde o valor correto deve ser calculado com base em quantidade × valor unitário.
 
