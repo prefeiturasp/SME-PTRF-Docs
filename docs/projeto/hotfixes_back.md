@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.34.2 - 16/03/2026 - Sprint 29
+* (144480): Corrige a exibição de despesas para Recurso Próprio quando há prioridades cadastradas, no Plano Orçamentário e Documento PA.
+* (144480): Corrige a exibição de despesas para Ações PDDE quando a ação está parametrizada como "não aceita"(custeio/capital/livre). Dessa forma, considera-se que, mesmo a ação não aceitando valores, e, tendo saldo, pode haver despesas(prioridades) cadastradas.
+
 ### 9.34.1 - 09/03/2026 - Sprint 29
 * (144411): Corrige regra de validação de saldo negativo que aguardava variável de confirmação quando não há mais necessidade. A limpeza de prioridades deve ocorrer sem a confirmação prévia a partir das despesas.
 * (144411): Implementa validação ao descongelar o saldo (considerando que despesas podem ser criadas enquanto saldo congelado, impactando no saldo do resumo de prioridades se descongelado)
