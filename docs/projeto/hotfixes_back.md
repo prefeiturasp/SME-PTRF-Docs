@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.34.3 - 16/03/2026 - Sprint 29
+* (144808): A lógica foi ajustada para que os campos presidente_da_reuniao e secretario_da_reuniao sejam considerados quando a feature flag historico-de-membros estiver desativada, garantindo que o cálculo da propriedade completa utilize os campos corretos.
+
 ### 9.34.2 - 16/03/2026 - Sprint 29
 * (144480): Corrige a exibição de despesas para Recurso Próprio quando há prioridades cadastradas, no Plano Orçamentário e Documento PA.
 * (144480): Corrige a exibição de despesas para Ações PDDE quando a ação está parametrizada como "não aceita"(custeio/capital/livre). Dessa forma, considera-se que, mesmo a ação não aceitando valores, e, tendo saldo, pode haver despesas(prioridades) cadastradas.
