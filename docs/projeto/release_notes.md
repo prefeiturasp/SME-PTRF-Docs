@@ -2,6 +2,27 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.35.0 - 18/03/2026 - Sprint 29
+##### PTRF
+* 144794 [UE] PAA: Geração do Plano Anual Final: Validar uso total das receitas previstas
+* 136629 [SME/ADMIN]Parametrizações: Tipos de crédito: Exibir unidade vinculadas ao tipo de crédito quando houver restrição de unidades
+* 144076 [SME/ADMIN]Parametrizações: Tipos de despesa de custeio: Exibir unidade vinculadas ao tipo de despesa de custeio quando houver restrição de unidades
+* 139808 [ADMIN] Incluir filtro por nome da UE/EOL ou Recurso
+* 143883 [ADMIN] Vincular EOL de unidade desativada para a nova unidade CEMEI Dona Anita Costa
+* 139732 [TEC] Documentação de parâmetros de endpoints Swagger
+* 144525 [TEC] Cobertura de testes unitários
+
+##### PRÊMIO - Sprint 4
+* [Admin] - Criação de Feature Flags - premio-excelencia-prestacao-contas e premio-excelencia-processo-sei
+* [UE] - Prestação de contas - Conciliação Bancária - Agora a Conciliação Bancária leva em consideração o recurso selecionado
+* [UE] - Prestação de contas - Geração de Documentos - Agora a Geração de Documentos leva em consideração o recurso selecionado
+* [UE] - Prestação de contas - Análise DRE - Agora a Análise DRE leva em consideração o recurso selecionado
+* [DRE] - Associações - Processos SEI - Agora o usuário que tiver permissão de edição, pode vincular um processo SEI a um recurso previamente cadastrado.
+* [DRE/SME] - Extração de dados - Agora possui a coluna Recurso
+* [DRE] - Associações - Processos SEI - Agora exibe tabs de acordo com os recursos disponíveis para a unidade
+* [TEC] - Testes Unitários
+
+
 ### 9.34.0 - 05/03/2026 - Sprint 28
 
 * UE > PAA: Incluir status "Gerado parcialmente" para validar ações PTRF e Outros recursos
