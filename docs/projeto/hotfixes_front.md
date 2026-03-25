@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.35.1 - 25/03/2026 - Sprint 30
+* (145333): Corrige permissões de edição no módulo de PAA.
+* (144915): Ajusta limpeza de campos no formulário de despesa ao alterar entre CAPITAL e CUSTEIO.
+
 ### 9.34.1 - 09/03/2026 - Sprint 29
 * (144411): Ajusta a mensagem de modal quanto à limpeza de prioridades, para ciência do usuário, no ato do "descongelar" saldo de receitas previstas.
 
