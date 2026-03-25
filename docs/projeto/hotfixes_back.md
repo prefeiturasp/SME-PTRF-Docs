@@ -1,5 +1,9 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.35.1 - 25/03/2026 - Sprint 30
+* (145333): Corrige permissões de edição no módulo de PAA.
+* (144915): Ajusta limpeza de campos no formulário de despesa ao alterar entre CAPITAL e CUSTEIO.
+
 ### 9.34.3 - 16/03/2026 - Sprint 29
 * (144808): A lógica foi ajustada para que os campos presidente_da_reuniao e secretario_da_reuniao sejam considerados quando a feature flag historico-de-membros estiver desativada, garantindo que o cálculo da propriedade completa utilize os campos corretos.
 
