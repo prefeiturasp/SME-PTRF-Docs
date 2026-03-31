@@ -3,7 +3,7 @@
 ### 9.35.3 - 31/03/2026 - Sprint 30
 * (145837): Ajusta urls de solicitação de acertos de períodos anteriores, para apenas permitir acertos de conciliação.
 
-### 9.35.2 - 31/03/2026 - Sprint 30
+### 9.35.2 - 26/03/2026 - Sprint 30
 * (145696): Bloqueia botão gerar ata antes do PAA final ser gerado. Remove do localstorage dados do PAA ao trocar de unidade;
 * (145333): Adiciona permissão de edição no botão de iniciar PAA.
 
