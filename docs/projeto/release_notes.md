@@ -2,6 +2,25 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.36.0 - 06/04/2026 - Sprint 30
+##### PTRF
+* 143635 [SME/UE] Parametrizações PAA: Atividades estatutárias: Incluir opção para indicar se a atividade é do ano vigente ou do ano posterior
+* 144896 [SME] Parametrizações PAA: Textos do PAA - Incluir texto parametrizável para Atividades Estatutárias
+* 144895 [SME] Parametrizações PAA: Textos do PAA - Incluir texto parametrizável para Levantamento de Prioridades
+* 143028 [UE] Análise DRE: Acerto de Devolução ao tesouro - não permitir informar data futura
+* 144948 [UE] PAA: Receitas Previstas - Ações PTRF: Verificar o recurso associado para exibição das ações PTRF
+* 141338 [UE] PAA: Retificação - Recuperar receitas previstas das ações PTRF, PDDE e Outros recursos para utilização na Retificação
+* 138374 [UE] PAA: PAA vigente e anteriores - Retificação do PAA: Habilitar a opção Retificar PAA
+* 145632 [UE] PAA: Retificação - Ajustar a Aba Receitas Previstas para a retificação
+* 145182 [TEC] Análise da aplicação: Documentação de parâmetros de endpoints
+
+##### PRÊMIO - Sprint 5
+* 140716 [DRE/ADMIN] Acompanhamento de PC: Adaptação das Prestações de Contas ao Prêmio de Excelência e criação de feature flag premio-excelencia-acompanhamento-pc
+* 140717 [DRE] Consolidado de PCs: Adaptação do Consolidado de PCs ao Prêmio de Excelência
+* 146022 [DRE] Associações: Dados das contas: Visualização as contas das associações separadas por tipo de recurso
+* 145372 [TEC] Criação e execução de script para atualização do campo Período Inicial de Referência do recurso Prêmio de Excelência
+
+
 ### 9.35.0 - 18/03/2026 - Sprint 29
 ##### PTRF
 * 144794 [UE] PAA: Geração do Plano Anual Final: Validar uso total das receitas previstas
