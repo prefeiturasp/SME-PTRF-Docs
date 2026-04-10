@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.36.1 - 09/04/2026 - Sprint 31
+* (146476): adiciona data do periodo na geração da prévia da ata.
+
 ### 9.35.2 - 31/03/2026 - Sprint 30
 * (145837): Adiciona validação de solicitação de acertos de períodos anteriores, para apenas permitir acertos do tipo conciliação.
 
