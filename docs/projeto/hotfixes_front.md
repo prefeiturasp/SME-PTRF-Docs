@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.36.1 - 09/04/2026 - Sprint 31
+* (146476): ajusta data do periodo na prévia da ata.
+
 ### 9.35.3 - 31/03/2026 - Sprint 30
 * (145837): Ajusta urls de solicitação de acertos de períodos anteriores, para apenas permitir acertos de conciliação.
 
