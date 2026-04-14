@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.36.2 - 13/04/2026 - Sprint 31
+* (146592): Corrige lógica de verificação das ações de um programa para não inseri-lo na lista de programas PDDE caso não possua ações associadas.
+
 ### 9.36.1 - 09/04/2026 - Sprint 31
 * (146476): adiciona data do periodo na geração da prévia da ata.
 
