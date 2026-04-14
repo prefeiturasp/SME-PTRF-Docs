@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.36.3 - 14/04/2026 - Sprint 31
+* (146731): desabilita botão de gerar documento final do paa quando está em processo de geração, evitando duplicidades.
+  
 ### 9.36.2 - 13/04/2026 - Sprint 31
 * (146592): ajusta carregamento de recursos pdde via prop do paa.
 
