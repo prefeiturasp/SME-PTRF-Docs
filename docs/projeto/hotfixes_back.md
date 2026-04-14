@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.36.4 - 14/04/2026 - Sprint 31
+* (146724): atualiza cabeçalho com campo referencia invés de data final do Periodo no Documento do Paa.
+  
 ### 9.36.3 - 14/04/2026 - Sprint 31
 * (146731): Bloqueia gerar_documento caso já haja uma geração em processamento de DocumentoPaa.
   
