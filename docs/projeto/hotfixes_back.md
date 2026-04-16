@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.36.5 - 15/04/2026 - Sprint 31
+* (146913): ajusta documento PAA para fazer a quebra do blocos "sessões" entre páginas.
+  
 ### 9.36.4 - 14/04/2026 - Sprint 31
 * (146724): atualiza cabeçalho com campo referencia invés de data final do Periodo no Documento do Paa.
   
