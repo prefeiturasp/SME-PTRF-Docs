@@ -2,6 +2,26 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.37.0 - 16/04/2026 - Sprint 31
+#### PTRF
+* 145888 [UE] PAA: Retificação: Criar réplica e o controle de status da retificação
+* 145691 [UE] PAA: Retificação: Criar bloco da Retificação em PAA vigente e anteriores
+* 145615 [UE] Gastos da Escola: Incluir período da conciliação na etiqueta Conciliada em
+* 146277 [UE] Conciliação Bancária: Incluir período da conciliação na etiqueta Conciliada em
+* 146278 [DRE] Acompanhamento PC: Incluir período da conciliação na etiqueta Conciliada em
+* 146153 [TEC] Vulnerabilidades 001 e 004
+* 146230 [TEC] Análise da aplicação: Back: Documentação de parâmetros de endpoints
+* 146177 [TEC] Cobertura de testes unitários (59%)
+
+#### Prêmio - Sprint 6
+* 141181 [ADM] Recursos: Definir se o recurso deve exibir valores reprogramados - Parte 01
+* 144943 [LOGIN] Exibir tela de escolha uma única vez por sessão do usuário
+* 145068 [UE] Prestação de contas: Geração de documentos: Manter estado por recurso
+* 145947 [DRE] Consolidado de PCs: Retificação do Consolidado adaptar para o Prêmio
+* 145671 [UE/DRE] Dados da associação: Incluir informação do Recurso nos relatórios Ficha Cadastral e Dados da associação e no Histórico de Contas Encerradas
+* 146929 [BUG] Ata de Retificação da PC - Exibição do nome do recurso
+
+
 ### 9.36.0 - 06/04/2026 - Sprint 30
 ##### PTRF
 * 143635 [SME/UE] Parametrizações PAA: Atividades estatutárias: Incluir opção para indicar se a atividade é do ano vigente ou do ano posterior
