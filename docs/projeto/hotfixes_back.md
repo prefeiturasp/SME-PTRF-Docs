@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.37.1 - 22/04/2026 - Sprint 32
+- Corrige a exibição do botão de valores reprogramados independente da flag de Recursos habilitada
+- Corrige a exibição em tela do Recurso nas Atas de Parecer Técnico e de Apresentação
+- Corrige a exibição em PDF das datas com ano nas Atas de Parecer Técnico e de Apresentação
+
 ### 9.36.5 - 15/04/2026 - Sprint 31
 * (146913): ajusta documento PAA para fazer a quebra do blocos "sessões" entre páginas.
   
