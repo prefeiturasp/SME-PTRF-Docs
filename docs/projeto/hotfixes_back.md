@@ -1,6 +1,6 @@
 # Hotfixes aplicados no Backend do projeto
 
-### 9.37.2 - 23/04/2026 - Sprint 32
+### 9.37.2 - 22/04/2026 - Sprint 32
 - (146593): Adiciona uma validação na geração de prévia de relação bens para garantir consistência do fluxo: agora, quando já existe um documento final de relação de bens, o sistema bloqueia a criação de uma nova prévia caso não haja novos acertos (representados pelo status diferente de DEVOLVIDA). Com isso, evita-se a geração de prévias após a consolidação dos dados, impedindo inconsistências entre documento final e versões prévias.
 
 ### 9.37.1 - 22/04/2026 - Sprint 32
