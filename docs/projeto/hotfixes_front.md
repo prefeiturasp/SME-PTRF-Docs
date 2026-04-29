@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.37.1 - 28/04/2026 - Sprint 32
+* (147099): ajusta mensagens de resposta ao editar/criar recurso da aba receitas previstas do PAA.
+
 ### 9.36.3 - 14/04/2026 - Sprint 31
 * (146731): desabilita botão de gerar documento final do paa quando está em processo de geração, evitando duplicidades.
   
