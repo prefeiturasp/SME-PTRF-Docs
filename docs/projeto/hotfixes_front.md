@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.37.3 - 04/05/26 - Sprint 32
+* (147521): bloqueia botão Salvar no modal de ReceitaPrevistaPDDE.
+
+### 9.37.2 - 30/04/2026 - Sprint 32
+* (146815): Ajustes no fluxo/formulário de cadastro e edição de despesa.
+  
 ### 9.37.1 - 28/04/2026 - Sprint 32
 * (147099): ajusta mensagens de resposta ao editar/criar recurso da aba receitas previstas do PAA.
 
