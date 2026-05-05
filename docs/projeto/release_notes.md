@@ -2,6 +2,22 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.38.0 - 05/05/2026 - Sprint 32
+#### PTRF
+* 143915 [ADMIN/Parametrização] Carga de repasses previstos: Verificar status da PC do período para permitir o repasse
+* 136900 [DRE] PAA: Criar menu PAA para consulta dos PAAs das unidades educacionais
+* 146178 [TEC] Cobertura de testes unitários (front 60%, back: 76%)
+* 146805 [TEC] VULN-011 : Relatório de Vulnerabilidades: Implementar RECAPTCHA
+* 147100 [TEC] Análise da aplicação: Back: Documentação de parâmetros de endpoints
+
+#### Prêmio - Sprint 7
+* 146315 [ADM] Recursos: Definir parâmetros de conta e ações negativa por recurso
+* 141181 [ADM] Valores Reprogramados: Agora Valores Reprogramados são por Associação e Recurso do Período Inicial da Associação
+* 140950 [SME] Parametrizações - Períodos
+* 146625 [UE] Exibir modal e faixa informativa de devolução da PC por recurso
+* 146626 [UE/DRE/SME] Notificações: Exibir o recurso para identificar a origem das notificações
+* 147754 [BUG] Correção pelo Admin de "não aparece a conta de repasse em cadastro de crédito"
+
 ### 9.37.0 - 16/04/2026 - Sprint 31
 #### PTRF
 * 145888 [UE] PAA: Retificação: Criar réplica e o controle de status da retificação
