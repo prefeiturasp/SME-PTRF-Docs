@@ -1,13 +1,19 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.38.2 - 07/05/2026 - Sprint 32
+- (148087): corrige fluxo de adição/exclusão atividades estatutarias em PAA.
+
+### 9.38.1 - 07/05/2026 - Sprint 32
+- (148211): corrige a criação dos fechamentos apenas para as ações do recurso.
+
 ### 9.37.4 - 04/05/2026 - Sprint 32
-- (147521): adiciona validação para impedir duplicidade ao criar/editar ReceitaPrevistaPdde
+- (147521): adiciona validação para impedir duplicidade ao criar/editar ReceitaPrevistaPdde.
 
 ### 9.37.3 - 30/04/2026 - Sprint 32
-- (146815): Ajustes no fluxo/formulário de cadastro e edição de despesa.
+- (146815): ajustes no fluxo/formulário de cadastro e edição de despesa.
 
 ### 9.37.2 - 22/04/2026 - Sprint 32
-- (146593): Adiciona uma validação na geração de prévia de relação bens para garantir consistência do fluxo: agora, quando já existe um documento final de relação de bens, o sistema bloqueia a criação de uma nova prévia caso não haja novos acertos (representados pelo status diferente de DEVOLVIDA). Com isso, evita-se a geração de prévias após a consolidação dos dados, impedindo inconsistências entre documento final e versões prévias.
+- (146593): adiciona uma validação na geração de prévia de relação bens para garantir consistência do fluxo: agora, quando já existe um documento final de relação de bens, o sistema bloqueia a criação de uma nova prévia caso não haja novos acertos (representados pelo status diferente de DEVOLVIDA). Com isso, evita-se a geração de prévias após a consolidação dos dados, impedindo inconsistências entre documento final e versões prévias.
 
 ### 9.37.1 - 22/04/2026 - Sprint 32
 - Corrige a exibição do botão de valores reprogramados independente da flag de Recursos habilitada
