@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.38.1 - 07/05/26 - Sprint 32
+* (148087): melhora Toast ao adicionar/atualizar atividades estatutarias em PAA.
+  
 ### 9.37.3 - 04/05/26 - Sprint 32
 * (147521): bloqueia botão Salvar no modal de ReceitaPrevistaPDDE.
 
