@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.38.3 - 13/05/2026 - Sprint 32
+(148539): ajusta propriedade calculada completa da Ata de prestação de contas para considerar repasses apenas quando a PC estiva com status NAO_APRESENTADA.
+
 ### 9.38.2 - 07/05/2026 - Sprint 32
 - (148087): corrige fluxo de adição/exclusão atividades estatutarias em PAA.
 
