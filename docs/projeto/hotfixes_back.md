@@ -1,12 +1,15 @@
 # Hotfixes aplicados no Backend do projeto
 
-### 9.38.3 - 13/05/2026 - Sprint 32
-(148539): ajusta propriedade calculada completa da Ata de prestação de contas para considerar repasses apenas quando a PC estiva com status NAO_APRESENTADA.
+### 9.38.4 - 18/05/2026 - Sprint 33
+- (148542): ajusta geração documento PAA para obter_receitas_previstas filtro recurso legado.
 
-### 9.38.2 - 07/05/2026 - Sprint 32
+### 9.38.3 - 13/05/2026 - Sprint 33
+- (148539): ajusta propriedade calculada completa da Ata de prestação de contas para considerar repasses apenas quando a PC estiva com status NAO_APRESENTADA.
+
+### 9.38.2 - 07/05/2026 - Sprint 33
 - (148087): corrige fluxo de adição/exclusão atividades estatutarias em PAA.
 
-### 9.38.1 - 07/05/2026 - Sprint 32
+### 9.38.1 - 07/05/2026 - Sprint 33
 - (148211): corrige a criação dos fechamentos apenas para as ações do recurso.
 
 ### 9.37.4 - 04/05/2026 - Sprint 32
