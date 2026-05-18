@@ -1,6 +1,9 @@
 # Hotfixes aplicados no Fontend do projeto
 
-### 9.38.1 - 07/05/26 - Sprint 32
+### 9.38.2 - 18/05/26 - Sprint 33
+* (148542): ajusta ModalEdicaoReceitaPrevistaPdde para aplicar formatação de campos de valor considerando apenas flags booleanas de ativo e desconsiderando permissão de edição.
+
+### 9.38.1 - 07/05/26 - Sprint 33
 * (148087): melhora Toast ao adicionar/atualizar atividades estatutarias em PAA.
   
 ### 9.37.3 - 04/05/26 - Sprint 32
