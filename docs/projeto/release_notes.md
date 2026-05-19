@@ -12,7 +12,7 @@ Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 * 147199 [Admin] Vincular EOL de unidade desativada para a nova unidade CEMEI
 * 147156 [TEC] Cobertura de testes unitários
 
-### Prêmio - Sprint 8
+#### Prêmio - Sprint 8
 * 146624 [ADM] Recursos: Definir parâmetros de Conclusão da Análise de PC por recurso
 * 147125 [DRE] Acompanhamento de PC: Exibição do período inicial de referência
 * 145936 [SME] Parametrizações: Tipos de conta
