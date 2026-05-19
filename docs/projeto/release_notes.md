@@ -2,6 +2,25 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.39.0 - 19/05/2026 - Sprint 33
+#### PTRF
+* 145740 [UE] PAA: Retificação do PAA: Criar histórico das alterações realizadas (Receitas Previstas)
+* 146091 [UE] PAA: Retificação do PAA: Criar histórico das alterações realizadas (Atividades Previstas)
+* 136897 [UE] PAA:  Retificação do PAA: Ajustar a Aba Prioridades
+* 148599 [DRE] PAA: Ajustar filtros e tabela
+* 147067 [DRE] Consolidado das PCs: Lauda: Ajustar a lauda para o formato PDF
+* 147199 [Admin] Vincular EOL de unidade desativada para a nova unidade CEMEI
+* 147156 [TEC] Cobertura de testes unitários
+
+### Prêmio - Sprint 8
+* 146624 [ADM] Recursos: Definir parâmetros de Conclusão da Análise de PC por recurso
+* 147125 [DRE] Acompanhamento de PC: Exibição do período inicial de referência
+* 145936 [SME] Parametrizações: Tipos de conta
+* 140952 [SME] Prestação de contas: Acompanhamento de PCs: Períodos pro Recurso e não exibir o período inicial de referência
+* 146627 [SME] Parametrizações: Motivos de aprovação de PC com ressalvas: Incluir opção para definir o recurso
+* 146628 [SME] Parametrizações: Motivos de reprovação da PC
+* 148211 [TEC] Prestação de Contas Ações: Incluir separação por recurso nos fechamentos da PC
+
 ### 9.38.0 - 05/05/2026 - Sprint 32
 #### PTRF
 * 143915 [ADMIN/Parametrização] Carga de repasses previstos: Verificar status da PC do período para permitir o repasse
