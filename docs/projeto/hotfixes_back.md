@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.39.1 - 20/05/2026 - Sprint 34
+- (149224): ADMIN: Ajusta a estrutura de visualização dos dados no Django.
+
 ### 9.38.4 - 18/05/2026 - Sprint 33
 - (148542): ajusta geração documento PAA para obter_receitas_previstas filtro recurso legado.
 
