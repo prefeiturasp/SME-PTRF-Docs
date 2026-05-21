@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.39.2 - 21/05/2026 - Sprint 34
+- (149139): Adiciona validação de status no update da ata do PAA.
+
 ### 9.39.1 - 20/05/2026 - Sprint 34
 - (149224): ADMIN: Ajusta a estrutura de visualização dos dados no Django.
 
