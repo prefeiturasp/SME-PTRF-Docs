@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.32.3 - 26/05/2026 - Sprint 34
+
+- (149227): Bloqueia a alteração da ATA de Apresentação após recebimento da PC;
+- (149227): Bloqueia a geração final da ATA do PAA quando já existe uma prévia em andamento.
+
 ### 9.39.2 - 21/05/2026 - Sprint 34
 - (149139): Adiciona validação de status no update da ata do PAA.
 
