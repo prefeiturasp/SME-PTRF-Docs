@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.39.2 - 28/05/26 - Sprint 34
+* (149227): Corrige a visualização da ata de retificação para a unidade.
+
 ### 9.39.1 - 28/05/26 - Sprint 34
 * (148847): adiciona mensagem personalizada de erro ao criar/editar despesa em Gastos da Escola.
   
