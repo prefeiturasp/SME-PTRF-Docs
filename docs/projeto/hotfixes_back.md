@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.39.5 - 28/05/26 - Sprint 34
+- (149227): Corrige a visualização da ata de retificação para a unidade.
+
 ### 9.39.4 - 28/05/2026 - Sprint 34
 
 - (148847): complementa validações no cadastro de despesas.
