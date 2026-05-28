@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.39.1 - 28/05/26 - Sprint 34
+* (148847): adiciona mensagem personalizada de erro ao criar/editar despesa em Gastos da Escola.
+  
 ### 9.38.2 - 18/05/26 - Sprint 33
 * (148542): ajusta ModalEdicaoReceitaPrevistaPdde para aplicar formatação de campos de valor considerando apenas flags booleanas de ativo e desconsiderando permissão de edição.
 
