@@ -2,6 +2,27 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.40.0 - 02/05/26 
+#### PTRF (Sprint 34)
+* 146090 [UE] PAA: Retificação do PAA: Criar histórico das alterações realizadas (Prioridades)
+* 136898 [UE] PAA: Retificação do PAA: Ajustar a aba de Relatórios: Plano Anual
+* 139810 [UE] PAA: Retificação do PAA: Cancelar retificação
+* 145818 [DRE] PAA: Visualização dos documentos relacionados com os PAAs das unidades
+* 136899 [DRE] Acompanhamento de PC: PAA: Exibir o PAA para visualização no acompanhamento da PC
+* 148917 [ADMIN] Permissões: Ajustar a permissão Pode acessar o PAA
+* 149224 [ADMIN]: PAA: Ajustar estrutura de visualização dos dados no Django
+* 149005 [TEC] Cobertura de testes unitários
+
+#### Prêmio (Sprint 009)
+* 148843 [ADM] Recursos: Alterar nome do campo Exibir valores reprogramados
+* 148837 [SME] Parametrizações: Tipos de créditos: Separar por recurso
+* 148993 [SME] Parametrizações: Detalhes de tipos de receita: Separar por recurso
+* 149730 [SME] Parametrizações: Períodos: Alterar a exibição das abas dos recursos e filtros
+* 149736 [SME] Parametrizações: Motivos de reprovação: Alterar a exibição das abas dos recursos e filtros
+* 149731 [SME] Parametrizações: Tipos de conta: Alterar a exibição das abas dos recursos e filtros
+* 148911 [TEC] Estudo sobre não utilização de Livre Aplicação para recurso
+* 149024 [UE] Créditos da Escola: Exibir tipos de crédito e detalhes de tipo de receita conforme recurso
+
 ### 9.39.0 - 19/05/2026 - Sprint 33
 #### PTRF
 * 145740 [UE] PAA: Retificação do PAA: Criar histórico das alterações realizadas (Receitas Previstas)
