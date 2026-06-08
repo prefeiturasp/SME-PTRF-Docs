@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.40.1 - 08/06/26 - Sprint 35
+- (149284): Adiciona retry na edição da despesa + otimização na edição.
+
 ### 9.39.5 - 28/05/26 - Sprint 34
 - (149227): Corrige a visualização da ata de retificação para a unidade.
 
