@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.40.2 - 11/06/26 - Sprint 35
+- (149495): ajusta a edição de despesas para que, ao gerar uma despesa de imposto, ela herde corretamente o status de conciliação dos rateios da despesa de origem.
+
 ### 9.40.1 - 08/06/26 - Sprint 35
 - (149284): Adiciona retry na edição da despesa + otimização na edição.
 
