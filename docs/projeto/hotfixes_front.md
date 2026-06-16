@@ -1,5 +1,10 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.40.1 - 16/06/26 - Sprint 35
+
+* (150174): Adiciona permissão de edição para poder gerar a ata de retificação.
+* (149495): Adiciona logs despesa;
+
 ### 9.39.2 - 28/05/26 - Sprint 34
 * (149227): Corrige a visualização da ata de retificação para a unidade.
 
