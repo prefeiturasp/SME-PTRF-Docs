@@ -2,7 +2,25 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 9.40.0 - 02/05/26 
+### 9.41.0 - 18/06/26 
+#### PTRF (Sprint 35)
+* 145697 [UE] PAA: Retificação do PAA: Gerar Prévia e Final Plano Anual
+* 145698 [UE] PAA: Retificação do PAA: Ajustar a aba de Relatórios: Visualizar prévia da Ata de retificação do PAA
+* 145734 [UE] PAA: Retificação do PAA: Ajustar a aba de Relatórios: Edição da Ata de retificação do PAA
+* 145799 [UE/DRE/SME] Adequar campo CNPJ para formato 
+* 150081 [TEC] Cobertura de testes unitários
+
+#### Prêmio (Sprint 010)
+* 148834 [ADM] Parâmetros: Remover parâmetros de contas e ações
+* 148841 [ADM] Parâmetros DRE: Remover campos Tipo Conta um e Tipo Conta dois
+* 148840 [ADM] Associações: Remover o campo Status dos valores reprogramados
+* 143252 [SME] Parametrizações: Incluir card Comissões
+* 148835 [SME] Parametrizações: Ações das Associações: Separar por recurso
+* 149732 [SME] Parametrizações: Motivos de aprovação com ressalvas : Alterar a exibição das abas dos recursos e filtros
+* 149498 [TEC] Script/Migration para alterar o tipo de receita por recurso em registros existentes
+* 150007 [TEC] Análise da integração com a API do Banco do Brasil
+
+### 9.40.0 - 02/06/26 
 #### PTRF (Sprint 34)
 * 146090 [UE] PAA: Retificação do PAA: Criar histórico das alterações realizadas (Prioridades)
 * 136898 [UE] PAA: Retificação do PAA: Ajustar a aba de Relatórios: Plano Anual
