@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.41.1 - 22/06/26 - Sprint 36
+* (148912): Ajusta exibição do secretário na visualização da prévia da ata.
+
 ### 9.40.1 - 16/06/26 - Sprint 35
 
 * (150174): Adiciona permissão de edição para poder gerar a ata de retificação.
