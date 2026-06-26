@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.41.2 - 22/06/26 - Sprint 36
+* (148912): Ajusta exibição do secretário na ata do PAA gerada.
+  
 ### 9.41.1 - 22/06/26 - Sprint 36
 * (148912): Ajusta exibição do secretário na visualização da prévia da ata.
 
