@@ -1,10 +1,16 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.41.4 - 30/06/26 - Sprint 36
+* (151267): ajusta validação em despesa para que o valor original da despesa também tenha o valor de recursos próprios deduzido antes da validação de rateios.
+
+### 9.41.3 - 30/06/26 - Sprint 36
+* habilita a opção de marcar lançamento como atualizado ao editar despesa
+
 ### 9.41.2 - 25/06/26 - Sprint 36
-* (148912): Ajusta exibição do secretário na ata do PAA gerada.
+* (148912): ajusta exibição do secretário na ata do PAA gerada.
   
 ### 9.41.1 - 22/06/26 - Sprint 36
-* (148912): Ajusta exibição do secretário na visualização da prévia da ata.
+* (148912): ajusta exibição do secretário na visualização da prévia da ata.
 
 ### 9.40.2 - 11/06/26 - Sprint 35
 - (149495): ajusta a edição de despesas para que, ao gerar uma despesa de imposto, ela herde corretamente o status de conciliação dos rateios da despesa de origem.
