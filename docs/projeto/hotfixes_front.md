@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.41.2 - 01/07/26 - Sprint 36
+* (151060): Corrige a não disposição do Toast para mensagem de erros em edição da despesa quando se travata de retornos de erros do backend com a chave "rateios" por conta de uma regra legada especifica. A remoção da regra garante o toast de erro de forma centralizada pelo método getErrorMessage.
+  
 ### 9.41.1 - 22/06/26 - Sprint 36
 * (148912): Ajusta exibição do secretário na visualização da prévia da ata.
 
