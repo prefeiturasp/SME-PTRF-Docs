@@ -2,6 +2,25 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.42.0 - 02/07/26 
+#### PTRF (Sprint 36)
+* 145736 [UE] PAA: Retificação do PAA: Geração final da Ata de retificação
+* 150697 [UE] PAA: Retificação do PAA: Incluir validação ao realizar ações para verificar o status do PAA/Status dos documentos para evitar inconsistências
+* 151033 [TEC] Cobertura de testes unitários
+
+#### Prêmio (Sprint 011)
+* 150258 [ADM] Recursos: Incluir seção Selecionar se deve exibir o documento de Lauda
+* 150754 [DRE] Consolidado das PCs: Alterar a exibição quando não é necessário o documento de Lauda
+* 150828 [DRE] Acompanhamento de PCs: Alterar a exibição do nome de Publicação para Relatório
+* 150331 [DRE] Ocultar menu Apoio a Diretoria
+* 148836 [SME] Parametrizações: Contas das Associações: Separar por recurso
+* 148838 [SME] Parametrizações: Repasses: Separar por recurso
+* 151042 [TEC] Análise da integração com o Banco do Brasil em Produção
+* 151936 [UE] Geração de documentos: Relação de bens e Ata de apresentação e retificação: Alterar texto exibido nos documentos
+* 151459 [BUG] [DRE] Processos SEI de unidade não estão aparecendo
+* 151718 [BUG] [UE] Relação de bens - Ata final - Não exibe o recurso no cabeçalho
+* 151318 [BUG] [UE] PC gerada: tela de créditos - campo aberto
+
 ### 9.41.0 - 18/06/26 
 #### PTRF (Sprint 35)
 * 145697 [UE] PAA: Retificação do PAA: Gerar Prévia e Final Plano Anual
