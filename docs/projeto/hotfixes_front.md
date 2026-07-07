@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.42.1 - 06/07/26 - Sprint 37
+* (151057): remove sobreescrita indevida do campo retem_imposto ao executar validações do formik pela função validateFormDespesas ao editar despesa (Gastos da Escola/Análise DRE)
+
 ### 9.41.2 - 01/07/26 - Sprint 36
 * (151060): Corrige a não disposição do Toast para mensagem de erros em edição da despesa quando se travata de retornos de erros do backend com a chave "rateios" por conta de uma regra legada especifica. A remoção da regra garante o toast de erro de forma centralizada pelo método getErrorMessage.
   
