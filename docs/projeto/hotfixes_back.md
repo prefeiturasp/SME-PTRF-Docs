@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.42.1 - 14/07/26 - Sprint 37
+* (152946): Corrige DRE não consegue reabrir/devolver a PC.
+
 ### 9.41.4 - 30/06/26 - Sprint 36
 * (151267): ajusta validação em despesa para que o valor original da despesa também tenha o valor de recursos próprios deduzido antes da validação de rateios.
 
