@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.42.2 - 15/07/26 - Sprint 37
+* (152426): em Receitas Previstas/PAA, foi ajustada a obtenção dos saldos para considerar o estado de congelamento do PAA. Quando o PAA estiver congelado, passam a ser utilizados os valores congelados da ReceitaPrevistaPaa, inclusive quando forem iguais a zero. Caso contrário, são utilizados os saldos correntes.
+
 ### 9.42.1 - 06/07/26 - Sprint 37
 * (151057): remove sobreescrita indevida do campo retem_imposto ao executar validações do formik pela função validateFormDespesas ao editar despesa (Gastos da Escola/Análise DRE)
 
