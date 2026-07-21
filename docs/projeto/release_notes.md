@@ -2,6 +2,23 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.42.0 - 20/07/26 
+#### PTRF (Sprint 37)
+* 152189 [TEC] Reestruturação das validações dos fluxos de Despesas (Estrutura base)
+* 150465 [UE] Situação Patrimonial: Separar bens produzidos/adquiridos por recurso
+* 152264 [TEC] Cobertura de testes unitários
+* 152256 [TEC] Padronização da documentação de PEP
+
+#### Prêmio (Sprint 012)
+* 150333 [DRE] Consolidado das PCs: Ata de Parecer Técnico: Exibir comissão responsável pela análise da prestação de contas do recurso
+* 152091 [SME] Parametrizações: Tipos de acertos em documentos: Separar por recurso em abas
+* 152090 [SME] Parametrizações: Tipos de acertos em lançamentos: Separar por recurso em abas
+* 152091 [TEC] Script para tratar o legado de tipos de acertos em documentos
+* 152090 [TEC] Script para tratar o legado de tipos de acertos em lançamentos
+* 152946 [BUG] [DRE] Não consegue reabrir PC
+* 152935 [BUG] [UE] Aviso de saldo insuficiente na aplicação em cadastro de Despesa
+* 153167 [BUG] [UE] Despesa completa cadastrada como rascunho - Parte 01
+
 ### 9.42.0 - 02/07/26 
 #### PTRF (Sprint 36)
 * 145736 [UE] PAA: Retificação do PAA: Geração final da Ata de retificação
