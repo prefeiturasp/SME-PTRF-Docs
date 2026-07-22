@@ -6,6 +6,12 @@ No PTRF, elas são gerenciadas pela biblioteca **django-waffle**: as flags são 
 
 No backend, o código consulta a flag (por exemplo com `flag_is_active` ou `WaffleFlagMixin`); no frontend, o status é obtido na autenticação e verificado com `visoesService.featureFlagAtiva('nome-da-flag')`. Assim é possível liberar recursos gradualmente ou ocultá-los rapidamente em caso de problema.
 
+## Login
+
+### recaptcha
+
+Adiciona o recaptcha no login.
+
 ## PAA
 
 ### `paa`
@@ -15,3 +21,5 @@ Ativa o PAA no sistema.
 ### `informe-bloqueio-prioridades-paa`
 
 Aviso de bloqueio de saldo na tela de prioridades do PAA.
+
+
