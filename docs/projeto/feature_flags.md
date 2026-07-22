@@ -8,7 +8,7 @@ No backend, o código consulta a flag (por exemplo com `flag_is_active` ou `Waff
 
 ## Login
 
-### recaptcha
+### `recaptcha`
 
 Adiciona o recaptcha no login.
 
