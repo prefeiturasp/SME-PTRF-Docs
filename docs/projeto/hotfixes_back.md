@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.43.1 - 29/07/26 - Sprint 38
+* (153520): aplica paginação customizada padrão à ViewSet de Receitas para paginação assincrona de tela.
+
 ### 9.42.1 - 14/07/26 - Sprint 37
 * (152946): Corrige DRE não consegue reabrir/devolver a PC.
 
