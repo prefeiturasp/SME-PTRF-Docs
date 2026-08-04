@@ -2,7 +2,7 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 9.42.0 - 20/07/26 
+### 9.43.0 - 20/07/26 
 #### PTRF (Sprint 37)
 * 152189 [TEC] Reestruturação das validações dos fluxos de Despesas (Estrutura base)
 * 150465 [UE] Situação Patrimonial: Separar bens produzidos/adquiridos por recurso
