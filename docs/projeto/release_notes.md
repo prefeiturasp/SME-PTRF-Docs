@@ -2,6 +2,27 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.44.0 - 05/08/26
+#### PTRF (Sprint 38)
+* 152487 [Despesas] - Reestruturação das despesas - Organização das validações exclusivas da criação e da edição das despesas
+* 152184 [UE] PAA 2: Separação das Receitas Previstas em Abas no Plano Anual de Atividades
+* 150464 [UE] Situação Patrimonial: Excluir bem
+* 152185 [SME] Parametrizações: PAA 2: Textos do PAA: Incluir texto parametrizável para Prioridades
+* 152678 [TEC] Cobertura de testes unitários
+* 152677 [TEC] Padronização da documentação de PEP
+* 151118 [TEC] Alterar validade do token de autenticação
+
+#### Prêmio (Sprint 013)
+* 152879 [ADM] Arquivos de carga: Carga de Repasses Previstos SME - Diferenciar o recurso ao efetuar a carga
+* 152693 [DRE] Consolidado das PCs/Admin: Exibição das PCs aprovadas com ressalvas na ata de Parecer técnico conclusivo por recurso
+* 150259 [DRE] Consolidado das PCs/Admin: Exibição de texto parametrizável na ata de Parecer técnico conclusivo por recurso
+* 146314 [DRE] Consolidado das PCs: Demonstrativo de Execução Físico-Financeira: Exibir opção de Devolução ao tesouro apenas se houver categoria de acerto do tipo Devolução ao tesouro
+* 140953 [SME] Consulta de saldos bancários: Exibir período e conta conforme o recurso acessado
+* 152591 [SME] Parametrizações: Motivos de estorno: Separar por recurso
+* 152092 [SME/DRE/UE] Alterar o envio de e-mail por recurso das unidades e incluir o nome do recurso no e-mail
+* 152251 [UE] Gastos da Escola: Exibir modal da relação de bens de capital conforme o recurso
+* 153167 [BUG] [UE] Despesa completa cadastrada como rascunho não altera status
+
 ### 9.43.0 - 20/07/26 
 #### PTRF (Sprint 37)
 * 152189 [TEC] Reestruturação das validações dos fluxos de Despesas (Estrutura base)
