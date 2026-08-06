@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.44.1 - 06/08/26 - Sprint 39
+* (154332): Login: perda de acesso as unidades disponíveis
+
 ### 9.43.1 - 29/07/26 - Sprint 38
 * (153520): aplica paginação customizada padrão à ViewSet de Receitas para paginação assincrona de tela.
 
