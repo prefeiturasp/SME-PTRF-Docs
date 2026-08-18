@@ -2,6 +2,23 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.45.0 - 18/08/26
+#### PTRF (Sprint 39)
+* 154079 - Execução dos Testes da Reestruturação das Validações dos Fluxos de Despesas
+* 154100 - [UE] PAA: Retificação: Incluir versão da retificação no Plano Anual e na Ata
+* 152458 - [UE] PAA: Retificação-Elaboração: Alterar exibição das seções na atas de apresentação e retificação e incluir professor orientador do Grêmio
+* 153524 - [PAA] [UE] – inconsistência de informação ATA PAA retificação
+* 154145 - [TEC] Cobertura de testes unitários
+
+#### Prêmio (Sprint 14)
+* 150905 - [SME/DRE] Integrar Prêmio com a API Accountability do Banco do Brasil para extração de saldo
+* 154012 - [SME] Parametrizações: Exibir total de registros na consulta
+* 150755 - [SME] Relatórios Consolidados das DREs: Alterar a exibição dos relatórios consolidados quando não é necessário o documento de Lauda
+* 150753 - [SME] Parametrizações: Edição de texto: Textos Fique de Olho: Separar por recurso
+* 151566 - [SME] Parametrizações: Edição de texto: Textos Fique de Olho: Indicar os apontamentos dos textos por recurso
+* 151043 - [SME] Parametrizações: Etiquetas/Tags: Separar por recurso
+* 141035 - [SME] Parametrização: Associações
+
 ### 9.44.0 - 05/08/26
 #### PTRF (Sprint 38)
 * 152487 [Despesas] - Reestruturação das despesas - Organização das validações exclusivas da criação e da edição das despesas
