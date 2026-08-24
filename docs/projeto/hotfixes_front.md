@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.45.1 - 24/08/26 - Sprint 40
+* (155350): ajusta preenchimento do campo professor do grêmio e novo membro 
+
 ### 9.44.1 - 06/08/26 - Sprint 39
 * (154332): Login: perda de acesso as unidades disponíveis
 
