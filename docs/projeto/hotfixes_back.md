@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.45.1 - 24/08/26 - Sprint 40
+* (155350): adiciona action de pesquisa pelo RF do membro
+  
 ### 9.44.2 - 17/08/26 - Sprint 39
 * (153925): ajusta estratégia de cálculo de saldo em conta e ações do endpoint /verificar-saldos para obter valor real disponível, considerando apenas receitas do fechamento + recálculo das despesas.
 
