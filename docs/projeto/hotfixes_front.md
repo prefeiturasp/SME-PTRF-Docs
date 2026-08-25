@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.45.2 - 25/08/26 - Sprint 40
+* (155350): adiciona membro como presente ao adicionar um novo membro na Ata
+* 
 ### 9.45.1 - 24/08/26 - Sprint 40
 * (155350): ajusta preenchimento do campo professor do grêmio e novo membro 
 
