@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.45.2 - 31/08/26 - Sprint 40
+* (155471): Corrige nomenclatura quando há somente uma publicação/relatório única/único;
+
 ### 9.45.1 - 24/08/26 - Sprint 40
 * (155350): adiciona action de pesquisa pelo RF do membro
   
