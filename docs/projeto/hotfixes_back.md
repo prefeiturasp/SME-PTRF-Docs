@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.45.3 - 31/08/26 - Sprint 40
+* (155795): Corrige exibição de imposto inativo após ser excluído na despesa.
+
 ### 9.45.2 - 31/08/26 - Sprint 40
 * (155471): Corrige nomenclatura quando há somente uma publicação/relatório única/único;
 
