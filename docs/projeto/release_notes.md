@@ -2,6 +2,20 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 9.46.0 - 02/09/26
+#### PTRF (Sprint 40)
+* 155068 - [Despesas] Execução dos Testes Manuais pós reestruturação das validações dos fluxos de despesas
+* 151053 - [ADMIN] Criar novo modelo de Histórico de Membros para rastreamento de composições e alterações
+* 143636 - [DRE] Consolidado das PCs: Ata de apresentação do Parecer Técnico Conclusivo: Alteração de nomenclaturas na edição e visualização da ata
+* 155028 - [UE] Visualização e geração de documentos: Alterar nomenclatura para Diretoria Executiva e Conselho Fiscal
+* 154713 - [UE] PAA 2: Receitas Previstas: Alterar a opção de Parar atualização de saldo
+* 155053 - [TEC] Cobertura de testes unitários
+
+#### Prêmio (Sprint 15)
+* 145937 - [SME] Parametrizações - Ações (Consulta, Inclusão e Alteração)
+* 151567 - [SME] Parametrizações - Ações (Alterar ordenação)
+* 154817 - [BUG/DRE] Erro na nomenclatura da publicação única das PCs
+
 ### 9.45.0 - 18/08/26
 #### PTRF (Sprint 39)
 * 154079 - Execução dos Testes da Reestruturação das Validações dos Fluxos de Despesas
