@@ -5,7 +5,7 @@
 * Performance: Melhoria de performance aplicada à extração de dados de rateios.
 * Despesas: Impede retrieve/update/destroy de gasto de outra unidade.
 * Despesas: REG-070/071 associação imutável na edição e conta/ação da mesma associação.
-* 
+  
 ### 9.45.3 - 31/08/26 - Sprint 40
 * (155795): Corrige exibição de imposto inativo após ser excluído na despesa.
 
