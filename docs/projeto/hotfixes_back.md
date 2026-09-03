@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.46.1 - 03/09/2026 - Sprint 41
+* (154666): adiciona validações na action de salvar a composição do saldo bancário da conta.
+* Performance: Melhoria de performance aplicada à extração de dados de rateios.
+* Despesas: Impede retrieve/update/destroy de gasto de outra unidade.
+* Despesas: REG-070/071 associação imutável na edição e conta/ação da mesma associação.
+* 
 ### 9.45.3 - 31/08/26 - Sprint 40
 * (155795): Corrige exibição de imposto inativo após ser excluído na despesa.
 
