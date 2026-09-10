@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.46.3 - 10/09/2026 - Sprint 41
+* (156489): Adiciona validação para evitar chains duplicadas na conclusão de PC.
+
 ### 9.46.2 - 08/09/2026 - Sprint 41
 * (154666): corrige data extrato divergente
 * fix: Atualiza imagem python por recomendação da infra para python:3.12.9-bookworm
