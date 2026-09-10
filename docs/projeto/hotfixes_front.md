@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 9.46.2 - 10/09/2026 - Sprint 41
+(156489): Adiciona uma validação para bloquear o duplo clique no momento de concluir PC.
+
 ### 9.46.1 - 03/09/2026 - Sprint 41
 * (154666): adiciona validações na composição do saldo bancário da conta.
 * Despesas: Impede retrieve/update/destroy de gasto de outra unidade.
