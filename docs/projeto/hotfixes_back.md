@@ -1,5 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 9.46.5 - 15/09/2026 - Sprint 41
+* (156926): Corrige duplicidade no total devolução tesouro
+
+### 9.46.4 - 14/09/2026 - Sprint 41
+* (156580): Permite editar Ata de PC reaberta
+
 ### 9.46.3 - 10/09/2026 - Sprint 41
 * (156489): Adiciona validação para evitar chains duplicadas na conclusão de PC.
 
