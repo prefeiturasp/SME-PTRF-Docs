@@ -2,6 +2,29 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 10.0.0 - 17/09/26
+#### PTRF (Sprint 41)
+* 156035 - [UE] PAA vigente e anteriores: Retificação: Guardar data e horário dos documentos das retificações anteriores
+* 156036 - [UE] PAA vigente e anteriores: Retificação: Exibir data e horário de geração dos documentos nas versões anteriores do PAA
+* 156322 - [UE] PAA vigente e anteriores: Retificação: Incluir opção Cancelar retificação e exibir documentos pendentes de geração
+* 156037 - [UE/Admin] Histórico de Membros/Solicitações de migrações: Migrar a solicitação de membros para a nova estrutura de histórico de membros
+* 156034 - [SME] Parametrizações: Períodos de mandato: Vincular com o novo histórico de membros
+* 154873 - [UE] PAA 2: Prioridades: Incluir tag no Resumo e alterar a opção de Importar PAA
+* 152186 - [UE] PAA 2: Prioridades: Incluir campo Descrição e exibição de alerta do saldo
+* 154715 - [UE] PAA 2: Relatórios: Separar em uma nova seção as Atividades previstas
+* 154716 - [UE] PAA 2: Relatórios: Plano Anual: Incluir o campo Descrição no Plano de Aplicação(visualização)
+* 154717 - [UE] PAA 2: Relatórios: Plano Anual: Incluir o campo Descrição no Plano Anual(prévia e final)
+* 157017 - [SME/DRE] Extrações de dados: Melhoria de performance na extração de dados
+* 156388 - [TEC] Cobertura de testes unitários
+ 
+
+#### Prêmio (Sprint 16)
+* 156127 - [ADM] Recursos: Incluir parâmetro para indicar se o recurso tem saldo reprogramado
+* 156373 - [DRE] Associações: Situação Financeira: Não exibir o período de referência na lista de períodos
+* 155396 - [SME] Parametrizações: Tipos de conta: Incluir opção para indicar se o tipo da conta deve consultar via integração Banco do Brasil na extração de dados Dados das contas
+* 155398 - [SME] Parametrizações: Associações: Incluir ajuste de texto nas Parametrizações da Associações. Texto Valores reprogramados
+* 156304 - [UE/DRE] Alterar nomenclatura de Saldo reprogramado para Saldo
+
 ### 9.46.0 - 02/09/26
 #### PTRF (Sprint 40)
 * 155068 - [Despesas] Execução dos Testes Manuais pós reestruturação das validações dos fluxos de despesas
