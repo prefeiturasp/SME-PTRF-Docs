@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 10.0.1 - 21/09/2026 - Sprint 42
+* (156521): corrige falso positivo de duplicidade ao adicionar participantes sem identificação na ata.
+
 ### 9.46.3 - 14/09/2026 - Sprint 41
 * (156580): Apresenta erro ao editar Ata
 
