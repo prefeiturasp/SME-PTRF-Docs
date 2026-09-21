@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 10.0.1 - 21/09/2026 - Sprint 42
+* (156926): Ajusta o resumo de prioridades que tratava saldo congelado 0 como “não congelado” e somava o saldo atual à receita.
+
 ### 9.46.5 - 15/09/2026 - Sprint 41
 * (156926): Corrige duplicidade no total devolução tesouro
 
