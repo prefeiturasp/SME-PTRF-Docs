@@ -1,5 +1,7 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 10.0.3 - 22/09/2026 - Sprint 42
+(156497): ajusta a filtragem dos participantes da ata de parecer técnico conforme recurso.
 
 ### 10.0.2 - 21/09/2026 - Sprint 42
 * clean: Adiciona limpeza de logs em iterações loop das extrações de dados.
