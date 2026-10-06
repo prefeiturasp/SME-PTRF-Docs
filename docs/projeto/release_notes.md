@@ -2,7 +2,7 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 10.0.0 - 06/10/26
+### 10.1.0 - 06/10/26
 #### PTRF (Sprint 42)
 * 156829 - [UE] PAA: Atas de apresentação e retificação: Não permitir informar data futura para as atas
 * 146863 - [UE] Histórico de Membros: Editar membro para informar período final de ocupação considerando data de saída (D-1)
