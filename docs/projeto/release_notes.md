@@ -2,6 +2,21 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 10.0.0 - 06/10/26
+#### PTRF (Sprint 42)
+* 156829 - [UE] PAA: Atas de apresentação e retificação: Não permitir informar data futura para as atas
+* 146863 - [UE] Histórico de Membros: Editar membro para informar período final de ocupação considerando data de saída (D-1)
+* 146865 - [SME/UE] Parametrizações/Histórico de Membros: Incluir texto de orientação para Histórico de Membros
+* 145800 - [UE] Histórico de Membros: Edição da ata: Exibir cargos vagos na ata de apresentação/retificação da PC
+* 156803 - [UE] PAA 2: Receitas Previstas: Ações PDDE: Exibir programas e ações PDDE em estrutura hierárquica
+* 154714 - [UE] PAA 2: Relatórios: Incluir informação das atividades previstas nas modais de pendências e conclusão
+* 155343 - [UE] Conciliação Bancária: Exibir campo justificativa habilitado na devolução para acertos
+* 154866 - [DRE] Consolidado das PCs: Lauda de retificação: Alterar trecho da lauda
+* 154867 - [DRE] Acompanhamento de PCs: Alterar nomenclatura do status “Reprovada” para “Rejeitada” na Prestação de Contas
+* 157953 - [Associação] Dados da Associação: Membros: Exportar dados da associação (aba Membros)
+* 156995 - [TEC] Cobertura de testes unitários
+* 157006 - [TEC]Padronização da documentação de PEP
+
 ### 10.0.0 - 17/09/26
 #### PTRF (Sprint 41)
 * 156035 - [UE] PAA vigente e anteriores: Retificação: Guardar data e horário dos documentos das retificações anteriores
