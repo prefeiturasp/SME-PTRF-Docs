@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Fontend do projeto
 
+### 10.1.1 - 13/10/2026 - Sprint 43
+* (157962): corrige loading da tela de carregamento cota de acerto DRE
+  
 ### 10.0.2 - 23/09/2026 - Sprint 42
 * (157584): preserva recurso selecionado entre páginas relacionadas
 
