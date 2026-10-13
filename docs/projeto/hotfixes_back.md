@@ -1,7 +1,11 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 10.1.1 - 13/10/2026 - Sprint 43
+* (157962): adiciona carregamento da devolução ao tesouro quando não tem a solicitação de devolução ao tesouro
+* (158849): bloqueio prévia documento de relação de bens
+
 ### 10.0.3 - 22/09/2026 - Sprint 42
-(156497): ajusta a filtragem dos participantes da ata de parecer técnico conforme recurso.
+* (156497): ajusta a filtragem dos participantes da ata de parecer técnico conforme recurso.
 
 ### 10.0.2 - 21/09/2026 - Sprint 42
 * clean: Adiciona limpeza de logs em iterações loop das extrações de dados.
