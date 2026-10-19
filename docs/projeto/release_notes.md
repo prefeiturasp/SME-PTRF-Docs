@@ -2,6 +2,15 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 10.2.0 - 19/10/26
+#### PTRF (Sprint 43)
+* 158087 - [DRE] Acompanhamento de PC: Otimizar o carregamento e processamento da tabela de lançamentos (Parte 1)
+* 158062 - [UE] Histórico de Membros: Alterar exibição no modo Timeline
+* 158077 - [UE] Histórico de Membros: Alterar exibição no modo Tabela para incluir coluna de RF
+* 157954 - [Associação] Dados da Associação: Membros: Exportar ficha cadastral com dados anonimizados e criar permissão para acesso à ficha
+* 135343 - [UE] Situação Patrimonial: Geração de documentos: Alterar Relação de bens para incluir bens produzidos da Situação Patrimonial (Prévia e documento final)
+* 158373 - [UE] Situação Patrimonial: Não permitir editar os bens produzidos após geração da PC
+
 ### 10.1.0 - 06/10/26
 #### PTRF (Sprint 42)
 * 156829 - [UE] PAA: Atas de apresentação e retificação: Não permitir informar data futura para as atas
