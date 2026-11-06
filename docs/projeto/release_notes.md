@@ -2,6 +2,18 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 1032.0 - 06/11/26
+#### PTRF (Sprint 44)
+* 159389 - [Login] Exibir pop-up informativo sobre alerta para presidentes em remoção
+* 159420 - [E-mail] Enviar e-mail sobre presidentes em remoção
+* 159385 - [SME/DRE] Extrações de dados: Créditos das Unidades Educacionais no período: Incluir coluna período de lançamento
+* 159379 - [SME/DRE] Extrações de dados: Despesas: Classificação das despesas: Incluir coluna período de lançamento
+* 152457 - [UE] PAA: Ata de apresentação e Retificação: Alterar trecho da ata
+* 158363 - [UE] Histórico de Membros: Edição da ata: Exibir cargos vagos na ata de apresentação/retificação da PC
+* 158974 - [UE] Histórico de Membros: Atualizar as atas da PC ao realizar alterações na lista de membros
+* 158976 - [UE] Histórico de Membros: Atualizar as atas do PAA ao realizar alterações na lista de membros
+* 160416 - [TEC] Cobertura de testes unitários
+
 ### 10.2.0 - 19/10/26
 #### PTRF (Sprint 43)
 * 158087 - [DRE] Acompanhamento de PC: Otimizar o carregamento e processamento da tabela de lançamentos (Parte 1)
