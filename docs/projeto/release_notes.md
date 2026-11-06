@@ -2,7 +2,7 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
-### 1032.0 - 06/11/26
+### 10.3.0 - 06/11/26
 #### PTRF (Sprint 44)
 * 159389 - [Login] Exibir pop-up informativo sobre alerta para presidentes em remoção
 * 159420 - [E-mail] Enviar e-mail sobre presidentes em remoção
