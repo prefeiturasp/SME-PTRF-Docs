@@ -1,5 +1,8 @@
 # Hotfixes aplicados no Backend do projeto
 
+### 10.3.1 - 11/11/2026 - Sprint 45
+* (161386): aplica tratamento da classe RabbitMQHandler para exceções durante a publicação dos logs, evitando sua propagação para a aplicação.
+
 ### 10.1.1 - 13/10/2026 - Sprint 43
 * (157962): adiciona carregamento da devolução ao tesouro quando não tem a solicitação de devolução ao tesouro
 * (158849): bloqueio prévia documento de relação de bens
