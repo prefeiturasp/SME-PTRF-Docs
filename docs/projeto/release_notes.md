@@ -2,6 +2,21 @@
 
 Aplicação *SIG.Escola* da Secretaria de Educação da cidade de São Paulo.
 
+### 10.4.0 - 18/11/26
+#### PTRF (Sprint 45)
+* 160299 - [UE] PAA: Elaboração: Criar estrutura para permitir elaboração de PAA próxima vigência (Parte 1)
+* 159198 - [DRE] Plano Anual de Atividades: Incluir status de Retificado
+* 159094 - [UE] Geração de documentos: Atas: Incluir alerta na geração da PC quando houver alterações no histórico
+* 158375 - [DRE] Acompanhamento de PC: Incluir seção de Situação Patrimonial no Acompanhamento de Prestação de Contas
+* 158377 - [SME] Parametrizações: Ações PDDE: Separar o cadastro de Ações PDDE e Programas em abas distintas
+* 158064 - [UE] Histórico de Membros: Geração de documentos: Alterar modal de assinaturas para incluir opção de selecionar o conselheiro e indicar ausência do presidente
+* 158148 - [UE] Histórico de Membros: Geração de documentos: Geração de Documentos da Prestação de Contas com indicação de ausência do presidente e seleção do conselheiro
+* 159518 - [DRE] Acompanhamento de PCs: Otimizar performance dos cards do Acompanhamento de PC
+* 160386 - [DRE/SME] Extrações de dados: Prestações de contas: Demonstrativos: Exibir casas decimais na coluna Saldo bancário
+* 161046 - [SME/DRE] Extrações de dados: Repasses: Incluir coluna com data de realização do repasse
+* 161042 - [SME/DRE] Extrações de dados: Unidades: Excluir a coluna N(Sigla DRE)
+* 160865 - [TEC] Cobertura de testes unitários
+
 ### 10.3.0 - 06/11/26
 #### PTRF (Sprint 44)
 * 159389 - [Login] Exibir pop-up informativo sobre alerta para presidentes em remoção
